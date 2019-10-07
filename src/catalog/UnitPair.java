@@ -1,13 +1,10 @@
 package catalog;
 
-import java.util.ArrayList;
-import java.util.Collection;
-
 import org.apache.commons.collections4.map.MultiValueMap;
 import org.apache.commons.lang3.NotImplementedException;
 
-import catalog.Unit;
-import catalog.UnitPair.OpType;
+import java.util.ArrayList;
+import java.util.Collection;
 
 /* sunita: Oct 2, 2012 */
 public class UnitPair extends Unit {

@@ -1,39 +1,22 @@
 package parser;
 
-import java.io.File;
-import java.io.IOException;
-import java.io.PrintStream;
-import java.io.Serializable;
-import java.util.Arrays;
-import java.util.Collection;
-import java.util.HashSet;
-import java.util.Iterator;
-import java.util.List;
-import java.util.Vector;
-
-import javax.xml.parsers.ParserConfigurationException;
-
-import org.w3c.dom.Element;
-import org.xml.sax.SAXException;
-
-import catalog.Co_occurrenceStatistics;
 import catalog.Quantity;
 import catalog.QuantityCatalog;
-import catalog.QuantityReader;
 import catalog.Unit;
 import catalog.UnitMultPair;
-import parser.CFGParser4Header;
+import gnu.trove.map.hash.TObjectIntHashMap;
+import iitb.shared.EntryWithScore;
+import iitb.shared.SignatureSetIndex.DocResult;
+import org.w3c.dom.Element;
 import parser.coOccurMethods.ConceptClassifier;
 import parser.coOccurMethods.ConceptTypeScores;
-import parser.coOccurMethods.ConceptTypeScores.ConceptClassifierTypes;
-import edu.stanford.nlp.util.IntPair;
 
-import gnu.trove.map.hash.TObjectIntHashMap;
-
-import iitb.shared.ArrayAsList;
-import iitb.shared.EntryWithScore;
-import iitb.shared.Timer;
-import iitb.shared.SignatureSetIndex.DocResult;
+import java.io.IOException;
+import java.io.Serializable;
+import java.util.Arrays;
+import java.util.HashSet;
+import java.util.List;
+import java.util.Vector;
 
 public class SimpleParser implements HeaderUnitParser, ConceptTypeScores, Serializable {
 	private static final float Unit1Score = 0.5f;

@@ -1,14 +1,12 @@
 package eval;
 
-import iitb.shared.EntryWithScore;
-
-import java.util.List;
-
-import parser.UnitSpan;
-
 import catalog.Unit;
 import catalog.UnitPair;
 import catalog.UnitPair.OpType;
+import iitb.shared.EntryWithScore;
+import parser.UnitSpan;
+
+import java.util.List;
 
 public class Utils {
 	public static int unitsMatchedIndex(String trueUnits,

@@ -1,37 +1,24 @@
 package catalog;
 
-import edu.stanford.nlp.io.EncodingPrintWriter.out;
 import edu.stanford.nlp.util.Pair;
 import gnu.trove.iterator.TObjectIntIterator;
 import gnu.trove.map.hash.TObjectIntHashMap;
 import iitb.shared.EntryWithScore;
-import iitb.shared.StringIntPair;
-import iitb.shared.XMLConfigs;
 import iitb.shared.SignatureSetIndex.DocResult;
-
-import java.io.BufferedReader;
-import java.io.File;
-import java.io.FileReader;
-import java.io.IOException;
-import java.io.PrintStream;
-import java.util.Arrays;
-import java.util.BitSet;
-import java.util.Comparator;
-import java.util.HashSet;
-import java.util.Hashtable;
-import java.util.List;
-import java.util.Vector;
-
-import javax.xml.parsers.ParserConfigurationException;
-
+import iitb.shared.XMLConfigs;
 import org.w3c.dom.Element;
 import org.w3c.dom.NodeList;
 import org.xml.sax.SAXException;
-
 import parser.ParseState;
 import parser.RuleBasedParser;
 import parser.UnitSpan;
 import parser.coOccurMethods.ConceptTypeScores;
+
+import javax.xml.parsers.ParserConfigurationException;
+import java.io.*;
+import java.util.Arrays;
+import java.util.List;
+import java.util.Vector;
 
 public class Co_occurrenceStatistics {
 	public static final String CoOccurFilePath = "configs/cooccurrence.txt";

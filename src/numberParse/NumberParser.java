@@ -1,16 +1,11 @@
 package numberParse;
 
 import gnu.trove.list.array.TByteArrayList;
-import gnu.trove.list.array.TFloatArrayList;
 import gnu.trove.list.array.TIntArrayList;
 
 import java.text.NumberFormat;
 import java.text.ParsePosition;
-import java.util.Arrays;
-import java.util.List;
-import java.util.Locale;
-import java.util.Scanner;
-import java.util.Vector;
+import java.util.*;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 

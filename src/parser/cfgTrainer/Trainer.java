@@ -1,30 +1,9 @@
 package parser.cfgTrainer;
 
-import iitb.shared.EntryWithScore;
-import iitb.shared.XMLConfigs;
-
-import java.io.FileReader;
-import java.io.IOException;
-import java.util.Arrays;
-import java.util.HashSet;
-import java.util.List;
-import java.util.Properties;
-import java.util.Vector;
-
-import javax.xml.parsers.ParserConfigurationException;
-
-import org.w3c.dom.Element;
-import org.w3c.dom.NodeList;
-import org.xml.sax.SAXException;
-
-import parser.CFGParser4Header;
-import parser.HeaderUnitParser;
-import parser.RuleBasedParser;
-import parser.UnitFeatures;
-import parser.UnitSpan;
-import catalog.QuantityCatalog;
 import catalog.Unit;
-import eval.Test;
+import iitb.shared.EntryWithScore;
+
+import java.util.List;
 
 
 public class Trainer {

@@ -2,45 +2,19 @@ package catalog;
 
 import gnu.trove.list.array.TByteArrayList;
 import gnu.trove.list.array.TIntArrayList;
-
 import iitb.shared.EntryWithScore;
-import iitb.shared.SignatureSetIndex.DocResult;
-import iitb.shared.SignatureSetIndex.Index;
-import iitb.shared.SignatureSetIndex.IndexImpl;
-import iitb.shared.SignatureSetIndex.Result;
-import iitb.shared.SignatureSetIndex.SignatureSetImpl;
-
-import java.io.File;
-import java.io.FileInputStream;
-import java.io.FileNotFoundException;
-import java.io.FileReader;
-import java.io.IOException;
-import java.io.InputStream;
-import java.io.Serializable;
-import java.io.StringReader;
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.Collection;
-import java.util.Collections;
-import java.util.HashMap;
-import java.util.HashSet;
-import java.util.Iterator;
-import java.util.List;
-import java.util.StringTokenizer;
-import java.util.Vector;
-
-import javax.xml.parsers.ParserConfigurationException;
-
-import org.apache.commons.collections4.map.AbstractMapDecorator;
+import iitb.shared.SignatureSetIndex.*;
+import iitb.shared.XMLConfigs;
 import org.apache.commons.collections4.map.MultiValueMap;
 import org.apache.commons.lang3.ArrayUtils;
 import org.w3c.dom.Element;
 import org.xml.sax.InputSource;
 import org.xml.sax.SAXException;
-
-import iitb.shared.XMLConfigs;
-import parser.UnitSpan;
 import parser.coOccurMethods.ConceptTypeScores;
+
+import javax.xml.parsers.ParserConfigurationException;
+import java.io.*;
+import java.util.*;
 
 /* sunita: Sep 8, 2012 */
 public class QuantityCatalog implements WordFrequency, ConceptTypeScores, Serializable {

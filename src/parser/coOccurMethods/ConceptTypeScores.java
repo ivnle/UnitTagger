@@ -1,11 +1,9 @@
 package parser.coOccurMethods;
 
+import catalog.Quantity;
 import iitb.shared.EntryWithScore;
 
-
 import java.util.List;
-
-import catalog.Quantity;
 
 public interface ConceptTypeScores {
 	public enum ConceptClassifierTypes {perfectMatch, cooccur, classifier};

@@ -1,5 +1,7 @@
 package parser;
 
+import catalog.*;
+import conditionalCFG.ConditionalLexicon;
 import edu.stanford.nlp.ling.HasWord;
 import edu.stanford.nlp.ling.TaggedWord;
 import edu.stanford.nlp.parser.lexparser.BinaryRule;
@@ -12,40 +14,20 @@ import gnu.trove.iterator.TObjectFloatIterator;
 import gnu.trove.list.array.TIntArrayList;
 import gnu.trove.map.hash.TObjectFloatHashMap;
 import iitb.shared.EntryWithScore;
-import iitb.shared.StringMap;
 import iitb.shared.SignatureSetIndex.DocResult;
+import iitb.shared.StringMap;
+import org.apache.commons.lang3.NotImplementedException;
+import parser.CFGParser4Header.*;
+import parser.CFGParser4Header.EnumIndex.Tags;
+import parser.CFGParser4Header.Params.FTypes;
+import parser.CFGParser4Header.StateIndex.States;
+import parser.cfgTrainer.FeatureVector;
+import parser.coOccurMethods.Co_occurrenceScores;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.Writer;
-import java.util.Arrays;
-import java.util.BitSet;
-import java.util.Collection;
-import java.util.Collections;
-import java.util.HashSet;
-import java.util.Iterator;
-import java.util.List;
-import java.util.Vector;
-
-import org.apache.commons.lang3.NotImplementedException;
-
-import parser.CFGParser4Header.EnumIndex;
-import parser.CFGParser4Header.EnumIndex.Tags;
-import parser.CFGParser4Header.Params;
-import parser.CFGParser4Header.Params.FTypes;
-import parser.CFGParser4Header.StateIndex;
-import parser.CFGParser4Header.StateIndex.States;
-import parser.CFGParser4Header.TagArrayIterator;
-import parser.CFGParser4Header.Token;
-import parser.CFGParser4Header.WordIndex;
-import parser.cfgTrainer.FeatureVector;
-import parser.coOccurMethods.Co_occurrenceScores;
-import catalog.Quantity;
-import catalog.QuantityCatalog;
-import catalog.Unit;
-import catalog.UnitPair;
-import catalog.WordFrequency;
-import conditionalCFG.ConditionalLexicon;
+import java.util.*;
 
 public class TokenScorer implements ConditionalLexicon {
 	private static final float NegInfty = -100;

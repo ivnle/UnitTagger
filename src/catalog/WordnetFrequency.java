@@ -1,26 +1,21 @@
 package catalog;
 
-import iitb.shared.EntryWithScore;
-import iitb.shared.XMLConfigs;
-
-import java.io.IOException;
-import java.io.Serializable;
-import java.util.Arrays;
-import java.util.Collections;
-import java.util.HashSet;
-import java.util.List;
-import java.util.Vector;
-
-import javax.xml.parsers.ParserConfigurationException;
-
-import org.w3c.dom.Element;
-import org.xml.sax.InputSource;
-import org.xml.sax.SAXException;
-
 import edu.smu.tspell.wordnet.NounSynset;
 import edu.smu.tspell.wordnet.Synset;
 import edu.smu.tspell.wordnet.SynsetType;
 import edu.smu.tspell.wordnet.WordNetDatabase;
+import iitb.shared.EntryWithScore;
+import iitb.shared.XMLConfigs;
+import org.w3c.dom.Element;
+import org.xml.sax.SAXException;
+
+import javax.xml.parsers.ParserConfigurationException;
+import java.io.IOException;
+import java.io.Serializable;
+import java.util.Arrays;
+import java.util.HashSet;
+import java.util.List;
+import java.util.Vector;
 
 public class WordnetFrequency implements WordFrequency, Serializable {
 	public static String WordNetDictPath="/mnt/b100/d0/library/public_html/wordnet/WordNet-2.1/dict";

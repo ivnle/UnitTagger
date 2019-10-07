@@ -1,33 +1,18 @@
 package parser;
 
+import catalog.*;
 import gnu.trove.list.array.TIntArrayList;
-
 import iitb.shared.EntryWithScore;
-import iitb.shared.XMLConfigs;
 import iitb.shared.SignatureSetIndex.DocResult;
+import iitb.shared.XMLConfigs;
+import org.w3c.dom.Element;
+import parser.coOccurMethods.ConceptTypeScores;
 
 import java.io.IOException;
 import java.io.Serializable;
 import java.util.Arrays;
-import java.util.Collection;
-import java.util.Collections;
 import java.util.List;
 import java.util.Vector;
-
-import javax.print.attribute.standard.PDLOverrideSupported;
-import javax.swing.plaf.basic.BasicInternalFrameTitlePane.MaximizeAction;
-import javax.xml.parsers.ParserConfigurationException;
-
-import org.w3c.dom.Element;
-import org.xml.sax.SAXException;
-
-import parser.coOccurMethods.ConceptTypeScores;
-
-import catalog.QuantityCatalog;
-import catalog.Unit;
-import catalog.WordFrequency;
-import catalog.WordFrequencyImpl;
-import catalog.WordnetFrequency;
 
 public class RuleBasedParser extends SimpleParser {
 	static final float UnitFrequencyThreshold = 0.75f;

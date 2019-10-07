@@ -1,19 +1,12 @@
 package parser.coOccurMethods;
 
-import java.util.Arrays;
-import java.util.List;
-
+import catalog.Co_occurrenceStatistics;
+import catalog.Unit;
 import iitb.shared.RobustMath;
 import iitb.shared.StringMap;
-import catalog.Co_occurrenceStatistics;
-import catalog.QuantityCatalog;
-import catalog.Unit;
-import catalog.WordFrequency;
-import edu.stanford.nlp.util.Index;
-import parser.CFGParser4Header.EnumIndex;
-import parser.CFGParser4Header.StateIndex;
-import parser.TokenScorer;
-import parser.CFGParser4Header.Params.FTypes;
+
+import java.util.Arrays;
+import java.util.List;
 
 public class LogisticUnitGivenWords implements Co_occurrenceScores  {
 	public static final float CoccurMixWeight=0.1f;

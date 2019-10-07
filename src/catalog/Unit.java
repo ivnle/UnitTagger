@@ -1,14 +1,12 @@
 package catalog;
 
 import gnu.trove.list.array.TFloatArrayList;
+import numberParse.NumberParser;
 
 import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
-import java.util.Vector;
-
-import numberParse.NumberParser;
 
 
 /**

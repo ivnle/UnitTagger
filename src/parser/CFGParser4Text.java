@@ -1,29 +1,19 @@
 package parser;
 
-import iitb.shared.EntryWithScore;
-
-import java.io.ByteArrayOutputStream;
-import java.io.IOException;
-import java.io.ObjectOutputStream;
-import java.util.Collections;
-import java.util.List;
-import java.util.Vector;
-
-import javax.xml.parsers.ParserConfigurationException;
-
-import numberParse.NumberParser;
-
-import org.w3c.dom.Element;
-import org.xml.sax.SAXException;
-
-import parser.coOccurMethods.ConceptTypeScores;
-import parser.coOccurMethods.ConceptClassifier;
-import parser.CFGParser4Header.EnumIndex.Tags;
-import parser.CFGParser4Header.StateIndex;
 import catalog.QuantityCatalog;
 import catalog.Unit;
 import edu.stanford.nlp.parser.lexparser.Lexicon;
 import edu.stanford.nlp.trees.Tree;
+import iitb.shared.EntryWithScore;
+import numberParse.NumberParser;
+import org.w3c.dom.Element;
+import parser.CFGParser4Header.EnumIndex.Tags;
+import parser.coOccurMethods.ConceptTypeScores;
+
+import java.io.ByteArrayOutputStream;
+import java.io.ObjectOutputStream;
+import java.util.List;
+import java.util.Vector;
 
 public class CFGParser4Text extends CFGParser4Header {
 	public CFGParser4Text(Element options) throws Exception {

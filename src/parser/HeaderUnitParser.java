@@ -1,12 +1,10 @@
 package parser;
 
+import catalog.Unit;
 import iitb.shared.EntryWithScore;
 
 import java.io.IOException;
 import java.util.List;
-
-
-import catalog.Unit;
 
 public interface HeaderUnitParser {
 	public List<? extends EntryWithScore<Unit>> parseHeader(String hdr) throws IOException;

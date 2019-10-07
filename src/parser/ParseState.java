@@ -1,5 +1,9 @@
 package parser;
 
+import catalog.Quantity;
+import catalog.QuantityCatalog;
+import catalog.Unit;
+import catalog.WordFrequency;
 import gnu.trove.list.array.TIntArrayList;
 import gnu.trove.map.hash.TObjectIntHashMap;
 import iitb.shared.EntryWithScore;
@@ -8,11 +12,6 @@ import iitb.shared.SignatureSetIndex.DocResult;
 import java.util.BitSet;
 import java.util.List;
 import java.util.Vector;
-
-import catalog.Quantity;
-import catalog.QuantityCatalog;
-import catalog.Unit;
-import catalog.WordFrequency;
 
 public class ParseState {
 	static final float ThresholdTight = 0.9f;

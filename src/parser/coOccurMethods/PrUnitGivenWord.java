@@ -1,17 +1,10 @@
 package parser.coOccurMethods;
 
-import java.util.List;
-
-import iitb.shared.StringMap;
 import catalog.Co_occurrenceStatistics;
-import catalog.QuantityCatalog;
 import catalog.Unit;
-import catalog.WordFrequency;
-import edu.stanford.nlp.util.Index;
-import parser.CFGParser4Header.EnumIndex;
-import parser.CFGParser4Header.StateIndex;
-import parser.TokenScorer;
-import parser.CFGParser4Header.Params.FTypes;
+import iitb.shared.StringMap;
+
+import java.util.List;
 
 public class PrUnitGivenWord implements Co_occurrenceScores  {
 	public static final float CoccurMixWeight=0.1f;

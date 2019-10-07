@@ -1,32 +1,27 @@
 package parser.cfgTrainer;
 
+import catalog.QuantityCatalog;
+import catalog.Unit;
+import eval.Test;
 import iitb.shared.EntryWithScore;
 import iitb.shared.XMLConfigs;
-
-import java.io.FileReader;
-import java.util.Arrays;
-import java.util.List;
-import java.util.Properties;
-import java.util.Random;
-import java.util.Vector;
-
 import org.w3c.dom.Element;
 import org.w3c.dom.NodeList;
-
 import parser.CFGParser4Header;
 import parser.FeatureBasedParser;
 import parser.RuleBasedParser;
 import parser.UnitFeatures;
-import parser.UnitSpan;
 import weka.classifiers.Classifier;
 import weka.classifiers.Evaluation;
 import weka.core.FastVector;
 import weka.core.Instance;
 import weka.core.Instances;
 import weka.core.OptionHandler;
-import catalog.QuantityCatalog;
-import catalog.Unit;
-import eval.Test;
+
+import java.io.FileReader;
+import java.util.List;
+import java.util.Properties;
+import java.util.Vector;
 
 public class Trainer4FeatureBased {
 	Vector<TrainingInstance> trainSet;

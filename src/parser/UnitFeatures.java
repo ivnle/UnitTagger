@@ -1,9 +1,9 @@
 package parser;
 
+import catalog.Unit;
 import iitb.shared.EntryWithScore;
 import parser.CFGParser4Header.Params.FTypes;
 import parser.cfgTrainer.FeatureVector;
-import catalog.Unit;
 
 public class UnitFeatures extends EntryWithScore<Unit> {
 	int span=0;

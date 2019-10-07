@@ -1,10 +1,9 @@
 package parser.coOccurMethods;
 
+import catalog.Unit;
 import iitb.shared.StringMap;
 
 import java.util.List;
-
-import catalog.Unit;
 
 public interface Co_occurrenceScores {
 

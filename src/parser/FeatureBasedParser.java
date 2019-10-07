@@ -1,23 +1,16 @@
 package parser;
 
-import iitb.shared.BoundedPriorityQueue;
-import iitb.shared.EntryWithScore;
-
-import java.io.IOException;
-import java.lang.reflect.InvocationTargetException;
-import java.util.List;
-import java.util.Vector;
-
-import javax.xml.parsers.ParserConfigurationException;
-
-import org.w3c.dom.Element;
-import org.xml.sax.SAXException;
-
-import parser.CFGParser4Header.Params.FTypes;
-
 import catalog.QuantityCatalog;
 import catalog.Unit;
 import edu.stanford.nlp.ling.HasWord;
+import iitb.shared.BoundedPriorityQueue;
+import iitb.shared.EntryWithScore;
+import org.w3c.dom.Element;
+import parser.CFGParser4Header.Params.FTypes;
+
+import java.io.IOException;
+import java.util.List;
+import java.util.Vector;
 
 public class FeatureBasedParser extends CFGParser4Header {
 

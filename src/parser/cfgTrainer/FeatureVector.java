@@ -1,10 +1,9 @@
 package parser.cfgTrainer;
 
+import parser.CFGParser4Header.Params.FTypes;
+
 import java.io.Serializable;
 import java.util.Arrays;
-import java.util.Vector;
-
-import parser.CFGParser4Header.Params.FTypes;
 
 public class FeatureVector implements Serializable {
 	float fvals[];

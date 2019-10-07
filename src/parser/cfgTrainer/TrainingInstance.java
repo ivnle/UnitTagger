@@ -1,13 +1,8 @@
 package parser.cfgTrainer;
 
-import iitb.shared.EntryWithScore;
-
-import java.util.BitSet;
-import java.util.List;
-
 import parser.UnitFeatures;
 
-import catalog.Unit;
+import java.util.List;
 
 public class TrainingInstance {
 	String hdr;

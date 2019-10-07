@@ -1,70 +1,21 @@
 package parser.coOccurMethods;
 
+import catalog.*;
 import de.bwaldvogel.liblinear.Linear;
-
 import gnu.trove.list.array.TIntArrayList;
-
 import iitb.shared.EntryWithScore;
 import iitb.shared.StringMap;
-import iitb.shared.XMLConfigs;
-
-import java.io.BufferedReader;
-import java.io.BufferedWriter;
-import java.io.ByteArrayOutputStream;
-import java.io.File;
-import java.io.FileInputStream;
-import java.io.FileNotFoundException;
-import java.io.FileReader;
-import java.io.FileWriter;
-import java.io.IOException;
-import java.io.InputStream;
-import java.io.ObjectOutputStream;
-import java.io.Serializable;
-import java.lang.reflect.InvocationTargetException;
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.Collections;
-import java.util.HashSet;
-import java.util.Hashtable;
-import java.util.Iterator;
-import java.util.List;
-import java.util.Random;
-import java.util.Vector;
-
-import javax.xml.parsers.ParserConfigurationException;
-
 import org.apache.commons.lang3.tuple.ImmutablePair;
 import org.apache.commons.lang3.tuple.Pair;
 import org.w3c.dom.Element;
-import org.w3c.dom.NodeList;
-import org.xml.sax.SAXException;
-
-import parser.CFGParser4Header;
-import parser.ParseState;
-import parser.RuleBasedParser;
-import parser.SimpleParser;
-import parser.UnitSpan;
-
-import weka.classifiers.AbstractClassifier;
-import weka.classifiers.Classifier;
+import parser.*;
 import weka.classifiers.Evaluation;
 import weka.classifiers.functions.LibLINEAR;
-import weka.classifiers.functions.SMO;
-import weka.core.Attribute;
-import weka.core.FastVector;
-import weka.core.Instance;
-import weka.core.Instances;
-import weka.core.OptionHandler;
-import weka.core.SparseInstance;
-import weka.core.TechnicalInformationHandler;
-import weka.core.converters.ArffLoader;
+import weka.core.*;
 import weka.core.converters.ArffLoader.ArffReader;
 
-import catalog.Co_occurrenceStatistics;
-import catalog.Quantity;
-import catalog.QuantityCatalog;
-import catalog.Unit;
-import catalog.WordnetFrequency;
+import java.io.*;
+import java.util.*;
 
 public class ConceptClassifier implements ConceptTypeScores,Co_occurrenceScores, Serializable {
   private static final int FreqCutOff = 10;

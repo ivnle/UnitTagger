@@ -1,10 +1,5 @@
 package catalog;
 
-import java.util.ArrayList;
-
-import catalog.Unit;
-
-
 /* sunita: Oct 2, 2012 */
 public class UnitMultPair extends UnitPair {
 	public UnitMultPair(Unit key, Unit mult) {

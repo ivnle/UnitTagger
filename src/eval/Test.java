@@ -1,39 +1,22 @@
 package eval;
 
+import catalog.QuantityCatalog;
+import catalog.Unit;
 import iitb.shared.EntryWithScore;
 import iitb.shared.XMLConfigs;
+import org.w3c.dom.Element;
+import org.w3c.dom.NodeList;
+import parser.CFGParser4Text;
+import parser.HeaderUnitParser;
+import parser.ParseState;
 
-import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileReader;
 import java.io.FileWriter;
-import java.io.IOException;
-import java.lang.reflect.InvocationTargetException;
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.Calendar;
-import java.util.HashSet;
-import java.util.List;
-import java.util.Vector;
-
-import javax.xml.parsers.ParserConfigurationException;
-
-import org.w3c.dom.Element;
-import org.w3c.dom.NodeList;
-import org.xml.sax.SAXException;
-
-import catalog.QuantityCatalog;
-import catalog.Unit;
-
-import parser.CFGParser4Header;
-import parser.CFGParser4Text;
-import parser.FeatureBasedParser;
-import parser.HeaderUnitParser;
-import parser.ParseState;
-import parser.RuleBasedParser;
+import java.util.*;
 
 public class Test {
 //	public static String GroundTruthFile = "/mnt/a99/d0/WWT/workspace/WWT_GroundTruthV2/unitLabel4Text.xml"; //"/mnt/a99/d0/sunita/workspace.broken/WWT/expts/out.uniq.0.xml"; //
