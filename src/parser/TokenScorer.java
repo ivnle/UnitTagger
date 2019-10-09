@@ -28,6 +28,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.Writer;
 import java.util.*;
+import java.util.function.Function;
 
 public class TokenScorer implements ConditionalLexicon {
 	private static final float NegInfty = -100;
@@ -712,6 +713,11 @@ public class TokenScorer implements ConditionalLexicon {
 	@Override
 	public boolean isKnown(String word) {
 		return wordIndex.contains(word);
+	}
+
+	@Override
+	public Set<String> tagSet(Function<String, String> function) {
+		throw new NotImplementedException("");
 	}
 
 	public float unitScoreForSpan(int start, int end) {

@@ -30,6 +30,7 @@ import edu.stanford.nlp.io.EncodingPrintWriter;
 import edu.stanford.nlp.ling.*;
 import edu.stanford.nlp.math.SloppyMath;
 import edu.stanford.nlp.parser.KBestViterbiParser;
+import edu.stanford.nlp.parser.common.ParserConstraint;
 import edu.stanford.nlp.parser.lexparser.*;
 import edu.stanford.nlp.trees.LabeledScoredTreeFactory;
 import edu.stanford.nlp.trees.Tree;
@@ -486,7 +487,7 @@ public class ConditionalCFGParser implements Scorer, KBestViterbiParser, Seriali
     return succeeded;
   }
 
-  
+
   /** These arrays are used by the factored parser (only) during edge combination.
    *  The method assumes that the iScore and oScore arrays have been initialized.
    */

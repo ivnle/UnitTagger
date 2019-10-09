@@ -146,6 +146,11 @@ public class CFGParser4Header extends RuleBasedParser {
         }
 
         @Override
+        public int addToIndex(String s) {
+            throw new NotImplementedException("");
+        }
+
+        @Override
         public int indexOf(String o, boolean add) {
             if (!add) return indexOf(o);
             throw new NotImplementedException("");
@@ -201,11 +206,6 @@ public class CFGParser4Header extends RuleBasedParser {
             } catch (IllegalArgumentException e) {
                 return false;
             }
-        }
-
-        @Override
-        public <T> T[] toArray(T[] a) {
-            throw new NotImplementedException("");
         }
 
         @Override
@@ -274,6 +274,11 @@ public class CFGParser4Header extends RuleBasedParser {
         }
 
         @Override
+        public int addToIndex(String s) {
+            return this.indexOf(s, true);
+        }
+
+        @Override
         public int indexOf(String o, boolean add) {
             if (!add || contains(o)) return indexOf(o);
             throw new NotImplementedException("");
@@ -326,12 +331,6 @@ public class CFGParser4Header extends RuleBasedParser {
 
         @Override
         public void saveToFilename(String s) {
-            throw new NotImplementedException("");
-        }
-
-
-        @Override
-        public <T> T[] toArray(T[] a) {
             throw new NotImplementedException("");
         }
 
@@ -407,6 +406,11 @@ public class CFGParser4Header extends RuleBasedParser {
         }
 
         @Override
+        public int addToIndex(String s) {
+            throw new NotImplementedException("");
+        }
+
+        @Override
         public int indexOf(String o, boolean add) {
             if (o.equals(Lexicon.BOUNDARY)) {
                 return 0;
@@ -459,11 +463,6 @@ public class CFGParser4Header extends RuleBasedParser {
         @Override
         public boolean contains(Object o) {
             return indexOf((String) o) >= 0;
-        }
-
-        @Override
-        public <T> T[] toArray(T[] a) {
-            throw new NotImplementedException("");
         }
 
         @Override
