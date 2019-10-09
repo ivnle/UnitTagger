@@ -138,10 +138,10 @@ public class QuantityCatalog implements WordFrequency, ConceptTypeScores, Serial
 		return toks;
 	}
 	public QuantityCatalog(Element elem) throws IOException, ParserConfigurationException, SAXException {
-		this(QuantityReader.loadQuantityTaxonomy((elem != null && elem.hasAttribute("quantity-taxonomy"))?new FileInputStream(elem.getAttribute("quantity-taxonomy")):getRelativePath("/"+QuantTaxonomyFile)));
+		this(QuantityReader.loadQuantityTaxonomy((elem != null && elem.hasAttribute("quantity-taxonomy"))?new FileInputStream(elem.getAttribute("quantity-taxonomy")):getRelativePath(QuantTaxonomyFile)));
 	}
 	private static InputStream getRelativePath(String file) {
-		return ClassLoader.class.getResourceAsStream(file);
+		return QuantityCatalog.class.getClassLoader().getResourceAsStream(file);
 	}
 	public QuantityCatalog(ArrayList<Quantity> taxonomy) throws IOException {
 		//analyzer =  new StandardAnalyzer(Version.LUCENE_33);

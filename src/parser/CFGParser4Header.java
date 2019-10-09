@@ -1125,7 +1125,7 @@ public class CFGParser4Header extends RuleBasedParser {
         // ,
         //
         //
-        CFGParser4Header parser = new CFGParser4Header(XMLConfigs.load(new FileReader("configs/configs.xml")));
+        CFGParser4Header parser = new CFGParser4Header(XMLConfigs.load(new FileReader("unit_tagger_configs/configs.xml")));
         Vector<UnitFeatures> featureList = new Vector();
         //List<? extends EntryWithScore<Unit>> unitsR = new CFGParser4Header(XMLConfigs.load(new FileReader("configs/configs.xml"))).getTopKUnits("2000 Mt CO2",  2, featureList,1);
         ParseState state[] = new ParseState[1];

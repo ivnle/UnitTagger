@@ -67,7 +67,7 @@ public class ConceptClassifier implements ConceptTypeScores,Co_occurrenceScores,
     this(configs,quantDict,false,parser);
     InputStream istr=null;
     if (loadFile==null) {
-      istr = ClassLoader.class.getResourceAsStream("/"+ConceptClassifier.ClassifierFile);
+      istr = QuantityCatalog.class.getClassLoader().getResourceAsStream(ConceptClassifier.ClassifierFile);
     } else {
       istr = new FileInputStream(loadFile);
     }

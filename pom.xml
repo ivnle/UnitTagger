@@ -20,6 +20,28 @@
     </repositories>
 
     <dependencies>
+        <dependency>
+            <groupId>external</groupId>
+            <artifactId>unit-tagger-jaws</artifactId>
+            <version>1.0.0</version>
+            <scope>system</scope>
+            <systemPath>${project.basedir}/lib/unit-tagger/jaws-bin.jar</systemPath>
+        </dependency>
+        <dependency>
+            <groupId>external</groupId>
+            <artifactId>unit-tagger-liblinear</artifactId>
+            <version>1.0.0</version>
+            <scope>system</scope>
+            <systemPath>${project.basedir}/lib/unit-tagger/LibLINEAR.jar</systemPath>
+        </dependency>
+        <dependency>
+            <groupId>external</groupId>
+            <artifactId>unit-tagger-shared</artifactId>
+            <version>1.0.0</version>
+            <scope>system</scope>
+            <systemPath>${project.basedir}/lib/unit-tagger/shared.jar</systemPath>
+        </dependency>
+
         <!-- https://mvnrepository.com/artifact/org.apache.commons/commons-lang3 -->
         <dependency>
             <groupId>org.apache.commons</groupId>
