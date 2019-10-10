@@ -651,7 +651,7 @@ public class QuantityCatalog implements WordFrequency, ConceptTypeScores, Serial
 	}
 	public static Element loadDefaultConfig(Element configs) throws FileNotFoundException, ParserConfigurationException, SAXException, IOException {
 	  if (configs != null) return configs;
-	  Element elem = XMLConfigs.load(new InputSource(ClassLoader.class.getResourceAsStream("/configs.xml")));
+	  Element elem = XMLConfigs.load(new InputSource(QuantityCatalog.class.getClassLoader().getResourceAsStream("configs.xml")));
 	  return elem;
 	}
 }
