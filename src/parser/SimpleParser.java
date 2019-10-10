@@ -26,10 +26,10 @@ public class SimpleParser implements HeaderUnitParser, ConceptTypeScores, Serial
 	public static float Threshold=0.9f;
 	static HashSet<String> wordSymbolsHash=new HashSet<String>(Arrays.asList(WordSymbols));
 	boolean debug;
-	Element options;
+	public Element options;
 	public ConceptClassifierTypes conceptTypeScorer=ConceptClassifierTypes.classifier;
-	ConceptTypeScores conceptClassifier;
-	protected QuantityCatalog quantityDict;
+	public ConceptTypeScores conceptClassifier;
+	public QuantityCatalog quantityDict;
 	public SimpleParser(Element elem, QuantityCatalog dict) throws Exception {
 	  this(elem,dict,null);
 	}
