@@ -66,6 +66,9 @@ public class ConceptClassifier implements ConceptTypeScores,Co_occurrenceScores,
       String loadFile) throws Exception {
     this(configs,quantDict,false,parser);
     InputStream istr=null;
+
+    loadFile = "unit_tagger_data/conceptClassifier";
+
     if (loadFile==null) {
       istr = QuantityCatalog.class.getClassLoader().getResourceAsStream(ConceptClassifier.ClassifierFile);
     } else {
