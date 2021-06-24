@@ -1,0 +1,7490 @@
+Result of evaluation of file /mnt/a99/d0/ashishm/output.xml 
+Date: 2021/06/24 06:34:55
+Evaluator: Ashish Mittal
+
+
+
+Example: 1: 
+light inlocal inertial frames is qqqq km/sec .So if you want to
+Annotated unit : kilometre per second
+Tagged unit    : kilometre per second
+Extracted unit : [kilometre per second:2.7341091632843018]
+Matched. 
+
+
+Example: 2: 
+make a comparison with " qqqq km/sec  " then you have to
+Annotated unit : kilometre per second
+Tagged unit    : kilometre per second
+Extracted unit : [kilometre per second:2.679999589920044]
+Matched. 
+
+
+Example: 3: 
+locally (in his location) at qqqq km/s ; when he looks towards
+Annotated unit : kilometre per second
+Tagged unit    : kilometre per second
+Extracted unit : [kilometre per second:2.679999828338623]
+Matched. 
+
+
+Example: 4: 
+of light locally anymore at qqqq km/s ; instead the stronger the
+Annotated unit : kilometre per second
+Tagged unit    : kilometre per second
+Extracted unit : [kilometre per second:2.679999828338623]
+Matched. 
+
+
+Example: 5: 
+light outside gravitational fields at qqqq km/s .Finally, there is no difference
+Annotated unit : kilometre per second
+Tagged unit    : kilometre per second
+Extracted unit : [kilometre per second:2.679999828338623]
+Matched. 
+
+
+Example: 6: 
+his location) much faster than qqqq km/s ; when he looks towards
+Annotated unit : kilometre per second
+Tagged unit    : kilometre per second
+Extracted unit : [kilometre per second:2.679999828338623]
+Matched. 
+
+
+Example: 7: 
+is on the order of qqqq milliseconds .
+Annotated unit : millisecond
+Tagged unit    : millisecond
+Extracted unit : [millisecond:1.9471211433410645]
+Matched. 
+
+
+Example: 8: 
+during a time interval of qqqq of a second 
+Annotated unit : second
+Tagged unit    : second
+Extracted unit : null
+Not Matched.
+
+
+Example: 9: 
+the speed of light at qqqq m/s by definition, as described below.
+Annotated unit : metre per second
+Tagged unit    : metre per second
+Extracted unit : [metre per second:3.9931271076202393]
+Matched. 
+
+
+Example: 10: 
+of the Earth is about qqqq km and c about
+Annotated unit : kilometre
+Tagged unit    : kilometre
+Extracted unit : [kilometre:1.4590743780136108]
+Matched. 
+
+
+Example: 11: 
+km and c about qqqq km/s , the theoretical shortest time
+Annotated unit : kilometre per second
+Tagged unit    : kilometre per second
+Extracted unit : [kilometre per second:2.679999828338623]
+Matched. 
+
+
+Example: 12: 
+along the surface is about qqqq milliseconds .When light is travelling around
+Annotated unit : millisecond
+Tagged unit    : millisecond
+Extracted unit : [millisecond:2.3475959300994873]
+Matched. 
+
+
+Example: 13: 
+light is slower by about qqqq % in an optical fibre, depending
+Annotated unit :  percent
+Tagged unit    : percent
+Extracted unit : [percent:0.6899999976158142]
+Matched. 
+
+
+Example: 14: 
+by light in vacuum in qqqq of a second .As a result, the numerical
+Annotated unit : second
+Tagged unit    : second
+Extracted unit : null
+Not Matched.
+
+
+Example: 15: 
+to measure the speed at qqqq metres per second (qqqq miles per second), which ultimately resulted in
+Annotated unit : metre per second|mile per second
+Tagged unit    : metre per second|mile per second
+Extracted unit : [metre per second|mile per second:32.78355407714844]
+Matched. 
+
+
+Example: 16: 
+angels entering the wormhole at qqqq % of the speed of light
+Annotated unit :  percent
+Tagged unit    : percent
+Extracted unit : [percent:0.6899999976158142]
+Matched. 
+
+
+Example: 17: 
+would no longer be at qqqq km/s .This is because in the
+Annotated unit : kilometre per second
+Tagged unit    : kilometre per second
+Extracted unit : [kilometre per second:2.679999828338623]
+Matched. 
+
+
+Example: 18: 
+light in vacuum is exactly qqqq m/s 
+Annotated unit : metre per second
+Tagged unit    : metre per second
+Extracted unit : [metre per second:2.680000066757202]
+Matched. 
+
+
+Example: 19: 
+a vacuum to be approximately qqqq kilometres per second , using stellar aberrations.These phenomena
+Annotated unit : kilometre per second
+Tagged unit    : kilometre per second
+Extracted unit : [kilometre per second:2.6800005435943604]
+Matched. 
+
+
+Example: 20: 
+light in a vacuum is qqqq miles per second ( qqqq kilometres per second ), and in theory nothing
+Annotated unit : mile per second|kilometre per second
+Tagged unit    : mile per second|kilometre per second
+Extracted unit : [mile per second|kilometre per second:11.440001487731934]
+Matched. 
+
+
+Example: 21: 
+is, well, a lot: about qqqq mph .
+Annotated unit : mile per hour
+Tagged unit    : mile per hour
+Extracted unit : [mile per hour:0.3999999761581421]
+Matched. 
+
+
+Example: 22: 
+of speed of light of qqqq km/s ,
+Annotated unit : kilometre per second
+Tagged unit    : kilometre per second
+Extracted unit : [kilometre per second:4.061331272125244]
+Matched. 
+
+
+Example: 23: 
+km/s, qqqq % lower than the actual
+Annotated unit :  percent
+Tagged unit    : percent
+Extracted unit : [kilometre per second:2.679999828338623]
+Not Matched.
+
+
+Example: 24: 
+vacuum to be c = qqqq m/s .This was
+Annotated unit : metre per second
+Tagged unit    : metre per second
+Extracted unit : [metre per second:2.680000066757202]
+Matched. 
+
+
+Example: 25: 
+of light.It has the value qqqq metres per second (or about qqqq miles per second) .
+Annotated unit : metre per second|mile per second
+Tagged unit    : metre per second|mile per second
+Extracted unit : [metre per second|mile per second:8.967403411865234]
+Matched. 
+
+
+Example: 26: 
+the speed of light as qqqq miles per second .Tom, a passenger on the
+Annotated unit : mile per second
+Tagged unit    : mile per second
+Extracted unit : [mile per second:7.704644203186035]
+Matched. 
+
+
+Example: 27: 
+ qqqq km/s ; the refractive index of
+Annotated unit : kilometre per second
+Tagged unit    : kilometre per second
+Extracted unit : [kilometre per second:2.679999828338623]
+Matched. 
+
+
+Example: 28: 
+of light in air is qqqq km/s or about
+Annotated unit : kilometre per second
+Tagged unit    : kilometre per second
+Extracted unit : [kilometre per second:2.679999828338623]
+Matched. 
+
+
+Example: 29: 
+km/s or about qqqq km/s slower than c.In most practical
+Annotated unit : kilometre per second
+Tagged unit    : kilometre per second
+Extracted unit : [kilometre per second:2.679999828338623]
+Matched. 
+
+
+Example: 30: 
+light was known to be qqqq m/s with a measurement uncertainty of
+Annotated unit : metre per second
+Tagged unit    : metre per second
+Extracted unit : [metre per second:2.680000066757202]
+Matched. 
+
+
+Example: 31: 
+with a measurement uncertainty of qqqq parts per billion .
+Annotated unit :  perch [billion]
+Tagged unit    :  per billion
+Extracted unit : [ per billion:0.5299999713897705]
+Matched. 
+
+
+Example: 32: 
+and then comparing it with qqqq km/sec .In a heliocentric frame non-rotating
+Annotated unit : kilometre per second
+Tagged unit    : kilometre per second
+Extracted unit : [kilometre per second:2.7299039363861084]
+Matched. 
+
+
+Example: 33: 
+units this speed is approximately qqqq miles per second .According to special relativity, c
+Annotated unit : mile per second
+Tagged unit    : mile per second
+Extracted unit : [mile per second:7.143178462982178]
+Matched. 
+
+
+Example: 34: 
+angels passing by him at qqqq % of the speed of light
+Annotated unit :  percent
+Tagged unit    : percent
+Extracted unit : [percent:0.6899999976158142]
+Matched. 
+
+
+Example: 35: 
+of light), that is at qqqq km/s .But when those angels enter
+Annotated unit : kilometre per second
+Tagged unit    : kilometre per second
+Extracted unit : [kilometre per second:2.679999828338623]
+Matched. 
+
+
+Example: 36: 
+that it would take light qqqq minutes qqqq seconds to travel from the Sun
+Annotated unit : minute|second
+Tagged unit    : minute|second
+Extracted unit : [second:0.18548768758773804]
+Not Matched.
+
+
+Example: 37: 
+who obtained a value of qqqq km/s in
+Annotated unit : kilometre per second
+Tagged unit    : kilometre per second
+Extracted unit : [kilometre per second:2.679999828338623]
+Matched. 
+
+
+Example: 38: 
+smaller than or greater than qqqq km/sec .It depends on where I
+Annotated unit : kilometre per second
+Tagged unit    : kilometre per second
+Extracted unit : [kilometre per second:2.679999589920044]
+Matched. 
+
+
+Example: 39: 
+speed of light.The EssenGordon-Smith result, qqqq km/s , was substantially more precise
+Annotated unit : kilometre per second
+Tagged unit    : kilometre per second
+Extracted unit : [kilometre per second:3.4376330375671387]
+Matched. 
+
+
+Example: 40: 
+Essen established a result of qqqq km/s .A household demonstration of this
+Annotated unit : kilometre per second
+Tagged unit    : kilometre per second
+Extracted unit : [kilometre per second:2.679999828338623]
+Matched. 
+
+
+Example: 41: 
+space this speed is approximately qqqq kilometres per second !We can even predict the
+Annotated unit : kilometre per second
+Tagged unit    : kilometre per second
+Extracted unit : [kilometre per second:3.5969481468200684]
+Matched. 
+
+
+Example: 42: 
+Lunar Orbits/Earth Day= qqqq km/s is the speed of light
+Annotated unit : kilometre per second
+Tagged unit    : kilometre per second
+Extracted unit : [kilometre per second:3.476640462875366]
+Matched. 
+
+
+Example: 43: 
+adult reaches the height of qqqq - qqqq feet African elephants weigh about
+Annotated unit : foot
+Tagged unit    : feet
+Extracted unit : [foot:0.6291042566299438]
+Matched. 
+
+
+Example: 44: 
+feet African elephants weigh about qqqq pounds and Fun Facts about the
+Annotated unit : pound
+Tagged unit    : pound
+Extracted unit : [pound:0.5139119029045105]
+Matched. 
+
+
+Example: 45: 
+kilograms.An adult elephant eats about qqqq  to qqqq kg of food each day.
+Annotated unit : kilogram
+Tagged unit    : kilogram
+Extracted unit : [kilogram:1.5092027187347412]
+Matched. 
+
+
+Example: 46: 
+human.A newborn elephant is about qqqq m high and weighs about
+Annotated unit : metre
+Tagged unit    : metre
+Extracted unit : [metre:0.19319474697113037]
+Matched. 
+
+
+Example: 47: 
+m high and weighs about qqqq kg .
+Annotated unit : kilogram
+Tagged unit    : kilogram
+Extracted unit : [kilogram:0.699999988079071]
+Matched. 
+
+
+Example: 48: 
+it weighed qqqq tonnes ( qqqq short tons ), stood
+Annotated unit : tonne|ton, short
+Tagged unit    : tonne|short ton
+Extracted unit : [tonne|ton, short:3.006683111190796]
+Matched. 
+
+
+Example: 49: 
+short tons), stood qqqq m (qqqq ft) tall at the shoulders and
+Annotated unit : metre|foot
+Tagged unit    : metre|feet
+Extracted unit : [foot:2.4000000953674316]
+Not Matched.
+
+
+Example: 50: 
+at the shoulders and was qqqq m (qqqq ft) long from head to
+Annotated unit : metre|foot
+Tagged unit    : metre|feet
+Extracted unit : [metre|foot:2.3833088874816895]
+Matched. 
+
+
+Example: 51: 
+larger individuals as tall as qqqq m ( qqqq ft ).
+Annotated unit : foot
+Tagged unit    : feet
+Extracted unit : [metre|foot:1.4861291646957397]
+Not Matched.
+
+
+Example: 52: 
+height of males rarely exceeds qqqq m (qqqq ft) and that of the females,
+Annotated unit : metre|foot
+Tagged unit    : metre|feet
+Extracted unit : [metre|foot:2.8338205814361572]
+Matched. 
+
+
+Example: 53: 
+and that of the females, qqqq m (qqqq ft) 
+Annotated unit : metre|foot
+Tagged unit    : metre|feet
+Extracted unit : [metre|foot:1.8052300214767456]
+Matched. 
+
+
+Example: 54: 
+Average height of females is qqqq m (qqqq ft) , and average weight
+Annotated unit : metre|foot
+Tagged unit    : metre|feet
+Extracted unit : [metre|foot:1.8862340450286865]
+Matched. 
+
+
+Example: 55: 
+ft), and average weight qqqq t (qqqq short tons) rarely exceeding
+Annotated unit : tonne|ton, short
+Tagged unit    : tonne|short ton
+Extracted unit : [ton, short:7.273360252380371]
+Not Matched.
+
+
+Example: 56: 
+short tons)rarely exceeding qqqq t (qqqq short tons) .
+Annotated unit : tonne|ton, short
+Tagged unit    : tonne|short ton
+Extracted unit : [ton, short:4.380000114440918]
+Not Matched.
+
+
+Example: 57: 
+the Moeritherium.It stood only around qqqq feet tall and did not have
+Annotated unit : foot
+Tagged unit    : feet
+Extracted unit : [foot:0.09040385484695435]
+Matched. 
+
+
+Example: 58: 
+male African elephant.He weighed about qqqq pounds (qqqq kilograms) and was
+Annotated unit : pound|kilogram
+Tagged unit    : pound|kilogram
+Extracted unit : [pound|kilogram:26.4942569732666]
+Matched. 
+
+
+Example: 59: 
+kilograms) and was qqqq feet (qqqq metres) tall at the shoulder!
+Annotated unit : foot|metre
+Tagged unit    : feet|metre
+Extracted unit : [foot|metre:0.9872776865959167]
+Matched. 
+
+
+Example: 60: 
+skin can be up to qqqq inch(qqqq centimetres) thick on some parts of
+Annotated unit : inch|centimetre
+Tagged unit    : inch|centimetre
+Extracted unit : [inch|centimetre:3.250617504119873]
+Matched. 
+
+
+Example: 61: 
+m and weigh about qqqq kg .
+Annotated unit : kilogram
+Tagged unit    : kilogram
+Extracted unit : [kilogram:0.699999988079071]
+Matched. 
+
+
+Example: 62: 
+short tons) rarely exceeding qqqq t (qqqq short tons) .Large bulls weigh up to
+Annotated unit : tonne|ton, short
+Tagged unit    : tonne|short ton
+Extracted unit : [ton, short:4.443572998046875]
+Not Matched.
+
+
+Example: 63: 
+tons).Large bulls weigh up to qqqq t(qqqq short tons) and are
+Annotated unit : tonne|ton, short
+Tagged unit    : tonne|short ton
+Extracted unit : [ton, short:4.443572998046875]
+Not Matched.
+
+
+Example: 64: 
+short tons) and are qqqq m(qqqq ft) at the shoulder.
+Annotated unit : metre|foot
+Tagged unit    : metre|feet
+Extracted unit : [foot:2.4000000953674316]
+Not Matched.
+
+
+Example: 65: 
+with a clock speed of qqqq GHz and
+Annotated unit : gigahertz
+Tagged unit    : giga hertz
+Extracted unit : [gigahertz:2.0118892192840576]
+Matched. 
+
+
+Example: 66: 
+GHz and qqqq MB L2 cache memory, which make
+Annotated unit : megabyte
+Tagged unit    : megabyte
+Extracted unit : null
+Not Matched.
+
+
+Example: 67: 
+to say that with a qqqq GHz faster base clock rate, the
+Annotated unit : gigahertz
+Tagged unit    : giga hertz
+Extracted unit : [gigahertz:1.5226949453353882]
+Matched. 
+
+
+Example: 68: 
+chips are dual-core processors with qqqq MB of L2 cache and a
+Annotated unit : megabyte
+Tagged unit    : megabyte
+Extracted unit : null
+Not Matched.
+
+
+Example: 69: 
+cache and a TDP of qqqq watts .The new
+Annotated unit : watt
+Tagged unit    : watt
+Extracted unit : [watt:0.9377337694168091]
+Matched. 
+
+
+Example: 70: 
+has a CPU speed of qqqq GHz and a graphics clock speed
+Annotated unit : gigahertz
+Tagged unit    : giga hertz
+Extracted unit : [gigahertz:2.1501972675323486]
+Matched. 
+
+
+Example: 71: 
+which ran at qqqq GHz and had graphics which ranged
+Annotated unit : gigahertz
+Tagged unit    : giga hertz
+Extracted unit : [gigahertz:0.699999988079071]
+Matched. 
+
+
+Example: 72: 
+had graphics which ranged from qqqq MHz to qqqq MHz .Both chips support DDR3 memory
+Annotated unit : megahertz|megahertz
+Tagged unit    : mega hertz|mega hertz
+Extracted unit : [megahertz|megahertz:1.6474754810333252]
+Matched. 
+
+
+Example: 73: 
+support DDR3 memory speeds of qqqq MHz .Meanwhile the new
+Annotated unit : megahertz
+Tagged unit    : mega hertz
+Extracted unit : [megahertz:1.7962557077407837]
+Matched. 
+
+
+Example: 74: 
+runs at qqqq GHz and has graphics clocked at
+Annotated unit : gigahertz
+Tagged unit    : giga hertz
+Extracted unit : [gigahertz:0.699999988079071]
+Matched. 
+
+
+Example: 75: 
+and has graphics clocked at qqqq MHz .
+Annotated unit : megahertz
+Tagged unit    : mega hertz
+Extracted unit : [megahertz:0.699999988079071]
+Matched. 
+
+
+Example: 76: 
+its cores are clocked at qqqq GHz , with a 512KB L2
+Annotated unit : gigahertz
+Tagged unit    : giga hertz
+Extracted unit : [gigahertz:0.9220839738845825]
+Matched. 
+
+
+Example: 77: 
+with a qqqq KB L2 cache per core, and
+Annotated unit : kilobyte
+Tagged unit    : kilobyte
+Extracted unit : [kilobyte:0.03333336114883423]
+Matched. 
+
+
+Example: 78: 
+Graphics, which is clocked at qqqq MHz .
+Annotated unit : megahertz
+Tagged unit    : mega hertz
+Extracted unit : [megahertz:0.725408673286438]
+Matched. 
+
+
+Example: 79: 
+ARAI certified fuel efficiency of qqqq kmpl for the petrol.Both the petrol
+Annotated unit : kilometre per litre
+Tagged unit    : kilometre per litre
+Extracted unit : [kilometre per litre:1.0]
+Matched. 
+
+
+Example: 80: 
+performance, is its ARAI certified qqqq kmpl of mileage.Volkswagen Polo is a
+Annotated unit : kilometre per litre
+Tagged unit    : kilometre per litre
+Extracted unit : [kilometre per litre:0.699999988079071]
+Matched. 
+
+
+Example: 81: 
+diesel producing a torque of qqqq Nm at
+Annotated unit : nanometer
+Tagged unit    : nanometre
+Extracted unit : [nanometer:0.5343994498252869]
+Matched. 
+
+
+Example: 82: 
+a torque of 110Nm at  qqqq rpm and 180Nm at
+Annotated unit : revolutions per minute
+Tagged unit    : rotation per minute
+Extracted unit : [revolutions per minute:0.5247445106506348]
+Matched. 
+
+
+Example: 83: 
+and qqqq Nm at
+Annotated unit : nanometer
+Tagged unit    : nanometre
+Extracted unit : [nanometer:0.5742591619491577]
+Matched. 
+
+
+Example: 84: 
+and 180Nm at qqqq rpm respectively.The ARAI certified fuel efficiency
+Annotated unit : revolutions per minute
+Tagged unit    : rotation per minute
+Extracted unit : [revolutions per minute:0.3999999761581421]
+Matched. 
+
+
+Example: 85: 
+efficiency for the petrol is qqqq kmpl and for the diesel,
+Annotated unit : kilometre per litre
+Tagged unit    : kilometre per litre
+Extracted unit : [kilometre per litre:0.699999988079071]
+Matched. 
+
+
+Example: 86: 
+and for the diesel, qqqq kmpl .The numbers produced by the
+Annotated unit : kilometre per litre
+Tagged unit    : kilometre per litre
+Extracted unit : [kilometre per litre:0.699999988079071]
+Matched. 
+
+
+Example: 87: 
+numbers produced by the qqqq -litre units seem acceptable, but their
+Annotated unit : litre
+Tagged unit    : litre
+Extracted unit : [litre:2.0999999046325684]
+Matched. 
+
+
+Example: 88: 
+highway run at speeds between qqqq - qqqq km/h without air-conditioner, the Volkswagen Polo
+Annotated unit : kilometre per hour
+Tagged unit    : kilometre per hour
+Extracted unit : [kilometre per hour:4.282352447509766]
+Matched. 
+
+
+Example: 89: 
+returns a fuel economy of qqqq kmpl. City mileage: As per our standard
+Annotated unit : kilometre per litre
+Tagged unit    : kilometre per litre
+Extracted unit : [kilometre per litre:1.0535533428192139]
+Matched. 
+
+
+Example: 90: 
+variants having engine capacity of qqqq L . Diesel variants of polo
+Annotated unit : litre
+Tagged unit    : litre
+Extracted unit : [litre:0.9424118995666504]
+Matched. 
+
+
+Example: 91: 
+of polo provide mileage of qqqq kmpl on highways and
+Annotated unit : kilometre per litre
+Tagged unit    : kilometre per litre
+Extracted unit : [kilometre per litre:0.699999988079071]
+Matched. 
+
+
+Example: 92: 
+kmpl on highways and qqqq kmpl in the city.The
+Annotated unit : kilometre per litre
+Tagged unit    : kilometre per litre
+Extracted unit : [kilometre per litre:0.699999988079071]
+Matched. 
+
+
+Example: 93: 
+kmpl in the city.The qqqq L petrol engine of Polo has
+Annotated unit : litre
+Tagged unit    : litre
+Extracted unit : [litre:0.7634422779083252]
+Matched. 
+
+
+Example: 94: 
+Polo has the displacement of qqqq cc .
+Annotated unit : cubic centimetre
+Tagged unit    : cubic centimetre
+Extracted unit : [cubic centimetre:0.7190506458282471]
+Matched. 
+
+
+Example: 95: 
+dropping, as performance/capacity increases.I paid $qqqq  for a
+Annotated unit : united states dollar
+Tagged unit    : united states dollar
+Extracted unit : [united states dollar:0.800466001033783]
+Matched. 
+
+
+Example: 96: 
+for a qqqq GB Mushkin drive in January
+Annotated unit : gigabyte
+Tagged unit    : gigabyte
+Extracted unit : [gigabyte:0.5999999642372131]
+Matched. 
+
+
+Example: 97: 
+These machines use qqqq MiB SLC NAND flash as primary
+Annotated unit : megabyte
+Tagged unit    : mega byte
+Extracted unit : [megabyte:0.699999988079071]
+Matched. 
+
+
+Example: 98: 
+expect to pay upwards around $qqqq -qqqq  for the 32Gb Sandisk if
+Annotated unit : united states dollar
+Tagged unit    : united states dollar
+Extracted unit : [united states dollar:2.0240437984466553]
+Matched. 
+
+
+Example: 99: 
+for the qqqq Gb Sandisk if its purchased on
+Annotated unit : gigabyte
+Tagged unit    : gigabyte
+Extracted unit : [gigabyte:0.5999999642372131]
+Matched. 
+
+
+Example: 100: 
+by Mtron, but its present qqqq Gb SSD (which is still well
+Annotated unit : gigabyte
+Tagged unit    : gigabyte
+Extracted unit : [gigabyte:0.5999999642372131]
+Matched. 
+
+
+Example: 101: 
+pack) can be had for $qqqq US .Size is then another consideration.
+Annotated unit : united states dollar
+Tagged unit    : united states dollar
+Extracted unit : [united states dollar:1.6180675029754639]
+Matched. 
+
+
+Example: 102: 
+servers can deliver up to qqqq percent more Microsoft SQL Server transactions
+Annotated unit :  percent
+Tagged unit    : percent
+Extracted unit : [percent:1.0]
+Matched. 
+
+
+Example: 103: 
+can also deploy up to qqqq percent more SQL virtual machines per
+Annotated unit :  percent
+Tagged unit    : percent
+Extracted unit : null
+Not Matched.
+
+
+Example: 104: 
+used qqqq-kilobyte solid-state storage cartridges containing bubble
+Annotated unit : kilobyte
+Tagged unit    : kilobyte
+Extracted unit : [kilobyte:0.5999999642372131]
+Matched. 
+
+
+Example: 105: 
+a tape backup unit of qqqq MB with a solid state
+Annotated unit : megabyte
+Tagged unit    : megabyte
+Extracted unit : null
+Not Matched.
+
+
+Example: 106: 
+MB with a solid state qqqq MB unit built in.
+Annotated unit : megabyte
+Tagged unit    : megabyte
+Extracted unit : null
+Not Matched.
+
+
+Example: 107: 
+interface with storage space of qqqq TB , read speed of
+Annotated unit : terabyte
+Tagged unit    : terabyte
+Extracted unit : [terabyte:0.5]
+Matched. 
+
+
+Example: 108: 
+TB, read speed of qqqq GB/s , write speed of
+Annotated unit : light-second
+Tagged unit    : gigabyte per second
+Extracted unit : [gigabyte per second:0.6499999761581421]
+Matched. 
+
+
+Example: 109: 
+GB/s, write speed of qqqq GB/s and a low latency of
+Annotated unit : light-second
+Tagged unit    : gigabyte per second
+Extracted unit : [gigabyte per second:0.6499999761581421]
+Matched. 
+
+
+Example: 110: 
+and a low latency of qqqq microseconds .It has
+Annotated unit : microsecond
+Tagged unit    : microsecond
+Extracted unit : [microsecond:2.1753270626068115]
+Matched. 
+
+
+Example: 111: 
+microseconds.It has qqqq M Read
+Annotated unit : megabyte
+Tagged unit    : megabyte
+Extracted unit : [metre:0.010343438014388084]
+Not Matched.
+
+
+Example: 112: 
+M Read qqqq byte IOPS and
+Annotated unit : byte
+Tagged unit    : byte
+Extracted unit : [byte:2.0999999046325684]
+Matched. 
+
+
+Example: 113: 
+byte IOPS and qqqq M Write
+Annotated unit : megabyte
+Tagged unit    : megabyte
+Extracted unit : null
+Not Matched.
+
+
+Example: 114: 
+M Write qqqq byte IOPS.
+Annotated unit : byte
+Tagged unit    : byte
+Extracted unit : [byte:2.0999999046325684]
+Matched. 
+
+
+Example: 115: 
+the Earth's surface, up to qqqq % is UVA (the very longest
+Annotated unit :  percent
+Tagged unit    : percent
+Extracted unit : [percent:1.0]
+Matched. 
+
+
+Example: 116: 
+wavelengths.Ordinary window glass passes about qqqq % of the light above
+Annotated unit :  percent
+Tagged unit    : percent
+Extracted unit : [percent:0.6899999976158142]
+Matched. 
+
+
+Example: 117: 
+of the light above qqqq nm , but blocks over
+Annotated unit : nanometer
+Tagged unit    : nanometre
+Extracted unit : [nanometer:0.7727774977684021]
+Matched. 
+
+
+Example: 118: 
+nm, but blocks over qqqq % of the light below
+Annotated unit :  percent
+Tagged unit    : percent
+Extracted unit : [percent:0.6899999976158142]
+Matched. 
+
+
+Example: 119: 
+of the light below qqqq nm .
+Annotated unit : nanometer
+Tagged unit    : nanometre
+Extracted unit : [nanometer:0.5972862839698792]
+Matched. 
+
+
+Example: 120: 
+in the wavelength range of qqqq nm ; shorter wavelengths are blocked
+Annotated unit : nanometer
+Tagged unit    : nanometre
+Extracted unit : [nanometer:1.5963501930236816]
+Matched. 
+
+
+Example: 121: 
+Power densities approaching W/cm2 ( qqqq kW/m2 ) are now possible, and
+Annotated unit : square centimetre|square metre
+Tagged unit    : kilowatt per square centimetre|kilowatt per square metre
+Extracted unit : [kilowatt per square metre:3.449845790863037]
+Not Matched.
+
+
+Example: 122: 
+UV.The strongest lines are at qqqq nm wavelength in the ultraviolet.
+Annotated unit : nanometer
+Tagged unit    : nanometre
+Extracted unit : [nanometer:0.8662363290786743]
+Matched. 
+
+
+Example: 123: 
+The quartz tube passes the qqqq nm radiation but has impurities that
+Annotated unit : nanometer
+Tagged unit    : nanometre
+Extracted unit : [nanometer:0.6316625475883484]
+Matched. 
+
+
+Example: 124: 
+has impurities that block the qqqq nm wavelength.These "germicidal" lamps are used
+Annotated unit : nanometer
+Tagged unit    : nanometre
+Extracted unit : [nanometer:0.7365933656692505]
+Matched. 
+
+
+Example: 125: 
+optimum operating temperature of about qqqq degrees Celsius .
+Annotated unit : degree celsius
+Tagged unit    : degree celsius
+Extracted unit : [degree celsius:3.097877025604248]
+Matched. 
+
+
+Example: 126: 
+moles per litre) in a qqqq cm sample cuvette, a simple calculation
+Annotated unit : centimetre
+Tagged unit    : centimetre
+Extracted unit : [centimetre:1.1495119333267212]
+Matched. 
+
+
+Example: 127: 
+ultraviolet spectrum from wavelengths about qqqq nm to qqqq nm ('extreme' ultraviolet) are ionizing, but,
+Annotated unit : nanometer|nanometer
+Tagged unit    : nanometre|nanometre
+Extracted unit : [nanometer|nanometer:2.036787509918213]
+Matched. 
+
+
+Example: 128: 
+oscillates at rates between about qqqq terahertz (THz or qqqq hertz) and
+Annotated unit : terahertz|hertz
+Tagged unit    : tera hertz|hertz
+Extracted unit : [terahertz|hertz:1.6227848529815674]
+Matched. 
+
+
+Example: 129: 
+into the near UV ( qqqq to qqqq nanometre wavelengths) and extreme UV
+Annotated unit : nanometer
+Tagged unit    : nanometre
+Extracted unit : [nanometer:3.7594707012176514]
+Matched. 
+
+
+Example: 130: 
+wavelengths) and extreme UV ( qqqq to qqqq nm wavelengths).Normal air is largely opaque
+Annotated unit : nanometer
+Tagged unit    : nanometer
+Extracted unit : [nanometer:1.8347285985946655]
+Matched. 
+
+
+Example: 131: 
+UV with wavelengths shorter than qqqq nm  (the extreme UV range); oxygen
+Annotated unit : nanometer
+Tagged unit    : nanometre
+Extracted unit : [nanometer:1.2851712703704834]
+Matched. 
+
+
+Example: 132: 
+to a wavelength range of qqqq - qqqq nanometres (nm) anda color range of violet
+Annotated unit : nanometer
+Tagged unit    : nanometre
+Extracted unit : [nanometer:2.0464346408843994]
+Matched. 
+
+
+Example: 133: 
+The strongest lines are at qqqq nm wavelength in the ultraviolet.Other lines
+Annotated unit : nanometer
+Tagged unit    : nanometre
+Extracted unit : [nanometer:0.6571812629699707]
+Matched. 
+
+
+Example: 134: 
+lines have been reported at  qqqq nm , also ultraviolet.
+Annotated unit : nanometer
+Tagged unit    : nanometre
+Extracted unit : [nanometer:0.5323442816734314]
+Matched. 
+
+
+Example: 135: 
+prominent He+ spectral line at qqqq nm .
+Annotated unit : nanometer
+Tagged unit    : nanometre
+Extracted unit : [nanometer:0.5169699788093567]
+Matched. 
+
+
+Example: 136: 
+Sensitive ultraviolet photomultipliers are available.Between qqqq and qqqq nm , a variety of detector
+Annotated unit : nanometer
+Tagged unit    : nanometre
+Extracted unit : [nanometer:1.089266300201416]
+Matched. 
+
+
+Example: 137: 
+which is usually to about qqqq nm .
+Annotated unit : nanometer
+Tagged unit    : nanometre
+Extracted unit : [nanometer:0.5568090081214905]
+Matched. 
+
+
+Example: 138: 
+is, in the range between qqqq nm and qqqq nm , corresponding to photon energies
+Annotated unit : nanometer|nanometer
+Tagged unit    : nanometre|nanometre
+Extracted unit : [nanometer|nanometer:2.203239917755127]
+Matched. 
+
+
+Example: 139: 
+corresponding to photon energies from qqqq eV to qqqq eV .It is so-named because the
+Annotated unit : electronvolt|electronvolt
+Tagged unit    : electronvolt|electronvolt
+Extracted unit : [electronvolt|electronvolt:4.0]
+Matched. 
+
+
+Example: 140: 
+corresponds with a wavelength from qqqq nanometres down to approximately
+Annotated unit : nanometer
+Tagged unit    : nanometre
+Extracted unit : [nanometer:1.8864296674728394]
+Matched. 
+
+
+Example: 141: 
+nanometres down to approximately qqqq nanometres .A single light quantum or
+Annotated unit : nanometer
+Tagged unit    : nanometre
+Extracted unit : [nanometer:0.699999988079071]
+Matched. 
+
+
+Example: 142: 
+carries an energy around some qqqq electron volt .
+Annotated unit : electronvolt
+Tagged unit    : electron volt
+Extracted unit : [electronvolt:3.5862321853637695]
+Matched. 
+
+
+Example: 143: 
+(Mo/Si) structures, which allow, e.g., qqqq % reflectivity at
+Annotated unit :  percent
+Tagged unit    : percent
+Extracted unit : [percent:0.6899999976158142]
+Matched. 
+
+
+Example: 144: 
+reflectivity at qqqq nm wavelength to be reached.Due to
+Annotated unit : nanometer
+Tagged unit    : nanometre
+Extracted unit : [nanometer:1.3123024702072144]
+Matched. 
+
+
+Example: 145: 
+for wavelengths in the range qqqq nm ) and for the skin
+Annotated unit : nanometer
+Tagged unit    : nanometre
+Extracted unit : [nanometer:1.5963501930236816]
+Matched. 
+
+
+Example: 146: 
+for the skin (particularly for qqqq nm ), because it can cause
+Annotated unit : nanometer
+Tagged unit    : nanometre
+Extracted unit : [nanometer:0.5]
+Matched. 
+
+
+Example: 147: 
+waves with a frequency of qqqq terahertz or more are called ultraviolet.This
+Annotated unit : terahertz
+Tagged unit    : tera hertz
+Extracted unit : [terahertz:2.370922327041626]
+Matched. 
+
+
+Example: 148: 
+waves of frequencies greater than qqqq Hz .They have high energies (greater
+Annotated unit : hertz
+Tagged unit    : hertz
+Extracted unit : [hertz:1.1615092754364014]
+Matched. 
+
+
+Example: 149: 
+have high energies (greater than qqqq eV perphoton) and extremely short wavelengths
+Annotated unit : electronvolt
+Tagged unit    : electronvolt per photon
+Extracted unit : [electronvolt:1.107021450996399]
+Matched. 
+
+
+Example: 150: 
+extremely short wavelengths (less than qqqq - qqqq m ).Gamma rays can penetrate nearly
+Annotated unit : metre
+Tagged unit    : metre
+Extracted unit : [metre:0.06130078807473183]
+Matched. 
+
+
+Example: 151: 
+that have been detected is qqqq Hz measured from diffuse gamma ray
+Annotated unit : hertz
+Tagged unit    : hertz
+Extracted unit : [hertz:0.721661388874054]
+Matched. 
+
+
+Example: 152: 
+rays" from lightning discharges at qqqq to qqqq MeV , and known to be
+Annotated unit : mega electronvolt
+Tagged unit    : mega electronvolt
+Extracted unit : [mega electronvolt:1.399999976158142]
+Matched. 
+
+
+Example: 153: 
+area of the Earth is qqqq million square kilometres or qqqq km2  .The Earth is a water
+Annotated unit : square kilometre [million]|square kilometre
+Tagged unit    : million square kilometre|square kilometre
+Extracted unit : [square kilometre [million]|square kilometre:5.2661027908325195]
+Matched. 
+
+
+Example: 154: 
+would look like this: land qqqq million km2  , water
+Annotated unit : million
+Tagged unit    : square kilometre [million]
+Extracted unit : [square kilometre [million]:1.6910371780395508]
+Matched. 
+
+
+Example: 155: 
+million km2, water qqqq million km2  .Lets look at how the
+Annotated unit : million
+Tagged unit    : square kilometre [million]
+Extracted unit : [square kilometre [million]:1.3444442749023438]
+Matched. 
+
+
+Example: 156: 
+earth.Total surface area of earth: qqqq sq km There are a total of
+Annotated unit : square kilometre
+Tagged unit    : square kilometre
+Extracted unit : [square kilometre:10.444570541381836]
+Matched. 
+
+
+Example: 157: 
+oceans cover an area of qqqq km2  with a mean depth of
+Annotated unit : square kilometre
+Tagged unit    : square kilometre
+Extracted unit : [square kilometre:1.868749737739563]
+Matched. 
+
+
+Example: 158: 
+with a mean depth of qqqq m , resulting in an estimated
+Annotated unit : metre
+Tagged unit    : metre
+Extracted unit : [metre:0.3393527567386627]
+Matched. 
+
+
+Example: 159: 
+in an estimated volume of qqqq km3  
+Annotated unit : cubic kilometre
+Tagged unit    : cubic kilometre
+Extracted unit : [cubic kilometre:2.129671812057495]
+Matched. 
+
+
+Example: 160: 
+an altitude of more than qqqq km .
+Annotated unit : kilometre
+Tagged unit    : kilometre 
+Extracted unit : [kilometre:1.5367069244384766]
+Matched. 
+
+
+Example: 161: 
+the density increases sharply from qqqq - qqqq tons/m3  to
+Annotated unit : cubic metre
+Tagged unit    : tonne per cubic metre
+Extracted unit : [tonne per cubic metre:1.294418215751648]
+Matched. 
+
+
+Example: 162: 
+tons/m3 to qqqq -qqqq tons/m3  .After that it increases gradually,
+Annotated unit : cubic metre
+Tagged unit    : tonne per cubic metre
+Extracted unit : [tonne per cubic metre:1.25]
+Matched. 
+
+
+Example: 163: 
+that it increases gradually, reaching qqqq tons/m3  at the base of the
+Annotated unit : cubic metre
+Tagged unit    : tonne per cubic metre
+Extracted unit : [tonne per cubic metre:1.2663109302520752]
+Matched. 
+
+
+Example: 164: 
+base of the Gutenberg layer, qqqq tons/m3  at the base of the
+Annotated unit : cubic metre
+Tagged unit    : tonne per cubic metre
+Extracted unit : [tonne per cubic metre:1.262488603591919]
+Matched. 
+
+
+Example: 165: 
+of the Golitsyn layer, and qqqq tons/m3  at the boundary of the
+Annotated unit : cubic metre
+Tagged unit    : tonne per cubic metre
+Extracted unit : [tonne per cubic metre:1.25]
+Matched. 
+
+
+Example: 166: 
+area is either desert ( qqqq % 
+Annotated unit :  percent
+Tagged unit    : percent
+Extracted unit : [percent:1.0]
+Matched. 
+
+
+Example: 167: 
+high mountains ( qqqq % 
+Annotated unit :  percent
+Tagged unit    : percent
+Extracted unit : [percent:1.0]
+Matched. 
+
+
+Example: 168: 
+and carries a volume of qqqq million cubic metres per second   about
+Annotated unit : cubic metre
+Tagged unit    : cubic metre per second [million]
+Extracted unit : [cubic metre per second [million]:14.918559074401855]
+Matched. 
+
+
+Example: 169: 
+would give each person onearth qqqq pounds .The volume of the Earth's
+Annotated unit : pound
+Tagged unit    : pound
+Extracted unit : [pound:0.546441912651062]
+Matched. 
+
+
+Example: 170: 
+the Earth's oceans is approximately qqqq km3  .The largest of the oceans
+Annotated unit : cubic kilometre
+Tagged unit    : cubic kilometre
+Extracted unit : [cubic kilometre:0.699999988079071]
+Matched. 
+
+
+Example: 171: 
+andArctic Ocean.Given their sheer volume, qqqq percent of the living space on
+Annotated unit :  percent
+Tagged unit    : percent
+Extracted unit : [percent:1.0]
+Matched. 
+
+
+Example: 172: 
+the world's ocean is from qqqq to qqqq billion cubic kilometres and it will still get
+Annotated unit : cubit [billion]
+Tagged unit    : cubic kilometre [billion]
+Extracted unit : [cubic kilometre [billion]:3.7800002098083496]
+Matched. 
+
+
+Example: 173: 
+a startup surge wattage of qqqq watts .Energy Guide for a Compact
+Annotated unit : watt
+Tagged unit    : watt
+Extracted unit : [watt:0.8999999761581421]
+Matched. 
+
+
+Example: 174: 
+......A frost-free qqqq cubic foot refrigerator will consume about
+Annotated unit : cubic foot
+Tagged unit    : cubic feet
+Extracted unit : [cubic foot:1.690000057220459]
+Matched. 
+
+
+Example: 175: 
+foot refrigerator will consume about qqqq watts , ... How to Determine
+Annotated unit : watt
+Tagged unit    : watt
+Extracted unit : [watt:0.8999999761581421]
+Matched. 
+
+
+Example: 176: 
+Microwaves typically consume around qqqq to qqqq watts, and a refrigerator will.
+Annotated unit : watt
+Tagged unit    : watt
+Extracted unit : [watt:1.7999999523162842]
+Matched. 
+
+
+Example: 177: 
+finding that it consumed almost qqqq kilowatts a year.We then monitored our
+Annotated unit : kilowatt
+Tagged unit    : kilowatt
+Extracted unit : [kilowatt:0.699999988079071]
+Matched. 
+
+
+Example: 178: 
+= Daily Kilowatt-hour (kW-h) consumption( qqqq kilowatt (kW) = qqqq Watts ).Multiply the result by the
+Annotated unit : kilowatt|watt
+Tagged unit    : kilowatt|watt
+Extracted unit : [kilowatt:1.9749655723571777]
+Not Matched.
+
+
+Example: 179: 
+a kilowatt-hour per day ( qqqq W 
+Annotated unit : watt
+Tagged unit    : watt
+Extracted unit : [watt:0.19999998807907104]
+Matched. 
+
+
+Example: 180: 
+smaller units use less than  qqqq kWh per day 
+Annotated unit : gallon   per day
+Tagged unit    : kilowatt-hour per day
+Extracted unit : [kilowatt-hour per day:1.5538829565048218]
+Matched. 
+
+
+Example: 181: 
+kWh per day ( qqqq W ).
+Annotated unit : watt
+Tagged unit    : watt
+Extracted unit : [watt:0.699999988079071]
+Matched. 
+
+
+Example: 182: 
+per capita production was qqqq kg/capita/year , while it was already
+Annotated unit : kilogram per cubic metre
+Tagged unit    : kilogram per capita per year
+Extracted unit : [kilogram:0.9573697447776794]
+Not Matched.
+
+
+Example: 183: 
+kg/capita/year, while it was already qqqq kg/capita/year in
+Annotated unit : kilogram per cubic metre
+Tagged unit    : kilogram per capita per year
+Extracted unit : null
+Not Matched.
+
+
+Example: 184: 
+with a humble coverage of qqqq million hectares 
+Annotated unit : million
+Tagged unit    : hectare [million]
+Extracted unit : [hectare [million]:4.033332824707031]
+Matched. 
+
+
+Example: 185: 
+of the total area of qqqq million hectare .It has slowly and steadily
+Annotated unit : million
+Tagged unit    : hectare [million]
+Extracted unit : [hectare [million]:9.548215866088867]
+Matched. 
+
+
+Example: 186: 
+area under HYVs reached to qqqq million hectare ( qqqq % )  of area under Wheat.
+Annotated unit : million| percent
+Tagged unit    : hectare [million]|percent
+Extracted unit : [hectare [million]|percent:11.51272964477539]
+Matched. 
+
+
+Example: 187: 
+Average imports for Germany are qqqq TMT , and average exports are
+Annotated unit : kiloton
+Tagged unit    : kiloton
+Extracted unit : [kiloton:1.047843098640442]
+Matched. 
+
+
+Example: 188: 
+TMT, and average exports are qqqq TMT , making Germany the sixth
+Annotated unit : kiloton
+Tagged unit    : kiloton
+Extracted unit : [kiloton:0.9390655755996704]
+Matched. 
+
+
+Example: 189: 
+at qqqq tonnes per hectare( qqqq bushels/acre ). In
+Annotated unit : hectare|acre
+Tagged unit    : tonne per hectare|bushel per acre
+Extracted unit : [tonne per hectare|bushel per acre:63.598907470703125]
+Matched. 
+
+
+Example: 190: 
+Zealand farmer, Michael Solari, with qqqq tonnes per hectare ( qqqq bushels/acre ) at Otama, Gore.
+Annotated unit : hectare|acre
+Tagged unit    : tonne per hectare|bushel per acre
+Extracted unit : [tonne per hectare|bushel per acre:63.598907470703125]
+Matched. 
+
+
+Example: 191: 
+Average qqqq tons wheat was produced on one
+Annotated unit : tonne
+Tagged unit    : tonne
+Extracted unit : [tonne:0.5110855102539062]
+Matched. 
+
+
+Example: 192: 
+however this value was about qqqq tons in
+Annotated unit : tonne
+Tagged unit    : tonne
+Extracted unit : [tonne:0.3999999761581421]
+Matched. 
+
+
+Example: 193: 
+amount of wheat consumed is qqqq TMT .Exports for Turkey average
+Annotated unit : kiloton
+Tagged unit    : kiloton
+Extracted unit : [kiloton:1.155957818031311]
+Matched. 
+
+
+Example: 194: 
+TMT.Exports for Turkey average qqqq TMT and imports average
+Annotated unit : kiloton
+Tagged unit    : kiloton
+Extracted unit : [kiloton:1.047843098640442]
+Matched. 
+
+
+Example: 195: 
+TMT and imports average qqqq TMT .
+Annotated unit : kiloton
+Tagged unit    : kiloton
+Extracted unit : [kiloton:0.9545586109161377]
+Matched. 
+
+
+Example: 196: 
+world production of wheat was qqqq ton [million]s , making it the third
+Annotated unit : million
+Tagged unit    : ton [million]
+Extracted unit : [ton [million]:3.7833330631256104]
+Matched. 
+
+
+Example: 197: 
+most-produced cereal after maize ( qqqq ton [million]s ) and rice
+Annotated unit : million
+Tagged unit    : ton [million]
+Extracted unit : [ton [million]:3.7833330631256104]
+Matched. 
+
+
+Example: 198: 
+ton [million]s) and rice ( qqqq ton [million]s ).
+Annotated unit : million
+Tagged unit    : ton [million]
+Extracted unit : [ton [million]:3.7833330631256104]
+Matched. 
+
+
+Example: 199: 
+On average, India consumes qqqq TMT of wheat, ranking them as
+Annotated unit : kiloton
+Tagged unit    : kiloton
+Extracted unit : [kiloton:0.8069652318954468]
+Matched. 
+
+
+Example: 200: 
+Nearly qqqq -qqqq ton [million]nes of durum wheat (valued
+Annotated unit : million
+Tagged unit    : ton [million]
+Extracted unit : [ton [million]:3.7833330631256104]
+Matched. 
+
+
+Example: 201: 
+[million]nes of durum wheat (valued US$qqqq million ) is traded annually worldwide.India
+Annotated unit : united states dollar
+Tagged unit    : united states dollar [million]
+Extracted unit : [united states dollar [million]:3.754103422164917]
+Matched. 
+
+
+Example: 202: 
+producer, but almost all the qqqq ton [million]nes produced by it is consumed
+Annotated unit : million
+Tagged unit    : ton [million]
+Extracted unit : [ton [million]:3.7833330631256104]
+Matched. 
+
+
+Example: 203: 
+is estimated at qqqq ton [million]nes , i.e.,
+Annotated unit : million
+Tagged unit    : ton [million]
+Extracted unit : [ton [million]:3.7833330631256104]
+Matched. 
+
+
+Example: 204: 
+ton [million]nes, i.e., qqqq ton [million]nes less than in
+Annotated unit : million
+Tagged unit    : ton [million]
+Extracted unit : [ton [million]:3.7833330631256104]
+Matched. 
+
+
+Example: 205: 
+inches ( qqqq mm ) thick.He decided on a
+Annotated unit : millimetre
+Tagged unit    : millimetre
+Extracted unit : [millimetre:2.5661847591400146]
+Matched. 
+
+
+Example: 206: 
+a height of just over qqqq feet ( qqqq m ) for the statue, double
+Annotated unit : foot|metre
+Tagged unit    : feet|metre
+Extracted unit : [foot|metre:1.36636483669281]
+Matched. 
+
+
+Example: 207: 
+measurement, the full height is qqqq ft .Miss Liberty sits proudly atop
+Annotated unit : foot
+Tagged unit    : feet
+Extracted unit : [foot:2.1824135780334473]
+Matched. 
+
+
+Example: 208: 
+Liberty sits proudly atop the qqqq ft . tall foundation fashioned in
+Annotated unit : foot
+Tagged unit    : feet
+Extracted unit : [foot:0.699999988079071]
+Matched. 
+
+
+Example: 209: 
+an eleven-point star, and an qqqq ft . stone pedestal.Wow!That lady's got
+Annotated unit : foot
+Tagged unit    : feet
+Extracted unit : [foot:0.699999988079071]
+Matched. 
+
+
+Example: 210: 
+true, Miss Liberty's feet are qqqq ft long, making her a US
+Annotated unit : foot
+Tagged unit    : feet
+Extracted unit : [foot:1.063252568244934]
+Matched. 
+
+
+Example: 211: 
+the Statue of Liberty is qqqq ft . from the base to
+Annotated unit : foot
+Tagged unit    : feet
+Extracted unit : [foot:1.102769374847412]
+Matched. 
+
+
+Example: 212: 
+Day Mark: Green (copper patina)Height: qqqq feet ,
+Annotated unit : foot
+Tagged unit    : feet
+Extracted unit : [foot:0.6284566521644592]
+Matched. 
+
+
+Example: 213: 
+feet, qqqq feet from base of statue to
+Annotated unit : foot
+Tagged unit    : feet
+Extracted unit : [foot:0.25513142347335815]
+Matched. 
+
+
+Example: 214: 
+feet heel to head about qqqq feet base to torch
+Annotated unit : foot
+Tagged unit    : feet
+Extracted unit : [foot:0.4232058525085449]
+Matched. 
+
+
+Example: 215: 
+feet base to torch qqqq Metres (from the ground to the
+Annotated unit : metre
+Tagged unit    : metre
+Extracted unit : [metre:0.9077476859092712]
+Matched. 
+
+
+Example: 216: 
+the tip of the torch) qqqq ft .The statue itself is
+Annotated unit : foot
+Tagged unit    : feet
+Extracted unit : [foot:1.9120714664459229]
+Matched. 
+
+
+Example: 217: 
+ft.The statue itself is qqqq metres ( qqqq ft. ) in height.With the pedestal and
+Annotated unit : metre|foot
+Tagged unit    : metre|feet
+Extracted unit : [metre|foot:4.115408897399902]
+Matched. 
+
+
+Example: 218: 
+it is London towermore than qqqq ft .
+Annotated unit : foot
+Tagged unit    : feet
+Extracted unit : [foot:0.7402177453041077]
+Matched. 
+
+
+Example: 219: 
+find yourself consuming an easy qqqq calories with just a single egg.Most
+Annotated unit : calorie
+Tagged unit    : calorie
+Extracted unit : [calorie:0.5999999642372131]
+Matched. 
+
+
+Example: 220: 
+fried with minimal fat has qqqq calories .There is
+Annotated unit : calorie
+Tagged unit    : calorie
+Extracted unit : [calorie:0.5999999642372131]
+Matched. 
+
+
+Example: 221: 
+calories.There is qqqq calories in
+Annotated unit : calorie
+Tagged unit    : calorie
+Extracted unit : [calorie:0.5999999642372131]
+Matched. 
+
+
+Example: 222: 
+large egg yolk contains approximately qqqq calories (qqqq kilojoules) ; the egg white contains
+Annotated unit : calorie|kilo joule
+Tagged unit    : calorie|kilojoule
+Extracted unit : [calorie|kilo joule:45.3599853515625]
+Matched. 
+
+
+Example: 223: 
+the egg white contains about qqqq calories (qqqq kilojoules) .
+Annotated unit : calorie|kilo joule
+Tagged unit    : calorie|kilojoule
+Extracted unit : [calorie|kilo joule:50.40001678466797]
+Matched. 
+
+
+Example: 224: 
+salary of the President to INR qqqq lakh ( US$qqqq ).Rashtrapati Bhavan is the official
+Annotated unit : lakh|united states dollar
+Tagged unit    : Indian rupee [lakh]|united states dollar
+Extracted unit : [indian rupee [lakh]:5.227577209472656]
+Not Matched.
+
+
+Example: 225: 
+the amount was increased to Rs.qqqq  in the year
+Annotated unit : indian rupee
+Tagged unit    : Indian rupee
+Extracted unit : [indian rupee:3.2164700031280518]
+Matched. 
+
+
+Example: 226: 
+the President was increased to Rs.qqqq  in the year
+Annotated unit : indian rupee
+Tagged unit    : Indian rupee
+Extracted unit : [indian rupee:3.3128623962402344]
+Matched. 
+
+
+Example: 227: 
+care of by the annual qqqq crore (approx.
+Annotated unit : crore
+Tagged unit    : crore
+Extracted unit : [crore:0.7213937640190125]
+Matched. 
+
+
+Example: 228: 
+SALARY :# Annual: INR qqqq  # Monthly: INR
+Annotated unit : indian rupee
+Tagged unit    : Indian rupee
+Extracted unit : [indian rupee:1.418440341949463]
+Matched. 
+
+
+Example: 229: 
+Monthly: INR qqqq  # Weekly: INR
+Annotated unit : indian rupee
+Tagged unit    : Indian rupee
+Extracted unit : [indian rupee:1.3836162090301514]
+Matched. 
+
+
+Example: 230: 
+Weekly: INR qqqq  # Daily: INR
+Annotated unit : indian rupee
+Tagged unit    : Indian rupee
+Extracted unit : [indian rupee:1.3316807746887207]
+Matched. 
+
+
+Example: 231: 
+Daily: INR qqqq  Notification: the salarychecker is based
+Annotated unit : indian rupee
+Tagged unit    : Indian rupee
+Extracted unit : [indian rupee:1.113446831703186]
+Matched. 
+
+
+Example: 232: 
+the salary of President to Rs.qqqq lakh (US$ qqqq ).
+Annotated unit : lakh|united states dollar
+Tagged unit    : indian rupee [lakh]|united states dollar
+Extracted unit : [indian rupee [lakh]:11.016944885253906]
+Not Matched.
+
+
+Example: 233: 
+the salary of presedent to qqqq lakh (qqqq US$) so Indian prIt is
+Annotated unit : lakh|united states dollar
+Tagged unit    : lakh|united states dollar
+Extracted unit : [lakh|united states dollar:4.191239356994629]
+Matched. 
+
+
+Example: 234: 
+lakh(3000US$)so Indian prIt is qqqq crore s.one lakh fifty thousands no
+Annotated unit : crore
+Tagged unit    : crore
+Extracted unit : [crore:0.699999988079071]
+Matched. 
+
+
+Example: 235: 
+Vice President of India is Rs.qqqq Rs .
+Annotated unit : indian rupee
+Tagged unit    : Indian rupee
+Extracted unit : [indian rupee:3.127361297607422]
+Matched. 
+
+
+Example: 236: 
+GDP per capita has increase qqqq % since
+Annotated unit :  percent
+Tagged unit    : percent
+Extracted unit : [percent:0.6899999976158142]
+Matched. 
+
+
+Example: 237: 
+( $qqqq to $qqqq  ).That sounds great until you
+Annotated unit : united states dollar|united states dollar
+Tagged unit    : united states dollar|united states dollar
+Extracted unit : [united states dollar:3.7694311141967773]
+Not Matched.
+
+
+Example: 238: 
+for the country has risen qqqq % 
+Annotated unit :  percent
+Tagged unit    : percent
+Extracted unit : [percent:1.0]
+Matched. 
+
+
+Example: 239: 
+($qqqq billion to $qqqq trillion ) in that same time
+Annotated unit : united states dollar|united states dollar
+Tagged unit    : united states doller[billion]|united states dollar [trillion]
+Extracted unit : [united states dollar [billion]:2.1133334636688232]
+Not Matched.
+
+
+Example: 240: 
+are approximately qqqq million employed individuals in the US.
+Annotated unit : million
+Tagged unit    : million
+Extracted unit : [million:0.6444444060325623]
+Matched. 
+
+
+Example: 241: 
+economic activity, advanced at a qqqq % pace in the third quarter.Businesses
+Annotated unit :  percent
+Tagged unit    : percent
+Extracted unit : [percent:0.6899999976158142]
+Matched. 
+
+
+Example: 242: 
+in the third quarter.Businesses accumulated  $qqqq billion worth of inventories, the most
+Annotated unit : united states dollar
+Tagged unit    : united states dollar [billion]
+Extracted unit : [united states dollar [billion]:2.2578952312469482]
+Matched. 
+
+
+Example: 243: 
+adding qqqq % to GDP growth.Inventories had increased
+Annotated unit :  percent
+Tagged unit    : percent
+Extracted unit : [percent:1.0]
+Matched. 
+
+
+Example: 244: 
+to GDP growth.Inventories had increased $qqqq billion in the third quarter, contributing
+Annotated unit : united states dollar
+Tagged unit    : united states dollar [billion]
+Extracted unit : [united states dollar [billion]:2.2425432205200195]
+Matched. 
+
+
+Example: 245: 
+in the third quarter, contributing qqqq % to output.Excluding inventories, the economy
+Annotated unit :  percent
+Tagged unit    : percent
+Extracted unit : [percent:0.6899999976158142]
+Matched. 
+
+
+Example: 246: 
+the economy grew at a qqqq % rate, up from the third-quarter's
+Annotated unit :  percent
+Tagged unit    : percent
+Extracted unit : [percent:0.6899999976158142]
+Matched. 
+
+
+Example: 247: 
+rate, up from the third-quarter's qqqq % rate.The sturdy increase in final
+Annotated unit :  percent
+Tagged unit    : percent
+Extracted unit : [percent:0.6899999976158142]
+Matched. 
+
+
+Example: 248: 
+basis they are down by Rs qqqq crore and on a nominal term
+Annotated unit : crore
+Tagged unit    : Indian rupee [crore]
+Extracted unit : [indian rupee [crore]:4.258670330047607]
+Matched. 
+
+
+Example: 249: 
+down a little more, maybe  Rs qqqq crore .
+Annotated unit : crore
+Tagged unit    : Indian rupee [crore]
+Extracted unit : [indian rupee [crore]:4.663349151611328]
+Matched. 
+
+
+Example: 250: 
+GDP of about $qqqq trillion compared to South Korea's
+Annotated unit : united states dollar
+Tagged unit    : united states dollar [trillion]
+Extracted unit : [united states dollar [trillion]:1.994349479675293]
+Matched. 
+
+
+Example: 251: 
+trillion compared to South Korea's $qqqq trillion .Illinois
+Annotated unit : united states dollar
+Tagged unit    : united states dollar [trillion]
+Extracted unit : [united states dollar [trillion]:0.7233334183692932]
+Matched. 
+
+
+Example: 252: 
+comparable to Saudi Arabia ( $qqqq billion ) and its oil-driven economy.Another
+Annotated unit : united states dollar
+Tagged unit    : united states dollar [billion]
+Extracted unit : [united states dollar [billion]:1.3418947458267212]
+Matched. 
+
+
+Example: 253: 
+surprise is that Colorado (at $qqqq billion ) is bigger than Egypt
+Annotated unit : united states dollar
+Tagged unit    : united states dollar [billion]
+Extracted unit : [united states dollar [billion]:1.853438377380371]
+Matched. 
+
+
+Example: 254: 
+is bigger than Egypt (at $qqqq billion ).The
+Annotated unit : united states dollar
+Tagged unit    : united states dollar [billion]
+Extracted unit : [united states dollar [billion]:1.853438377380371]
+Matched. 
+
+
+Example: 255: 
+entire United States was about $qqqq trillion .Check it out:reddit/imgur/PhaenthiAbout|Business
+Annotated unit : united states dollar
+Tagged unit    : united states dollar [trillion]
+Extracted unit : [united states dollar [trillion]:1.9755301475524902]
+Matched. 
+
+
+Example: 256: 
+on: high household debt ( $qqqq trillion , including
+Annotated unit : united states dollar
+Tagged unit    : united states dollar [trillion]
+Extracted unit : [united states dollar [trillion]:1.9453632831573486]
+Matched. 
+
+
+Example: 257: 
+trillion, including $qqqq trillion in revolving
+Annotated unit : united states dollar
+Tagged unit    : united states dollar [trillion]
+Extracted unit : [united states dollar [trillion]:1.8114547729492188]
+Matched. 
+
+
+Example: 258: 
+high net national debt ( $qqqq trillion ), high corporate debt
+Annotated unit : united states dollar
+Tagged unit    : united states dollar [trillion]
+Extracted unit : [united states dollar [trillion]:1.8352166414260864]
+Matched. 
+
+
+Example: 259: 
+trillion), high corporate debt ( $qqqq trillion ), high mortgage debt (over
+Annotated unit : united states dollar
+Tagged unit    : united states dollar [trillion]
+Extracted unit : [united states dollar [trillion]:1.8930338621139526]
+Matched. 
+
+
+Example: 260: 
+trillion), high mortgage debt (over $qqqq trillion as of
+Annotated unit : united states dollar
+Tagged unit    : united states dollar [trillion]
+Extracted unit : [united states dollar [trillion]:1.7658882141113281]
+Matched. 
+
+
+Example: 261: 
+international investment position (NIIP) ( qqqq % of GDP),
+Annotated unit :  percent
+Tagged unit    : percent
+Extracted unit : [percent:1.0]
+Matched. 
+
+
+Example: 262: 
+raised that ceiling an additional $qqqq trillion to $qqqq trillion , which is approximately
+Annotated unit : united states dollar|united states dollar
+Tagged unit    : united states dollar [trillion]|united states dollar [trillion]
+Extracted unit : [united states dollar [trillion]:2.5921988487243652]
+Not Matched.
+
+
+Example: 263: 
+trillion, which is approximately qqqq % of
+Annotated unit :  percent
+Tagged unit    : percent
+Extracted unit : [percent:0.6899999976158142]
+Matched. 
+
+
+Example: 264: 
+the debt of Japan ( qqqq % ) (the overwhelming number of
+Annotated unit :  percent
+Tagged unit    : percent
+Extracted unit : [percent:1.190000057220459]
+Matched. 
+
+
+Example: 265: 
+ran a budget deficit of $qqqq trillion .
+Annotated unit : united states dollar
+Tagged unit    : united states dollar [trillion]
+Extracted unit : [united states dollar [trillion]:2.0264368057250977]
+Matched. 
+
+
+Example: 266: 
+trade deficits, which fell from $qqqq billion annually during the
+Annotated unit : united states dollar
+Tagged unit    : united states dollar [billion]
+Extracted unit : [united states dollar [billion]:2.0100350379943848]
+Matched. 
+
+
+Example: 267: 
+period, to $qqqq billion in
+Annotated unit : united states dollar
+Tagged unit    : united states dollar [billion]
+Extracted unit : [united states dollar [billion]:1.0201289653778076]
+Matched. 
+
+
+Example: 268: 
+from a historic low of qqqq %  in early
+Annotated unit :  percent
+Tagged unit    : percent
+Extracted unit : [percent:0.6899999976158142]
+Matched. 
+
+
+Example: 269: 
+to nearly qqqq % in late
+Annotated unit :  percent
+Tagged unit    : percent
+Extracted unit : [percent:0.6899999976158142]
+Matched. 
+
+
+Example: 270: 
+Windows Live Division raked in $qqqq billion , or
+Annotated unit : united states dollar
+Tagged unit    : united states dollar [billion]
+Extracted unit : [united states dollar [billion]:2.2021284103393555]
+Matched. 
+
+
+Example: 271: 
+billion, or qqqq % of the firm's revenue for
+Annotated unit :  percent
+Tagged unit    : percent
+Extracted unit : [percent:0.6899999976158142]
+Matched. 
+
+
+Example: 272: 
+before taxes.Last quarter, Business produced $qqqq billion of the total
+Annotated unit : united states dollar
+Tagged unit    : united states dollar [billion]
+Extracted unit : [united states dollar [billion]:2.3244142532348633]
+Matched. 
+
+
+Example: 273: 
+billion of the total $qqqq billion in operating income, or
+Annotated unit : united states dollar
+Tagged unit    : united states dollar [billion]
+Extracted unit : [united states dollar [billion]:2.206927537918091]
+Matched. 
+
+
+Example: 274: 
+billion in operating income, or qqqq % .
+Annotated unit :  percent
+Tagged unit    : percent
+Extracted unit : [percent:0.6899999976158142]
+Matched. 
+
+
+Example: 275: 
+a corporate bond amounting to $qqqq billion with relatively low borrowing rates
+Annotated unit : united states dollar
+Tagged unit    : united states dollar [billion]
+Extracted unit : [united states dollar [billion]:2.306800603866577]
+Matched. 
+
+
+Example: 276: 
+operating system market share exceeding qqqq % and its global annual revenue
+Annotated unit :  percent
+Tagged unit    : percent
+Extracted unit : [percent:1.0]
+Matched. 
+
+
+Example: 277: 
+annual revenue of more than $qqqq billion .
+Annotated unit : united states dollar
+Tagged unit    : united states dollar [billion]
+Extracted unit : [united states dollar [billion]:2.216155529022217]
+Matched. 
+
+
+Example: 278: 
+Yes, theyre over $qqqq billion ahead of Microsoft a company
+Annotated unit : united states dollar
+Tagged unit    : united states dollar [billion]
+Extracted unit : [united states dollar [billion]:2.009768486022949]
+Matched. 
+
+
+Example: 279: 
+million in revenue and has qqqq million in costs of goods sold,
+Annotated unit : million
+Tagged unit    : million
+Extracted unit : [million:0.7149130702018738]
+Matched. 
+
+
+Example: 280: 
+the company's revenue is still qqqq million .(Expenses are not accounted in
+Annotated unit : million
+Tagged unit    : million
+Extracted unit : [million:0.8672690391540527]
+Matched. 
+
+
+Example: 281: 
+Microsoft touted $qqqq billion in net income for the
+Annotated unit : united states dollar
+Tagged unit    : united states dollar [billion]
+Extracted unit : [united states dollar [billion]:2.175808906555176]
+Matched. 
+
+
+Example: 282: 
+Microsoft posted quarterly revenue of $qqqq billion .Meanwhile, Apple posted quarterly revenue
+Annotated unit : united states dollar
+Tagged unit    : united states dollar [billion]
+Extracted unit : [united states dollar [billion]:2.203660011291504]
+Matched. 
+
+
+Example: 283: 
+Apple posted quarterly revenue of $qqqq billion an all-time record for them
+Annotated unit : united states dollar
+Tagged unit    : united states dollar [billion]
+Extracted unit : [united states dollar [billion]:1.0846068859100342]
+Matched. 
+
+
+Example: 284: 
+Microsoft's market capitalization stands at  $qqqq B 
+Annotated unit : united states dollar
+Tagged unit    : united states dollar [billion]
+Extracted unit : [united states dollar:2.05725359916687]
+Matched. 
+
+
+Example: 285: 
+buy Nokia's mobile unit for $qqqq billion 
+Annotated unit : united states dollar
+Tagged unit    : united states dollar [billion]
+Extracted unit : [united states dollar [billion]:2.2821085453033447]
+Matched. 
+
+
+Example: 286: 
+Microsofts revenue rose by about $qqqq billion .Apples almost doubled again, from
+Annotated unit : united states dollar
+Tagged unit    : united states dollar [billion]
+Extracted unit : [united states dollar [billion]:2.1068618297576904]
+Matched. 
+
+
+Example: 287: 
+Microsoft loses a staggering US$qqqq billion every year from pirated Windows
+Annotated unit : united states dollar
+Tagged unit    : united states dollar [billion]
+Extracted unit : [united states dollar [billion]:3.2005269527435303]
+Matched. 
+
+
+Example: 288: 
+total piracy rate of about qqqq % and the number even higher
+Annotated unit :  percent
+Tagged unit    : percent
+Extracted unit : [percent:0.6899999976158142]
+Matched. 
+
+
+Example: 289: 
+with a net loss of $qqqq million due to a writedown related
+Annotated unit : united states dollar
+Tagged unit    : united states dollar [million]
+Extracted unit : [united states dollar [million]:2.4869039058685303]
+Matched. 
+
+
+Example: 290: 
+which had been acquired for $qqqq billion back in
+Annotated unit : united states dollar
+Tagged unit    : united states dollar [billion]
+Extracted unit : [united states dollar [billion]:1.0800905227661133]
+Matched. 
+
+
+Example: 291: 
+gap has grown.The gap was $qqqq billion at the time.
+Annotated unit : united states dollar
+Tagged unit    : united states dollar [billion]
+Extracted unit : [united states dollar [billion]:0.8899999260902405]
+Matched. 
+
+
+Example: 292: 
+are reported to be only qqqq % and
+Annotated unit :  percent
+Tagged unit    : percent
+Extracted unit : [percent:0.6899999976158142]
+Matched. 
+
+
+Example: 293: 
+putting the dropout rate at qqqq per cent 
+Annotated unit :  percent
+Tagged unit    : percent
+Extracted unit : null
+Not Matched.
+
+
+Example: 294: 
+is estimated that at least qqqq million , and possibly as many
+Annotated unit : million
+Tagged unit    : million
+Extracted unit : [million:0.6444444060325623]
+Matched. 
+
+
+Example: 295: 
+and possibly as many as qqqq million , children aged
+Annotated unit : million
+Tagged unit    : million
+Extracted unit : [million:0.6444444060325623]
+Matched. 
+
+
+Example: 296: 
+The male litreacy rate is qqqq % and female litreacy rate is
+Annotated unit :  percent
+Tagged unit    : percent
+Extracted unit : [percent:1.0]
+Matched. 
+
+
+Example: 297: 
+and female litreacy rate is qqqq % .The social system in India
+Annotated unit :  percent
+Tagged unit    : percent
+Extracted unit : [percent:0.6899999976158142]
+Matched. 
+
+
+Example: 298: 
+the country has increased from qqqq % in
+Annotated unit :  percent
+Tagged unit    : percent
+Extracted unit : [percent:0.6899999976158142]
+Matched. 
+
+
+Example: 299: 
+rate has also increased from qqqq % in
+Annotated unit :  percent
+Tagged unit    : percent
+Extracted unit : [percent:0.6899999976158142]
+Matched. 
+
+
+Example: 300: 
+litreacy in the country is qqqq % .The litreacy rate in the
+Annotated unit :  percent
+Tagged unit    : percent
+Extracted unit : [percent:0.6899999976158142]
+Matched. 
+
+
+Example: 301: 
+world average litreacy rate of qqqq % 
+Annotated unit :  percent
+Tagged unit    : percent
+Extracted unit : [percent:1.0]
+Matched. 
+
+
+Example: 302: 
+Indian states account for about qqqq % of all illitreates in India:
+Annotated unit :  percent
+Tagged unit    : percent
+Extracted unit : [percent:0.6899999976158142]
+Matched. 
+
+
+Example: 303: 
+of all Indian illitreates ( qqqq % ) are in the six
+Annotated unit :  percent
+Tagged unit    : percent
+Extracted unit : [percent:1.190000057220459]
+Matched. 
+
+
+Example: 304: 
+litreacy rates being lower at qqqq % than that of their male
+Annotated unit :  percent
+Tagged unit    : percent
+Extracted unit : [percent:1.0]
+Matched. 
+
+
+Example: 305: 
+of their male counterparts at qqqq % .
+Annotated unit :  percent
+Tagged unit    : percent
+Extracted unit : [percent:1.0]
+Matched. 
+
+
+Example: 306: 
+average a top speed of qqqq km/h (qqqq mph) 
+Annotated unit : kilometre per hour|mile per hour
+Tagged unit    : kilometre per hour|mile per hour
+Extracted unit : [kilometre per hour|mile per hour:6.490396022796631]
+Matched. 
+
+
+Example: 307: 
+the Veyron will brake from qqqq km/h (qqqq mph) to a standstill in less
+Annotated unit : kilometre per hour|mile per hour
+Tagged unit    : kilometre per hour|mile per hour
+Extracted unit : [kilometre per hour|mile per hour:3.580000638961792]
+Matched. 
+
+
+Example: 308: 
+a standstill in less than qqqq seconds , though distance covered in
+Annotated unit : second
+Tagged unit    : second
+Extracted unit : [second:0.19999992847442627]
+Matched. 
+
+
+Example: 309: 
+with a top speed of qqqq mph and was designed and developed
+Annotated unit : mile per hour
+Tagged unit    : mile per hour
+Extracted unit : [mile per hour:1.7509241104125977]
+Matched. 
+
+
+Example: 310: 
+Bugatti claims maximum deceleration of qqqq g  on road tyres.As an added
+Annotated unit : standard gravity
+Tagged unit    : standard gravity
+Extracted unit : [gram:0.2584415674209595]
+Not Matched.
+
+
+Example: 311: 
+have been subjected to repeated qqqq g braking from
+Annotated unit : standard gravity
+Tagged unit    : standard gravity
+Extracted unit : [gram:0.2584415674209595]
+Not Matched.
+
+
+Example: 312: 
+g braking from qqqq km/h(qqqq mph) to
+Annotated unit : kilometre per hour|mile per hour
+Tagged unit    : kilometre per hour|mile per hour
+Extracted unit : [kilometre per hour|mile per hour:3.580000638961792]
+Matched. 
+
+
+Example: 313: 
+mph) to qqqq km/h (qqqq mph) without fade.
+Annotated unit : kilometre per hour|mile per hour
+Tagged unit    : kilometre per hour|mile per hour
+Extracted unit : [kilometre per hour|mile per hour:3.580000638961792]
+Matched. 
+
+
+Example: 314: 
+to its top speed of qqqq km/h (qqqq mph) .In series
+Annotated unit : kilometre per hour|mile per hour
+Tagged unit    : kilometre per hour|mile per hour
+Extracted unit : [kilometre per hour|mile per hour:6.001657485961914]
+Matched. 
+
+
+Example: 315: 
+top speed is listed at qqqq km/h (qqqq mph) .When the car reaches
+Annotated unit : kilometre per hour|mile per hour
+Tagged unit    : kilometre per hour|mile per hour
+Extracted unit : [kilometre per hour|mile per hour:5.436875343322754]
+Matched. 
+
+
+Example: 316: 
+mph).When the car reaches qqqq km/h (qqqq mph) , hydraulics lower the car
+Annotated unit : kilometre per hour|mile per hour
+Tagged unit    : kilometre per hour|mile per hour
+Extracted unit : [kilometre per hour|mile per hour:3.580000638961792]
+Matched. 
+
+
+Example: 317: 
+a ground clearance of about qqqq cm (qqqq in) .
+Annotated unit : centimetre|inch
+Tagged unit    : centimetre|inch
+Extracted unit : [centimetre|inch:2.2724533081054688]
+Matched. 
+
+
+Example: 318: 
+With a recorded speed of qqqq km/h (qqqq mph) the Hennessey was
+Annotated unit : kilometre per hour|mile per hour
+Tagged unit    : kilometre per hour|mile per hour
+Extracted unit : [kilometre per hour|mile per hour:5.649447441101074]
+Matched. 
+
+
+Example: 319: 
+mph) the Hennessey was qqqq km/h (qqqq mph) slower than the Veyron but
+Annotated unit : kilometre per hour|mile per hour
+Tagged unit    : kilometre per hour|mile per hour
+Extracted unit : [kilometre per hour|mile per hour:3.580000638961792]
+Matched. 
+
+
+Example: 320: 
+Super Sport was restricted to qqqq km/h (qqqq mph) in production form and that
+Annotated unit : kilometre per hour|mile per hour
+Tagged unit    : kilometre per hour|mile per hour
+Extracted unit : [kilometre per hour|mile per hour:3.580000638961792]
+Matched. 
+
+
+Example: 321: 
+its record top speed of qqqq km/h(qqqq mph) , the car used was
+Annotated unit : kilometre per hour|mile per hour
+Tagged unit    : kilometre per hour|mile per hour
+Extracted unit : [kilometre per hour|mile per hour:5.996866703033447]
+Matched. 
+
+
+Example: 322: 
+the MBA program is about $qqqq  , which includes accommodation as
+Annotated unit : united states dollar
+Tagged unit    : united states dollar
+Extracted unit : [united states dollar:1.9418352842330933]
+Matched. 
+
+
+Example: 323: 
+abundance by mass of only qqqq parts per million (ppm) .
+Annotated unit :  perch [million]
+Tagged unit    :  per million
+Extracted unit : [ per million:1.0444443225860596]
+Matched. 
+
+
+Example: 324: 
+At qqqq °C , the density is
+Annotated unit : degree celsius
+Tagged unit    : degree celsius
+Extracted unit : [degree celsius:0.7151268720626831]
+Matched. 
+
+
+Example: 325: 
+At 100C, the density is  qqqq  and the vapor pressure
+Annotated unit : 
+Tagged unit    : 
+Extracted unit : null
+Matched. 
+
+
+Example: 326: 
+and the vapor pressure qqqq mmHg .Mercury is denser than lead,
+Annotated unit : millimetre of mercury
+Tagged unit    : millimetre of mercury
+Extracted unit : [millimetre of mercury:1.0]
+Matched. 
+
+
+Example: 327: 
+in grams per cubic centimetre: qqqq g/cm3  Axis of MercuryLike all of
+Annotated unit : cubic centimetre
+Tagged unit    : gram per cubic centimetre
+Extracted unit : [centimetre:1.8536771535873413]
+Not Matched.
+
+
+Example: 328: 
+case, Mercurys axial tilt is qqqq degrees .What exactly is a planets
+Annotated unit : degree
+Tagged unit    : degree
+Extracted unit : []
+Not Matched.
+
+
+Example: 329: 
+density of mercury (Hg) is qqqq grams per millilitre .
+Annotated unit : gram per millilitre
+Tagged unit    : gram per millilitre
+Extracted unit : [gram per millilitre:2.9659337997436523]
+Matched. 
+
+
+Example: 330: 
+low concentrations in the range qqqq g/m2  
+Annotated unit : square metre
+Tagged unit    : gram per square metre
+Extracted unit : [gram per square metre:1.1084415912628174]
+Matched. 
+
+
+Example: 331: 
+shown that acute exposure ( qqqq hours ) to calculated elemental mercury
+Annotated unit : hour
+Tagged unit    : hour
+Extracted unit : [hour:3.100512742996216]
+Matched. 
+
+
+Example: 332: 
+calculated elemental mercury levels of qqqq to qqqq mg/m3  resulted in chest pain, dyspnea,
+Annotated unit : cubic metre
+Tagged unit    : milligram per cubic metre
+Extracted unit : [milligram per cubic metre:2.808480739593506]
+Matched. 
+
+
+Example: 333: 
+alcohol!The density of titanium is qqqq kg/m3  .Calculate the mass of
+Annotated unit : kilogram per cubic metre
+Tagged unit    : kilogram per cubic metre
+Extracted unit : [kilogram per cubic metre:3.109722137451172]
+Matched. 
+
+
+Example: 334: 
+kg/m3.Calculate the mass of qqqq m3  titanium!m =
+Annotated unit : cubic metre
+Tagged unit    : cubic metre
+Extracted unit : [cubic metre:0.5999999642372131]
+Matched. 
+
+
+Example: 335: 
+m3 titanium!m = ( qqqq m3  )
+Annotated unit : cubic metre
+Tagged unit    : cubic metre
+Extracted unit : [cubic metre:1.0999999046325684]
+Matched. 
+
+
+Example: 336: 
+m3) ( qqqq kg/m2  ) =
+Annotated unit : square metre
+Tagged unit    : kilogram per square metre
+Extracted unit : [kilogram per square metre:1.9800001382827759]
+Matched. 
+
+
+Example: 337: 
+kg/m3) = qqqq (kg) Specific Weight is defined as
+Annotated unit : kilogram
+Tagged unit    : kilogram
+Extracted unit : [kilogram per cubic metre:2.680000066757202]
+Not Matched.
+
+
+Example: 338: 
+uncompressed state, Mercury's density is qqqq g/cm3  where Earth's is only
+Annotated unit : cubic centimetre
+Tagged unit    : gram per cubic centimetre
+Extracted unit : [gram per cubic centimetre:1.2411489486694336]
+Matched. 
+
+
+Example: 339: 
+g/cm3 where Earth's is only qqqq g/cm2  .This high density indicates that
+Annotated unit : square centimetre
+Tagged unit    : gram per square centimetre
+Extracted unit : [gram per square centimetre:1.2084414958953857]
+Matched. 
+
+
+Example: 340: 
+indicates that the planet is qqqq to qqqq percent by weight metal, and
+Annotated unit :  percent
+Tagged unit    : percent
+Extracted unit : [percent:1.0]
+Matched. 
+
+
+Example: 341: 
+percent by weight metal, and qqqq percent by weight silicate.
+Annotated unit :  percent
+Tagged unit    : percent
+Extracted unit : [percent:1.0]
+Matched. 
+
+
+Example: 342: 
+.The density of mercury = qqqq kg/m^3 or qqqq gram/cubic centimetre The realtive density means the
+Annotated unit : cubic centimetre|cubic centimetre
+Tagged unit    : kilogram per cubic centimetre|gram per cubic centimetre
+Extracted unit : [gram per cubic centimetre of atmosphere:4.2266364097595215]
+Not Matched.
+
+
+Example: 343: 
+the day temperature ranges between qqqq °C .The nights may dip to
+Annotated unit : degree celsius
+Tagged unit    : degree celsius
+Extracted unit : [degree celsius:1.9241360425949097]
+Matched. 
+
+
+Example: 344: 
+C.The nights may dip to qqqq °C in late December but average
+Annotated unit : degree celsius
+Tagged unit    : degree celsius
+Extracted unit : [degree celsius:0.7310835719108582]
+Matched. 
+
+
+Example: 345: 
+late December but average around qqqq °C .
+Annotated unit : degree celsius
+Tagged unit    : degree celsius
+Extracted unit : [degree celsius:0.7167267799377441]
+Matched. 
+
+
+Example: 346: 
+the minimum temperature recorded was qqqq °C , which was the lowest
+Annotated unit : degree celsius
+Tagged unit    : degree celsius
+Extracted unit : [degree celsius:1.0]
+Matched. 
+
+
+Example: 347: 
+a mean minimum temp of qqqq °C and mean maximum temp of
+Annotated unit : degree celsius
+Tagged unit    : degree celsius
+Extracted unit : [degree celsius:2.1110682487487793]
+Matched. 
+
+
+Example: 348: 
+and mean maximum temp of qqqq °C .
+Annotated unit : degree celsius
+Tagged unit    : degree celsius
+Extracted unit : [degree celsius:2.075093984603882]
+Matched. 
+
+
+Example: 349: 
+with mean daily minimum being qqqq  °C and mean daily maximum
+Annotated unit : degree celsius
+Tagged unit    : degree celsius
+Extracted unit : [degree celsius:1.028632402420044]
+Matched. 
+
+
+Example: 350: 
+and mean daily maximum being qqqq °C 
+Annotated unit : degree celsius
+Tagged unit    : degree celsius
+Extracted unit : [degree celsius:0.7987949848175049]
+Matched. 
+
+
+Example: 351: 
+with daytime highs of around qqqq °C and night-time lows of around
+Annotated unit : degree celsius
+Tagged unit    : degree celsius
+Extracted unit : [degree celsius:0.7500678300857544]
+Matched. 
+
+
+Example: 352: 
+and night-time lows of around qqqq °C .
+Annotated unit : degree celsius
+Tagged unit    : degree celsius
+Extracted unit : [degree celsius:0.699999988079071]
+Matched. 
+
+
+Example: 353: 
+cm.Temperature is around qqqq °C and qqqq °C respectively.Winter time Weather and Climate
+Annotated unit : degree celsius|degree celsius
+Tagged unit    : degree celsius|degree celsius
+Extracted unit : [degree celsius|degree celsius:4.814997673034668]
+Matched. 
+
+
+Example: 354: 
+is in the range of qqqq -qqqq °C .
+Annotated unit : degree celsius
+Tagged unit    : degree celsius
+Extracted unit : [degree celsius:0.7253548502922058]
+Matched. 
+
+
+Example: 355: 
+max temperature might drop to qqqq °C and the night at
+Annotated unit : degree celsius
+Tagged unit    : degree celsius
+Extracted unit : [degree celsius:2.0470399856567383]
+Matched. 
+
+
+Example: 356: 
+C and the night at qqqq °C 
+Annotated unit : degree celsius
+Tagged unit    : degree celsius
+Extracted unit : [degree celsius:0.7343612313270569]
+Matched. 
+
+
+Example: 357: 
+and minimum temperature are around qqqq °C and qqqq °C respectively.Weather Temperature in
+Annotated unit : degree celsius
+Tagged unit    : degree celsius
+Extracted unit : [degree celsius|degree celsius:4.24481201171875]
+Not Matched.
+
+
+Example: 358: 
+for the month is around qqqq °C with the average minimum at
+Annotated unit : degree celsius
+Tagged unit    : degree celsius
+Extracted unit : [degree celsius:0.7240901589393616]
+Matched. 
+
+
+Example: 359: 
+with the average minimum at qqqq °C 
+Annotated unit : degree celsius
+Tagged unit    : degree celsius
+Extracted unit : [degree celsius:0.8431361317634583]
+Matched. 
+
+
+Example: 360: 
+daily maximum stays at around qqqq °C and mean daily minimum stays
+Annotated unit : degree celsius
+Tagged unit    : degree celsius
+Extracted unit : [degree celsius:0.9237160682678223]
+Matched. 
+
+
+Example: 361: 
+mean daily minimum stays at qqqq °C 
+Annotated unit : degree celsius
+Tagged unit    : degree celsius
+Extracted unit : [degree celsius:0.7454770803451538]
+Matched. 
+
+
+Example: 362: 
+mean daily minimum staying at qqqq °C  and the mean daily maximum
+Annotated unit : degree celsius
+Tagged unit    : degree celsius
+Extracted unit : [degree celsius:1.028632402420044]
+Matched. 
+
+
+Example: 363: 
+mean daily maximum staying around qqqq °C 
+Annotated unit : degree celsius
+Tagged unit    : degree celsius
+Extracted unit : [degree celsius:0.7987949848175049]
+Matched. 
+
+
+Example: 364: 
+showers.The day highs hover around qqqq °C .
+Annotated unit : degree celsius
+Tagged unit    : degree celsius
+Extracted unit : [degree celsius:0.7375649809837341]
+Matched. 
+
+
+Example: 365: 
+mean maximum daily temperatures reach qqqq °C while daily mean minimum temperature
+Annotated unit : degree celsius
+Tagged unit    : degree celsius
+Extracted unit : [degree celsius:1.0]
+Matched. 
+
+
+Example: 366: 
+mean minimum temperature stays at qqqq °C 
+Annotated unit : degree celsius
+Tagged unit    : degree celsius
+Extracted unit : [degree celsius:1.0]
+Matched. 
+
+
+Example: 367: 
+being absorbed, typically up to qqqq cm  for electron energies in the
+Annotated unit : centimetre
+Tagged unit    : centimetre
+Extracted unit : [centimetre:1.1524622440338135]
+Matched. 
+
+
+Example: 368: 
+electron energies in the range qqqq MeV .
+Annotated unit : mega electronvolt
+Tagged unit    : mega electronvolt
+Extracted unit : [mega electronvolt:0.699999988079071]
+Matched. 
+
+
+Example: 369: 
+photon with an energy of qqqq eV  has a wavelength of
+Annotated unit : electronvolt
+Tagged unit    : electron volt
+Extracted unit : [electronvolt:3.335303783416748]
+Matched. 
+
+
+Example: 370: 
+eV has a wavelength of qqqq m , in the ultraviolet part
+Annotated unit : metre
+Tagged unit    : metre
+Extracted unit : [metre:0.2768571078777313]
+Matched. 
+
+
+Example: 371: 
+It takes only qqqq eV of energy for this jump.It
+Annotated unit : electronvolt
+Tagged unit    : electron volt
+Extracted unit : [electronvolt:2.4702634811401367]
+Matched. 
+
+
+Example: 372: 
+level, it must have exactly -qqqq eV of energy.If it is in
+Annotated unit : electronvolt
+Tagged unit    : electron volt
+Extracted unit : [electronvolt:3.1411750316619873]
+Matched. 
+
+
+Example: 373: 
+energy level, it must have -qqqq eV  of energy.
+Annotated unit : electronvolt
+Tagged unit    : electron volt
+Extracted unit : [electronvolt:3.183500289916992]
+Matched. 
+
+
+Example: 374: 
+a beam energy of qqqq GeV , the first high-energy particle
+Annotated unit : giga electronvolt
+Tagged unit    : giga electron volt
+Extracted unit : [giga electronvolt:1.764265775680542]
+Matched. 
+
+
+Example: 375: 
+h is Planck's constant ( qqqq eV s ) and c is the
+Annotated unit : electronvolt
+Tagged unit    : electronvolt second
+Extracted unit : [electronvolt:1.0]
+Matched. 
+
+
+Example: 376: 
+the speed of light ( qqqq m/s ).Rearranging this equation to find
+Annotated unit : metre per second
+Tagged unit    : metre per second
+Extracted unit : [metre per second:4.665818691253662]
+Matched. 
+
+
+Example: 377: 
+energy levels must have exactly qqqq eV of energy, the light absorbed
+Annotated unit : electronvolt
+Tagged unit    : electron volt
+Extracted unit : [electronvolt:3.176682472229004]
+Matched. 
+
+
+Example: 378: 
+has a surface temperature between qqqq and qqqq Kelvin .
+Annotated unit : kelvin
+Tagged unit    : kelvin
+Extracted unit : [kelvin:3.208383083343506]
+Matched. 
+
+
+Example: 379: 
+of the Sun, which is qqqq W , or
+Annotated unit : watt
+Tagged unit    : watt
+Extracted unit : [watt:0.19999998807907104]
+Matched. 
+
+
+Example: 380: 
+idea is to place a qqqq -watt light bulb andthe sun on
+Annotated unit : watt
+Tagged unit    : watt
+Extracted unit : [watt:0.8999999761581421]
+Matched. 
+
+
+Example: 381: 
+from the photometre to the qqqq -W bulb until the flux of
+Annotated unit : watt
+Tagged unit    : watt
+Extracted unit : [watt:0.19999998807907104]
+Matched. 
+
+
+Example: 382: 
+of the solarluminosity, Lsun = qqqq x qqqq watts 
+Annotated unit : watt
+Tagged unit    : watt
+Extracted unit : [watt:1.7999999523162842]
+Matched. 
+
+
+Example: 383: 
+unlimited data plan at just qqqq USD per month .This price is really worth
+Annotated unit : united states dollar
+Tagged unit    : united states dollar per month
+Extracted unit : [united states dollar per month:4.958827018737793]
+Matched. 
+
+
+Example: 384: 
+Taj Mahal's construction was about qqqq million rupees .[Citation needed] At that time,
+Annotated unit : million
+Tagged unit    : Indian rupee [million]
+Extracted unit : [indian rupee [million]:0.9409171342849731]
+Matched. 
+
+
+Example: 385: 
+rupees.[Citation needed] At that time, qqqq gram of gold was sold for
+Annotated unit : gram
+Tagged unit    : gram
+Extracted unit : [gram:1.0950368642807007]
+Matched. 
+
+
+Example: 386: 
+gold was sold for about qqqq rupees Based on the October
+Annotated unit : indian rupee
+Tagged unit    : Indian rupee
+Extracted unit : [indian rupee:0.548276960849762]
+Matched. 
+
+
+Example: 387: 
+would translate to more than qqqq million US$ .
+Annotated unit : united states dollar
+Tagged unit    : united states dollar [million]
+Extracted unit : [united states dollar [million]:3.7252960205078125]
+Matched. 
+
+
+Example: 388: 
+is expected to peak at qqqq billion in
+Annotated unit : billion
+Tagged unit    : billion
+Extracted unit : [billion:0.35749998688697815]
+Matched. 
+
+
+Example: 389: 
+million in 1850 to qqqq million in
+Annotated unit : million
+Tagged unit    : million
+Extracted unit : [million:0.6444444060325623]
+Matched. 
+
+
+Example: 390: 
+and now stands at over qqqq billion .The population of the Indian
+Annotated unit : billion
+Tagged unit    : billion
+Extracted unit : [billion:0.5091809034347534]
+Matched. 
+
+
+Example: 391: 
+subcontinent, which stood at about qqqq million in
+Annotated unit : million
+Tagged unit    : million
+Extracted unit : [million:0.6444444060325623]
+Matched. 
+
+
+Example: 392: 
+reached qqqq million  in
+Annotated unit : million
+Tagged unit    : million
+Extracted unit : [million:0.6444444060325623]
+Matched. 
+
+
+Example: 393: 
+countries are home to about qqqq billion  people.
+Annotated unit : billion
+Tagged unit    : billion
+Extracted unit : [billion:0.215124249458313]
+Matched. 
+
+
+Example: 394: 
+and India, together constitute about qqqq % of the world's population.Africa is
+Annotated unit :  percent
+Tagged unit    : percent
+Extracted unit : [percent:1.0]
+Matched. 
+
+
+Example: 395: 
+the second-most-populated continent, with around qqqq billion people, or
+Annotated unit : billion
+Tagged unit    : billion
+Extracted unit : [billion:0.19999998807907104]
+Matched. 
+
+
+Example: 396: 
+billion people, or qqqq % of the world's population.
+Annotated unit :  percent
+Tagged unit    : percent
+Extracted unit : [percent:0.6899999976158142]
+Matched. 
+
+
+Example: 397: 
+to more than qqqq million in the early 21st century.
+Annotated unit : million
+Tagged unit    : million
+Extracted unit : [million:0.6444444060325623]
+Matched. 
+
+
+Example: 398: 
+has a population of around qqqq million 
+Annotated unit : million
+Tagged unit    : million
+Extracted unit : [million:1.567102074623108]
+Matched. 
+
+
+Example: 399: 
+million ( qqqq % ), and Oceania, the least-populated
+Annotated unit :  percent
+Tagged unit    : percent
+Extracted unit : [percent:1.190000057220459]
+Matched. 
+
+
+Example: 400: 
+the least-populated region, has about qqqq million inhabitants
+Annotated unit : million
+Tagged unit    : million
+Extracted unit : [million:0.6444444060325623]
+Matched. 
+
+
+Example: 401: 
+million inhabitants ( qqqq % 
+Annotated unit :  percent
+Tagged unit    : percent
+Extracted unit : [percent:0.6899999976158142]
+Matched. 
+
+
+Example: 402: 
+reported to be close to qqqq million ; toward the end of
+Annotated unit : million
+Tagged unit    : million
+Extracted unit : [million:0.5903748273849487]
+Matched. 
+
+
+Example: 403: 
+it may have approached qqqq million 
+Annotated unit : million
+Tagged unit    : million
+Extracted unit : [million:0.6444444060325623]
+Matched. 
+
+
+Example: 404: 
+England's population reached an estimated qqqq million in
+Annotated unit : million
+Tagged unit    : million
+Extracted unit : [million:1.3936032056808472]
+Matched. 
+
+
+Example: 405: 
+up from an estimated qqqq million in
+Annotated unit : million
+Tagged unit    : million
+Extracted unit : [million:0.6444444060325623]
+Matched. 
+
+
+Example: 406: 
+population decline from an estimated qqqq million around
+Annotated unit : million
+Tagged unit    : million
+Extracted unit : [million:1.3936032056808472]
+Matched. 
+
+
+Example: 407: 
+the global population will reach qqqq billion by
+Annotated unit : billion
+Tagged unit    : billion
+Extracted unit : [billion:0.7405462861061096]
+Matched. 
+
+
+Example: 408: 
+and will likely reach around qqqq billion by
+Annotated unit : billion
+Tagged unit    : billion
+Extracted unit : [billion:0.19999998807907104]
+Matched. 
+
+
+Example: 409: 
+range from a low of qqqq billion to a high of more
+Annotated unit : billion
+Tagged unit    : billion
+Extracted unit : [billion:0.19999998807907104]
+Matched. 
+
+
+Example: 410: 
+a high of more than qqqq billion .
+Annotated unit : billion
+Tagged unit    : billion
+Extracted unit : [billion:0.12999999523162842]
+Matched. 
+
+
+Example: 411: 
+population expected to become between  qqqq and qqqq billion by
+Annotated unit : billion
+Tagged unit    : billion
+Extracted unit : [billion:1.4951239824295044]
+Matched. 
+
+
+Example: 412: 
+range between qqqq and qqqq billion 
+Annotated unit : billion
+Tagged unit    : billion
+Extracted unit : [billion:0.3999999761581421]
+Matched. 
+
+
+Example: 413: 
+of the world's population.Europe's qqqq million people make up
+Annotated unit : million
+Tagged unit    : million
+Extracted unit : [million:1.5428502559661865]
+Matched. 
+
+
+Example: 414: 
+million people make up qqqq %  of the world's population(as of
+Annotated unit :  percent
+Tagged unit    : percent
+Extracted unit : [percent:0.6899999976158142]
+Matched. 
+
+
+Example: 415: 
+regions are home to around qqqq million 
+Annotated unit : million
+Tagged unit    : million
+Extracted unit : [million:0.6444444060325623]
+Matched. 
+
+
+Example: 416: 
+mid range estimate upwards by qqqq million .Alternately, the United States Census
+Annotated unit : million
+Tagged unit    : million
+Extracted unit : [million:0.6813748478889465]
+Matched. 
+
+
+Example: 417: 
+to above  qqqq billion people (which was the UN's
+Annotated unit : billion
+Tagged unit    : billion
+Extracted unit : [billion:0.19999998807907104]
+Matched. 
+
+
+Example: 418: 
+up from qqqq billion people.A new United States Census
+Annotated unit : billion
+Tagged unit    : billion
+Extracted unit : [billion:0.4718884825706482]
+Matched. 
+
+
+Example: 419: 
+its projections further, to beyond qqqq billion in
+Annotated unit : billion
+Tagged unit    : billion
+Extracted unit : [billion:0.19999998807907104]
+Matched. 
+
+
+Example: 420: 
+it is estimated to number  qqqq billion by the United States Census
+Annotated unit : billion
+Tagged unit    : billion
+Extracted unit : [billion:0.2685686945915222]
+Matched. 
+
+
+Example: 421: 
+that the world population exceeded qqqq billion  on March
+Annotated unit : billion
+Tagged unit    : billion
+Extracted unit : [billion:0.7802276611328125]
+Matched. 
+
+
+Example: 422: 
+the Russian population was about qqqq million fewer than it could have
+Annotated unit : million
+Tagged unit    : million
+Extracted unit : [million:1.1696985960006714]
+Matched. 
+
+
+Example: 423: 
+population has declined significantly from qqqq million in
+Annotated unit : million
+Tagged unit    : million
+Extracted unit : [million:1.567102074623108]
+Matched. 
+
+
+Example: 424: 
+of Europe was more than qqqq million in
+Annotated unit : million
+Tagged unit    : million
+Extracted unit : [million:0.6444444060325623]
+Matched. 
+
+
+Example: 425: 
+world's population from an estimated qqqq million in
+Annotated unit : million
+Tagged unit    : million
+Extracted unit : [million:1.4127252101898193]
+Matched. 
+
+
+Example: 426: 
+to between qqqq and qqqq million in
+Annotated unit : million
+Tagged unit    : million
+Extracted unit : [million:1.2888888120651245]
+Matched. 
+
+
+Example: 427: 
+Around qqqq billion  people
+Annotated unit : billion
+Tagged unit    : billion
+Extracted unit : [billion:0.22342728078365326]
+Matched. 
+
+
+Example: 428: 
+billion people ( qqqq %  of the world population) live
+Annotated unit :  percent
+Tagged unit    : percent
+Extracted unit : [percent:0.6899999976158142]
+Matched. 
+
+
+Example: 429: 
+poverty, subsisting on less than US$qqqq per day 
+Annotated unit : united states dollar
+Tagged unit    : united states dollar per day
+Extracted unit : [united states dollar per day:6.379093170166016]
+Matched. 
+
+
+Example: 430: 
+approximately qqqq million people  
+Annotated unit : million
+Tagged unit    : million
+Extracted unit : [million:0.6591123342514038]
+Matched. 
+
+
+Example: 431: 
+million people ( qqqq % ) are
+Annotated unit :  percent
+Tagged unit    : percent
+Extracted unit : [percent:1.190000057220459]
+Matched. 
+
+
+Example: 432: 
+Europes population increased from about qqqq million to over qqqq million 
+Annotated unit : million|million
+Tagged unit    : million|million
+Extracted unit : [million:1.2379348278045654]
+Not Matched.
+
+
+Example: 433: 
+areas of European settlement comprised qqqq % of the world's population in
+Annotated unit :  percent
+Tagged unit    : percent
+Extracted unit : [percent:0.6899999976158142]
+Matched. 
+
+
+Example: 434: 
+of England had grown to qqqq million , and by
+Annotated unit : million
+Tagged unit    : million
+Extracted unit : [million:0.6444444060325623]
+Matched. 
+
+
+Example: 435: 
+it had reached qqqq million ; the population of the
+Annotated unit : million
+Tagged unit    : million
+Extracted unit : [million:1.4170410633087158]
+Matched. 
+
+
+Example: 436: 
+of the United Kingdom reached  qqqq million in
+Annotated unit : million
+Tagged unit    : million
+Extracted unit : [million:0.6444444060325623]
+Matched. 
+
+
+Example: 437: 
+when it was near qqqq million 
+Annotated unit : million
+Tagged unit    : million
+Extracted unit : [million:0.6444444060325623]
+Matched. 
+
+
+Example: 438: 
+growth global population increases above qqqq % per year briefly occurred during
+Annotated unit :  percent
+Tagged unit    : percent per year
+Extracted unit : [percent per year:3.1626086235046387]
+Matched. 
+
+
+Example: 439: 
+population to drop by around qqqq % between
+Annotated unit :  percent
+Tagged unit    : percent
+Extracted unit : [percent:0.6899999976158142]
+Matched. 
+
+
+Example: 440: 
+measured speed of light is qqqq km/sec are actually frames non-rotating with
+Annotated unit : kilometre per second
+Tagged unit    : kilometre per second
+Extracted unit : [kilometre per second:3.910534381866455]
+Matched. 
+
+
+Example: 441: 
+through the gem at over qqqq million miles per hour (almost qqqq km/s ) not a speed to
+Annotated unit : mile per hour|kilometre per second
+Tagged unit    : mile per hour [million]|kilometre per second
+Extracted unit : [mile per hour [million]|kilometre per second:13.125514030456543]
+Matched. 
+
+
+Example: 442: 
+through a vacuum at about qqqq miles, or qqqq kilometres, per second .
+Annotated unit : kilometre per second|mile per second
+Tagged unit    : kilometre per second|Mile per second
+Extracted unit : [mile|kilometre per second:3.2611072063446045]
+Not Matched.
+
+
+Example: 443: 
+in vacuum to be c= qqqq m/s .This was
+Annotated unit : metre per second
+Tagged unit    : metre per second
+Extracted unit : [metre per second:2.680000066757202]
+Matched. 
+
+
+Example: 444: 
+His result of qqqq miles per second (qqqq km/s) was accepted as the most
+Annotated unit : mile per second|kilometre per second
+Tagged unit    : mile per second|kilometre per second
+Extracted unit : [mile per second|kilometre per second:11.4399995803833]
+Matched. 
+
+
+Example: 445: 
+of light, which is almost qqqq kilometres per second , can be manipulated by
+Annotated unit : kilometre per second
+Tagged unit    : kilometre per second
+Extracted unit : [kilometre per second:2.6800005435943604]
+Matched. 
+
+
+Example: 446: 
+light in a wormhole at qqqq metres/sec , for example, then he
+Annotated unit : metre per second
+Tagged unit    : metre per second
+Extracted unit : [metre per second:0.7558823227882385]
+Matched. 
+
+
+Example: 447: 
+those angels traveling at only qqqq metres/sec , flapping their wings in
+Annotated unit : metre per second
+Tagged unit    : metre per second
+Extracted unit : [metre per second:0.8266159296035767]
+Matched. 
+
+
+Example: 448: 
+bright).A smaller time dilation (say qqqq or qqqq years vs. one day) can also
+Annotated unit : year
+Tagged unit    : year
+Extracted unit : [year:2.4447031021118164]
+Matched. 
+
+
+Example: 449: 
+to be zero (and not qqqq km/s ).
+Annotated unit : kilometre per second
+Tagged unit    : kilometre per second
+Extracted unit : [kilometre per second:2.679999828338623]
+Matched. 
+
+
+Example: 450: 
+air is 299705km/s or about qqqq km/s slower than c.In most practical
+Annotated unit : kilometre per second
+Tagged unit    : kilometre per second
+Extracted unit : [kilometre per second:2.679999828338623]
+Matched. 
+
+
+Example: 451: 
+is of the order of qqqq milliseconds .
+Annotated unit : millisecond
+Tagged unit    : millisecond
+Extracted unit : [millisecond:2.157121419906616]
+Matched. 
+
+
+Example: 452: 
+light outside gravitational fields is qqqq km/s are those who are themselves
+Annotated unit : kilometre per second
+Tagged unit    : kilometre per second
+Extracted unit : [kilometre per second:2.679999828338623]
+Matched. 
+
+
+Example: 453: 
+the speed of light.This value, qqqq kilometres per second , was based on a
+Annotated unit : kilometre per second
+Tagged unit    : kilometre per second
+Extracted unit : [kilometre per second:3.179485559463501]
+Matched. 
+
+
+Example: 454: 
+the speed of light is qqqq kilometres per second , the closest measurement achieved
+Annotated unit : kilometre per second
+Tagged unit    : kilometre per second
+Extracted unit : [kilometre per second:3.622807502746582]
+Matched. 
+
+
+Example: 455: 
+speed of light at about qqqq miles (or qqqq kilometres) per second. 
+Annotated unit : mile per second|kilometre per second
+Tagged unit    : mile per second|kilometre per second
+Extracted unit : [mile|kilometre per second:3.8047914505004883]
+Not Matched.
+
+
+Example: 456: 
+month for the Arabs was qqqq Earth days , but Earth (the reference
+Annotated unit : day
+Tagged unit    : day
+Extracted unit : null
+Not Matched.
+
+
+Example: 457: 
+was and still is non-inertial. qqqq km/sec is the measured speed of
+Annotated unit : kilometre per second
+Tagged unit    : kilometre per second
+Extracted unit : [kilometre per second:3.406802177429199]
+Matched. 
+
+
+Example: 458: 
+of physics.Its value is exactly qqqq metres per second , a figure that is
+Annotated unit : metre per second
+Tagged unit    : metre per second
+Extracted unit : [metre per second:5.360001087188721]
+Matched. 
+
+
+Example: 459: 
+of an Asianmale elephant is qqqq m and 2300kg, about half the
+Annotated unit : metre
+Tagged unit    : metre
+Extracted unit : [metre:0.018799319863319397]
+Matched. 
+
+
+Example: 460: 
+Asianmale elephant is 3m and qqqq kg , about half the weight
+Annotated unit : kilogram
+Tagged unit    : kilogram
+Extracted unit : [kilogram:2.1562793254852295]
+Matched. 
+
+
+Example: 461: 
+an average height of about qqqq m and weigh an averageof 3000kg.Even
+Annotated unit : metre
+Tagged unit    : metre
+Extracted unit : [metre:0.3378777503967285]
+Matched. 
+
+
+Example: 462: 
+and weigh an averageof qqqq kg .Even though elephants weigh so
+Annotated unit : kilogram
+Tagged unit    : kilogram
+Extracted unit : [kilogram:0.7324226498603821]
+Matched. 
+
+
+Example: 463: 
+muchshorter in height averaging about qqqq m , and weigh much less
+Annotated unit : metre
+Tagged unit    : metre
+Extracted unit : [metre:0.33762362599372864]
+Matched. 
+
+
+Example: 464: 
+less than males at about qqqq kg .Asian elephants are shorter and
+Annotated unit : kilogram
+Tagged unit    : kilogram
+Extracted unit : [kilogram:0.8058298826217651]
+Matched. 
+
+
+Example: 465: 
+may reach a height of qqqq m and weigh about 7000kg.However female
+Annotated unit : metre
+Tagged unit    : metre
+Extracted unit : [metre:0.3422295153141022]
+Matched. 
+
+
+Example: 466: 
+of 4m and weigh about qqqq kg .However female elephants also known
+Annotated unit : kilogram
+Tagged unit    : kilogram
+Extracted unit : [kilogram:1.1118513345718384]
+Matched. 
+
+
+Example: 467: 
+African elephants weighs up to qqqq to qqqq kilograms , while Asian Elephants weighs
+Annotated unit : kilogram
+Tagged unit    : kilogram
+Extracted unit : [kilogram:1.4635727405548096]
+Matched. 
+
+
+Example: 468: 
+Asian Elephants weighs up to qqqq to qqqq kilograms .The skeleton of an elephant
+Annotated unit : kilogram
+Tagged unit    : kilogram
+Extracted unit : [kilogram:1.399999976158142]
+Matched. 
+
+
+Example: 469: 
+of an elephant weighs about qqqq % of its total weight.The Elephants
+Annotated unit :  percent
+Tagged unit    : percent
+Extracted unit : [percent:1.0]
+Matched. 
+
+
+Example: 470: 
+their brain alone is about qqqq to qqqq kilograms .
+Annotated unit : kilogram
+Tagged unit    : kilogram
+Extracted unit : [kilogram:1.6379952430725098]
+Matched. 
+
+
+Example: 471: 
+an African elephant is about qqqq to qqqq metres , and Asian Elephants are
+Annotated unit : metre
+Tagged unit    : metre
+Extracted unit : [metre:1.1528955698013306]
+Matched. 
+
+
+Example: 472: 
+metres, and Asian Elephants are qqqq to qqqq metres tall.
+Annotated unit : metre
+Tagged unit    : metre
+Extracted unit : [metre:0.8117647171020508]
+Matched. 
+
+
+Example: 473: 
+and average weight qqqq t (qqqq short tons) rarely exceeding
+Annotated unit : tonne|ton, short
+Tagged unit    : tonne|short ton
+Extracted unit : [ton, short:7.273360252380371]
+Not Matched.
+
+
+Example: 474: 
+by Sir Brooke and measured qqqq ft (qqqq m) in length, and nearly 17in
+Annotated unit : foot|metre
+Tagged unit    : feet|metre
+Extracted unit : [foot|metre:2.8444347381591797]
+Matched. 
+
+
+Example: 475: 
+in length, and nearly qqqq in (qqqq cm) in circumference, and weighed 90lb
+Annotated unit : inch|centimetre
+Tagged unit    : inch|centimetre
+Extracted unit : [inch|centimetre:3.0473015308380127]
+Matched. 
+
+
+Example: 476: 
+(43cm) in circumference, and weighed qqqq lb (qqqq kg) .The tusk's weight was, however,
+Annotated unit : pound|kilogram
+Tagged unit    : pound|kilogram
+Extracted unit : [pound|kilogram:4.172207832336426]
+Matched. 
+
+
+Example: 477: 
+a shorter tusk of about qqqq ft (qqqq m) in length which weighed 100lb
+Annotated unit : foot|metre
+Tagged unit    : feet|metre
+Extracted unit : [foot|metre:2.9763402938842773]
+Matched. 
+
+
+Example: 478: 
+in length which weighed qqqq lb (qqqq kg) .
+Annotated unit : pound|kilogram
+Tagged unit    : pound|kilogram
+Extracted unit : [pound|kilogram:1.9000000953674316]
+Matched. 
+
+
+Example: 479: 
+threads at a time.TDP is qqqq watts which makes it perfect for
+Annotated unit : watt
+Tagged unit    : watt
+Extracted unit : [watt:0.8999999761581421]
+Matched. 
+
+
+Example: 480: 
+offers an qqqq MHz higher CPU and
+Annotated unit : megahertz
+Tagged unit    : MHz
+Extracted unit : [megahertz:0.8450666069984436]
+Matched. 
+
+
+Example: 481: 
+MHz higher CPU and qqqq MHz higher GPU clock rate.Inside the
+Annotated unit : megahertz
+Tagged unit    : MHz
+Extracted unit : [megahertz:1.9862860441207886]
+Matched. 
+
+
+Example: 482: 
+the E1-1500two Bobcat corescan access qqqq KB level
+Annotated unit : kilobyte
+Tagged unit    : kilobyte
+Extracted unit : [kilobyte:0.03333336114883423]
+Matched. 
+
+
+Example: 483: 
+a graphics clock speed of qqqq MHz , which is a small
+Annotated unit : megahertz
+Tagged unit    : MHz
+Extracted unit : [megahertz:2.035831928253174]
+Matched. 
+
+
+Example: 484: 
+TSI comes powered by the qqqq L 16V TSi petrol engine mated
+Annotated unit : litre
+Tagged unit    : litre
+Extracted unit : [litre:0.5955858826637268]
+Matched. 
+
+
+Example: 485: 
+performance with a mileage of qqqq kmpl on the city roads and
+Annotated unit : kilometre per litre
+Tagged unit    : kilometre per litre
+Extracted unit : [kilometre per litre:0.699999988079071]
+Matched. 
+
+
+Example: 486: 
+on the city roads and qqqq kmpl on the highways.Ed's take: The
+Annotated unit : kilometre per litre
+Tagged unit    : kilometre per litre
+Extracted unit : [kilometre per litre:0.699999988079071]
+Matched. 
+
+
+Example: 487: 
+mileage of this vehicle is qqqq kmpl .Since this variant has been
+Annotated unit : kilometre per litre
+Tagged unit    : kilometre per litre
+Extracted unit : [kilometre per litre:0.699999988079071]
+Matched. 
+
+
+Example: 488: 
+read speed of qqqq GB/s , write speed of
+Annotated unit : light-second
+Tagged unit    : gigabyte per second
+Extracted unit : [gigabyte per second:0.6499999761581421]
+Matched. 
+
+
+Example: 489: 
+write speed of qqqq GB/s and a low latency of
+Annotated unit : light-second
+Tagged unit    : gigabyte per second
+Extracted unit : [gigabyte per second:0.6499999761581421]
+Matched. 
+
+
+Example: 490: 
+low latency of 30microseconds.It has qqqq M Read
+Annotated unit : megabyte
+Tagged unit    : mega byte
+Extracted unit : [metre:0.026056265458464622]
+Not Matched.
+
+
+Example: 491: 
+Read qqqq byte IOPS and
+Annotated unit : byte
+Tagged unit    : byte
+Extracted unit : [byte:2.0999999046325684]
+Matched. 
+
+
+Example: 492: 
+Write qqqq byte IOPS.
+Annotated unit : byte
+Tagged unit    : byte
+Extracted unit : [byte:2.0999999046325684]
+Matched. 
+
+
+Example: 493: 
+Sun released the Sun Storage qqqq  Unified Storage Systems (codenamed Amber
+Annotated unit : 
+Tagged unit    : 
+Extracted unit : [:1.0]
+Not Matched.
+
+
+Example: 494: 
+began to offer optional qqqq GB solid state drives on select
+Annotated unit : gigabyte
+Tagged unit    : gigabyte
+Extracted unit : [gigabyte:0.5999999642372131]
+Matched. 
+
+
+Example: 495: 
+SSDs come in capacities of qqqq GB and qqqq GB and are targeted
+Annotated unit : gigabyte|gigabyte
+Tagged unit    : gigabyte|gigabyte
+Extracted unit : [gigabyte|gigabyte:1.2000000476837158]
+Matched. 
+
+
+Example: 496: 
+by Intel until now was qqqq GB , which was in the
+Annotated unit : gigabyte
+Tagged unit    : gigabyte
+Extracted unit : [gigabyte:0.5999999642372131]
+Matched. 
+
+
+Example: 497: 
+has sequential read speeds of qqqq GB per second and write speeds of 1GB
+Annotated unit : light-second
+Tagged unit    : gigabyte per second
+Extracted unit : [gigabyte per second:3.5199997425079346]
+Matched. 
+
+
+Example: 498: 
+second and write speeds of qqqq GB per second .The SSD achieves random write
+Annotated unit : light-second
+Tagged unit    : gigabyte per second
+Extracted unit : [gigabyte per second:3.5199997425079346]
+Matched. 
+
+
+Example: 499: 
+random write performance, measured in qqqq K blocks , of up to
+Annotated unit : kilobyte
+Tagged unit    : kilobyte
+Extracted unit : null
+Not Matched.
+
+
+Example: 500: 
+4K blocks, of up to qqqq I/O operations per second (IOPS)
+Annotated unit : 
+Tagged unit    : 
+Extracted unit : null
+Matched. 
+
+
+Example: 501: 
+read performance of up to qqqq IOPS.The new drives outperform the
+Annotated unit : 
+Tagged unit    : 
+Extracted unit : null
+Matched. 
+
+
+Example: 502: 
+from 380nanometres down to approximately qqqq nanometres .A single light quantum or
+Annotated unit : nanometer
+Tagged unit    : nanometre
+Extracted unit : [nanometer:0.699999988079071]
+Matched. 
+
+
+Example: 503: 
+its wavelength is less than qqqq nanometres , so it acts as
+Annotated unit : nanometer
+Tagged unit    : nanometre
+Extracted unit : [nanometer:1.2917020320892334]
+Matched. 
+
+
+Example: 504: 
+above 350nm, but blocks over qqqq % of the light below 300nm.
+Annotated unit :  percent
+Tagged unit    : percent
+Extracted unit : [percent:0.6899999976158142]
+Matched. 
+
+
+Example: 505: 
+in the UV-C band at qqqq nm and qqqq nm due to the peak emission
+Annotated unit : nanometer|nanometer
+Tagged unit    : nanometre|nanometre
+Extracted unit : [nanometer|nanometer:1.0]
+Matched. 
+
+
+Example: 506: 
+mercury within the lamp.Eighty-five to qqqq % of the UV produced by
+Annotated unit :  percent
+Tagged unit    : percent
+Extracted unit : [percent:1.0]
+Matched. 
+
+
+Example: 507: 
+by these lamps is at qqqq nm , whereas only five to
+Annotated unit : nanometer
+Tagged unit    : nanometre
+Extracted unit : [nanometer:0.5145142078399658]
+Matched. 
+
+
+Example: 508: 
+to ten percent is at qqqq nm [citation needed].
+Annotated unit : nanometer
+Tagged unit    : nanometre
+Extracted unit : [nanometer:0.549670934677124]
+Matched. 
+
+
+Example: 509: 
+it crosses into X-rays at qqqq nm .Extremely hot stars emit proportionally
+Annotated unit : nanometer
+Tagged unit    : nanometre
+Extracted unit : [nanometer:0.5]
+Matched. 
+
+
+Example: 510: 
+of violet light is around qqqq nanometres (or qqqq  Å) .Ultraviolet radiation oscillates at rates
+Annotated unit : nanometer|angstrom
+Tagged unit    : nanometre|Angstrom
+Extracted unit : [nanometer|angstrom:1.2999999523162842]
+Matched. 
+
+
+Example: 511: 
+matter: Wavelengths longer than about qqqq nm interact mainly with the chemical
+Annotated unit : nanometer
+Tagged unit    : nanometre
+Extracted unit : [nanometer:1.1134055852890015]
+Matched. 
+
+
+Example: 512: 
+Its wavelengths are between about qqqq nanometres (nm) about qqqq nanometres .UV is a common abbreviation
+Annotated unit : nanometer|nanometer
+Tagged unit    : nanometre|nanometre
+Extracted unit : [nanometer:1.355473279953003]
+Not Matched.
+
+
+Example: 513: 
+MeV).This path is followed qqqq % of the time:Another example is
+Annotated unit :  percent
+Tagged unit    : percent
+Extracted unit : [percent:0.6899999976158142]
+Matched. 
+
+
+Example: 514: 
+be divided into different types: qqqq % covered by snow land,
+Annotated unit :  percent
+Tagged unit    : percent
+Extracted unit : [percent:1.0]
+Matched. 
+
+
+Example: 515: 
+covered by snow land, qqqq % mountains,
+Annotated unit :  percent
+Tagged unit    : percent
+Extracted unit : [percent:1.0]
+Matched. 
+
+
+Example: 516: 
+mountains, qqqq % dry land,
+Annotated unit :  percent
+Tagged unit    : percent
+Extracted unit : [percent:1.0]
+Matched. 
+
+
+Example: 517: 
+dry land, qqqq % good landthat can be farmed,
+Annotated unit :  percent
+Tagged unit    : percent
+Extracted unit : [percent:1.0]
+Matched. 
+
+
+Example: 518: 
+good landthat can be farmed, qqqq % land doesn't have topsoil.In my
+Annotated unit :  percent
+Tagged unit    : percent
+Extracted unit : [percent:0.6899999976158142]
+Matched. 
+
+
+Example: 519: 
+land surface area was around qqqq km2  .Daniel Chen --
+Annotated unit : square kilometre
+Tagged unit    : square kilometre
+Extracted unit : [square kilometre:1.0]
+Matched. 
+
+
+Example: 520: 
+by the world ocean ( qqqq million sq km, or qqqq percent ); land constitutes
+Annotated unit : million| percent
+Tagged unit    : square kilometre [million]|percent
+Extracted unit : [square kilometre [million]:7.56890344619751]
+Not Matched.
+
+
+Example: 521: 
+percent); land constitutes qqqq million sq km (qqqq percent) and forms six large
+Annotated unit : million| percent
+Tagged unit    : square kilometre [million]|percent
+Extracted unit : [square kilometre [million]|percent:8.263582229614258]
+Matched. 
+
+
+Example: 522: 
+kmThere are a total of qqqq  oceans, and they are the
+Annotated unit : 
+Tagged unit    : 
+Extracted unit : null
+Matched. 
+
+
+Example: 523: 
+cube with an edge of qqqq centimetres is:
+Annotated unit : centimetre
+Tagged unit    : centimetre
+Extracted unit : [centimetre:1.28241765499115]
+Matched. 
+
+
+Example: 524: 
+centimetres is: qqqq cm3 A cube has equal width, depth
+Annotated unit : cubic centimetre
+Tagged unit    : cubic centimetre
+Extracted unit : [cubic centimetre:0.699999988079071]
+Matched. 
+
+
+Example: 525: 
+Edges: qqqq cm Surface area:
+Annotated unit : centimetre
+Tagged unit    : centimetre
+Extracted unit : [centimetre:0.7686577439308167]
+Matched. 
+
+
+Example: 526: 
+cm With a volume of qqqq cm3  , the length of each
+Annotated unit : cubic centimetre
+Tagged unit    : cubic centimetre
+Extracted unit : [cubic centimetre:1.5934098958969116]
+Matched. 
+
+
+Example: 527: 
+of each edge will be qqqq cm .The volume of Pacific ocean
+Annotated unit : centimetre
+Tagged unit    : centimetre
+Extracted unit : [centimetre:0.686978816986084]
+Matched. 
+
+
+Example: 528: 
+volume of Pacific ocean is qqqq Km2  
+Annotated unit : square kilometre
+Tagged unit    : square kilometre
+Extracted unit : [square kilometre:0.699999988079071]
+Matched. 
+
+
+Example: 529: 
+green sea turtle is around qqqq years .Lifespan of an Alligator Snapping
+Annotated unit : year
+Tagged unit    : year
+Extracted unit : [year:1.0]
+Matched. 
+
+
+Example: 530: 
+live upto or more than qqqq years .
+Annotated unit : year
+Tagged unit    : year
+Extracted unit : [year:1.0]
+Matched. 
+
+
+Example: 531: 
+on the species, take from qqqq to qqqq days to incubate.
+Annotated unit : day
+Tagged unit    : day
+Extracted unit : null
+Not Matched.
+
+
+Example: 532: 
+in the 1700s, lived for qqqq years .Adwaita was brought to the
+Annotated unit : year
+Tagged unit    : year
+Extracted unit : [year:0.6413043141365051]
+Matched. 
+
+
+Example: 533: 
+juvenility at the age of qqqq  .Yet another breed to be
+Annotated unit : 
+Tagged unit    : 
+Extracted unit : null
+Matched. 
+
+
+Example: 534: 
+to have a life beyond qqqq years .
+Annotated unit : year
+Tagged unit    : year
+Extracted unit : [year:1.1219249963760376]
+Matched. 
+
+
+Example: 535: 
+showed Adwaita was at least qqqq years old, but other evidence pointed
+Annotated unit : year
+Tagged unit    : year
+Extracted unit : [year:1.0]
+Matched. 
+
+
+Example: 536: 
+but other evidence pointed to qqqq  .
+Annotated unit : 
+Tagged unit    : 
+Extracted unit : null
+Matched. 
+
+
+Example: 537: 
+My refrigerator has a qqqq watt compressor that runs about one
+Annotated unit : watt
+Tagged unit    : watt
+Extracted unit : [watt:0.8999999761581421]
+Matched. 
+
+
+Example: 538: 
+of the time.I am paying $qqqq per kilowatt-hour .
+Annotated unit : united states dollar
+Tagged unit    : united states dollar per kilowatt-hour
+Extracted unit : [united states dollar per kilowatt-hour:10.303032875061035]
+Matched. 
+
+
+Example: 539: 
+global wheat consumption was qqqq kg (qqqq lb) per capita, with the highest
+Annotated unit : kilogram|pound
+Tagged unit    : kilogram|pound
+Extracted unit : [kilogram|pound:2.255300998687744]
+Matched. 
+
+
+Example: 540: 
+capita, with the highest consumption qqqq kg (qqqq lb) per capita in Denmark, but
+Annotated unit : kilogram|pound
+Tagged unit    : kilogram|pound
+Extracted unit : [kilogram|pound:2.255300998687744]
+Matched. 
+
+
+Example: 541: 
+but most of this ( qqqq % ) was for animal
+Annotated unit :  percent
+Tagged unit    : percent
+Extracted unit : [percent:1.0]
+Matched. 
+
+
+Example: 542: 
+has been almost static ( qqqq % increase between
+Annotated unit :  percent
+Tagged unit    : percent
+Extracted unit : [percent:1.0]
+Matched. 
+
+
+Example: 543: 
+although production (from qqqq lakh tones in
+Annotated unit : tonne
+Tagged unit    : tonne [lakh]
+Extracted unit : [tonne [lakh]:1.3209171295166016]
+Matched. 
+
+
+Example: 544: 
+and yield ( qqqq kg/ha in
+Annotated unit : hectare
+Tagged unit    : kilogram per Hectare
+Extracted unit : [kilogram:1.0007433891296387]
+Not Matched.
+
+
+Example: 545: 
+of wheat, on average consuming qqqq TMT .The United States imports, on
+Annotated unit : kiloton
+Tagged unit    : kiloton
+Extracted unit : [kiloton:1.0011669397354126]
+Matched. 
+
+
+Example: 546: 
+United States imports, on average, qqqq TMT and it exports
+Annotated unit : kiloton
+Tagged unit    : kiloton
+Extracted unit : [kiloton:1.0540627241134644]
+Matched. 
+
+
+Example: 547: 
+TMT and it exports qqqq TMT , making the U.S. the
+Annotated unit : kiloton
+Tagged unit    : kiloton
+Extracted unit : [kiloton:0.801570475101471]
+Matched. 
+
+
+Example: 548: 
+country's name.ChinaOn average, China produces qqqq TMT of wheat annually.This makes China
+Annotated unit : kiloton
+Tagged unit    : kiloton
+Extracted unit : [kiloton:0.7479915618896484]
+Matched. 
+
+
+Example: 549: 
+worlds largest wheat producer, producing qqqq TMT more than India, the worlds
+Annotated unit : kiloton
+Tagged unit    : kiloton
+Extracted unit : [kiloton:0.7912600636482239]
+Matched. 
+
+
+Example: 550: 
+million tons) and rice ( qqqq million tons ).
+Annotated unit : tonne
+Tagged unit    : tonne [million]
+Extracted unit : [tonne [million]:1.5853400230407715]
+Matched. 
+
+
+Example: 551: 
+On average, India imports qqqq TMT of wheat, and, for various
+Annotated unit : kiloton
+Tagged unit    : kiloton
+Extracted unit : [kiloton:0.9545586109161377]
+Matched. 
+
+
+Example: 552: 
+reasons, exports an average of qqqq TMT of wheat.The ending stocks in
+Annotated unit : kiloton
+Tagged unit    : kiloton
+Extracted unit : [kiloton:0.8308768272399902]
+Matched. 
+
+
+Example: 553: 
+ending stocks in India average qqqq TMT , giving India the third
+Annotated unit : kiloton
+Tagged unit    : kiloton
+Extracted unit : [kiloton:0.9273270964622498]
+Matched. 
+
+
+Example: 554: 
+India exported a total of qqqq million tonnes .But then, exports declined to
+Annotated unit : tonne
+Tagged unit    : tonne [million]
+Extracted unit : [tonne [million]:1.3930079936981201]
+Matched. 
+
+
+Example: 555: 
+tonnes.But then, exports declined to qqqq tonnes in
+Annotated unit : tonne
+Tagged unit    : tonne
+Extracted unit : [tonne:0.8323199152946472]
+Matched. 
+
+
+Example: 556: 
+India has exported about qqqq lakh tonnes of Wheat worth
+Annotated unit : tonne
+Tagged unit    : tonne [lakh]
+Extracted unit : [tonne [lakh]:1.4573044776916504]
+Matched. 
+
+
+Example: 557: 
+lakh tonnes of Wheat worth Rs.qqqq crore during
+Annotated unit : crore
+Tagged unit    : indian rupee [crore]
+Extracted unit : [indian rupee [crore]:4.619192123413086]
+Matched. 
+
+
+Example: 558: 
+production is expected to rise qqqq million tons .Larger crops in the United
+Annotated unit : tonne
+Tagged unit    : tonne [million]
+Extracted unit : [tonne [million]:1.5954006910324097]
+Matched. 
+
+
+Example: 559: 
+account for an increase of qqqq million tons over last year.
+Annotated unit : tonne
+Tagged unit    : tonne [million]
+Extracted unit : [tonne [million]:1.0444443225860596]
+Matched. 
+
+
+Example: 560: 
+Of this amount, Germany consumes qqqq TMT , ranking them as the
+Annotated unit : kiloton
+Tagged unit    : kiloton
+Extracted unit : [kiloton:0.799081563949585]
+Matched. 
+
+
+Example: 561: 
+world.Average imports for Germany are qqqq TMT , and average exports are
+Annotated unit : kiloton
+Tagged unit    : kiloton
+Extracted unit : [kiloton:1.1219619512557983]
+Matched. 
+
+
+Example: 562: 
+on the average, Canada consumes qqqq TMT of wheat.Of this amount,
+Annotated unit : kiloton
+Tagged unit    : kiloton
+Extracted unit : [kiloton:1.4775185585021973]
+Matched. 
+
+
+Example: 563: 
+TMT of wheat.Of this amount, qqqq TMT were imported, making Canada the
+Annotated unit : kiloton
+Tagged unit    : kiloton
+Extracted unit : [kiloton:1.3526159524917603]
+Matched. 
+
+
+Example: 564: 
+farm yield for wheat was qqqq tonnes per hectare , in
+Annotated unit : hectare
+Tagged unit    : tonne per hectare
+Extracted unit : [tonne per hectare:14.544992446899414]
+Matched. 
+
+
+Example: 565: 
+with a nationwide average of qqqq tonnes per hectare 
+Annotated unit : hectare
+Tagged unit    : tonne per hectare
+Extracted unit : [tonne per hectare:10.49109172821045]
+Matched. 
+
+
+Example: 566: 
+to a total height of qqqq feet .However if you include the
+Annotated unit : foot
+Tagged unit    : feet
+Extracted unit : [foot:0.6145817637443542]
+Matched. 
+
+
+Example: 567: 
+then stand as high as qqqq feet .
+Annotated unit : foot
+Tagged unit    : feet
+Extracted unit : [foot:0.3643222749233246]
+Matched. 
+
+
+Example: 568: 
+Statue of Liberty's nose is qqqq ft. qqqq in .There are
+Annotated unit : foot|inch
+Tagged unit    : feet|inch
+Extracted unit : [foot:3.4347853660583496]
+Not Matched.
+
+
+Example: 569: 
+volumethe copper need be only .qqqq inches (qqqq mm) thick.He decided on a height
+Annotated unit : inch|millimetre
+Tagged unit    : inch|millimetre
+Extracted unit : [inch|millimetre:4.8686981201171875]
+Matched. 
+
+
+Example: 570: 
+He proposed a pedestal qqqq feet (qqqq m) in height; faced with money
+Annotated unit : foot|metre
+Tagged unit    : feet|metre
+Extracted unit : [foot|metre:1.4603524208068848]
+Matched. 
+
+
+Example: 571: 
+the committee reduced that to qqqq feet (qqqq m) 
+Annotated unit : foot|metre
+Tagged unit    : feet|metre
+Extracted unit : [foot|metre:0.5422648787498474]
+Matched. 
+
+
+Example: 572: 
+believed to have been over qqqq feet (qqqq m) high, and it similarly stood
+Annotated unit : foot|metre
+Tagged unit    : feet|metre
+Extracted unit : [foot|metre:0.9202240705490112]
+Matched. 
+
+
+Example: 573: 
+made of stamped copper and qqqq inches (qqqq mm) in height, to states and
+Annotated unit : inch|millimetre
+Tagged unit    : inch|millimetre
+Extracted unit : [inch|millimetre:4.8520402908325195]
+Matched. 
+
+
+Example: 574: 
+nutritional information for Egg Beaters... qqqq months agoAn egg fried with minimal
+Annotated unit : month
+Tagged unit    : month
+Extracted unit : [month:0.048623859882354736]
+Matched. 
+
+
+Example: 575: 
+small or... qqqq months agoThe yolks are where it's
+Annotated unit : month
+Tagged unit    : month
+Extracted unit : [month:0.048623859882354736]
+Matched. 
+
+
+Example: 576: 
+your intake of vitamins A,... qqqq months agoIt depends on which type
+Annotated unit : month
+Tagged unit    : month
+Extracted unit : [month:0.048623859882354736]
+Matched. 
+
+
+Example: 577: 
+large egg: Egg White - qqqq calories There are on average seventeen
+Annotated unit : calorie
+Tagged unit    : Calorie
+Extracted unit : [calorie:0.38999998569488525]
+Matched. 
+
+
+Example: 578: 
+caloriesThere are on average qqqq calories in one large egg white.
+Annotated unit : calorie
+Tagged unit    : Calorie
+Extracted unit : [kilocalorie:1.199928879737854]
+Not Matched.
+
+
+Example: 579: 
+the recommended daily intake of qqqq mg of cholesterol (although one study
+Annotated unit : milligram
+Tagged unit    : milligram
+Extracted unit : [milligram:2.100496292114258]
+Matched. 
+
+
+Example: 580: 
+of Office- Salary /Month President- qqqq years 
+Annotated unit : year
+Tagged unit    : year
+Extracted unit : [year:0.6413043141365051]
+Matched. 
+
+
+Example: 581: 
+he attains the age of qqqq years -
+Annotated unit : year
+Tagged unit    : year
+Extracted unit : [year:1.0]
+Matched. 
+
+
+Example: 582: 
+Another surprise is that Colorado (at $qqqq billion) is bigger than Egypt (at
+Annotated unit : united states dollar
+Tagged unit    : united states dollar [billion]
+Extracted unit : [united states dollar [billion]:1.853438377380371]
+Matched. 
+
+
+Example: 583: 
+on health care per capita ($qqqq ) , and as percentage of
+Annotated unit : united states dollar
+Tagged unit    : united states dollar
+Extracted unit : [united states dollar:1.9359005689620972]
+Matched. 
+
+
+Example: 584: 
+and as percentage of GDP (qqqq %) , than any other nation.In
+Annotated unit :  percent
+Tagged unit    : percent
+Extracted unit : [percent:1.190000057220459]
+Matched. 
+
+
+Example: 585: 
+with a GDP of about $qqqq trillion in in
+Annotated unit : united states dollar
+Tagged unit    : united states dollar [trillion]
+Extracted unit : [united states dollar [trillion]:1.994349479675293]
+Matched. 
+
+
+Example: 586: 
+total of about $qqqq trillion .And the
+Annotated unit : united states dollar
+Tagged unit    : united states dollar [trillion]
+Extracted unit : [united states dollar [trillion]:0.7233334183692932]
+Matched. 
+
+
+Example: 587: 
+GDP of Texas was about $qqqq trillion , making it considerably bigger
+Annotated unit : united states dollar
+Tagged unit    : united states dollar [trillion]
+Extracted unit : [united states dollar [trillion]:2.044297218322754]
+Matched. 
+
+
+Example: 588: 
+it considerably bigger than Mexico $qqqq trillion .New York saw a
+Annotated unit : united states dollar
+Tagged unit    : united states dollar [trillion]
+Extracted unit : [united states dollar [trillion]:1.877009391784668]
+Matched. 
+
+
+Example: 589: 
+trillion.Illinois ( $qqqq billion 
+Annotated unit : united states dollar
+Tagged unit    : united states dollar [billion]
+Extracted unit : [united states dollar [billion]:0.8899999260902405]
+Matched. 
+
+
+Example: 590: 
+public and private debt was $qqqq trillion at the end of the
+Annotated unit : united states dollar
+Tagged unit    : united states dollar [trillion]
+Extracted unit : [united states dollar:1.5487611293792725]
+Matched. 
+
+
+Example: 591: 
+debt will grow to nearly qqqq % of GDP, versus a level
+Annotated unit :  percent
+Tagged unit    : percent
+Extracted unit : [percent:0.6899999976158142]
+Matched. 
+
+
+Example: 592: 
+versus a level of approximately qqqq % in early
+Annotated unit :  percent
+Tagged unit    : percent
+Extracted unit : [percent:0.6899999976158142]
+Matched. 
+
+
+Example: 593: 
+servicing the debt will exceed $qqqq billion a year in
+Annotated unit : united states dollar
+Tagged unit    : united states dollar [billion]
+Extracted unit : [united states dollar [billion]:2.3223774433135986]
+Matched. 
+
+
+Example: 594: 
+Domestic financial assets totaled $qqqq trillion and domestic financial liabilities totaled
+Annotated unit : united states dollar
+Tagged unit    : united states dollar [trillion]
+Extracted unit : [united states dollar [trillion]:1.8855066299438477]
+Matched. 
+
+
+Example: 595: 
+and domestic financial liabilities totaled $qqqq trillion .
+Annotated unit : united states dollar
+Tagged unit    : united states dollar [trillion]
+Extracted unit : [united states dollar [trillion]:1.9642292261123657]
+Matched. 
+
+
+Example: 596: 
+a lemonade company has sold qqqq million in revenue and has
+Annotated unit : million
+Tagged unit    : million
+Extracted unit : [million:0.8412308096885681]
+Matched. 
+
+
+Example: 597: 
+Microsoft acquired Skype Technologies for $qqqq billion in its largest acquisition to
+Annotated unit : united states dollar
+Tagged unit    : united states dollar [billion]
+Extracted unit : [united states dollar [billion]:1.3409631252288818]
+Matched. 
+
+
+Example: 598: 
+announced that it was paying US$qqqq billion to buy the social network
+Annotated unit : united states dollar
+Tagged unit    : united states dollar [billion]
+Extracted unit : [united states dollar [billion]:3.308715581893921]
+Matched. 
+
+
+Example: 599: 
+billionAltogether ready for it? $qqqq billion .
+Annotated unit : united states dollar
+Tagged unit    : united states dollar [billion]
+Extracted unit : [united states dollar [billion]:1.9895172119140625]
+Matched. 
+
+
+Example: 600: 
+The big number: $qqqq billion in revenue for the year.A
+Annotated unit : united states dollar
+Tagged unit    : united states dollar [billion]
+Extracted unit : [united states dollar [billion]:2.271008253097534]
+Matched. 
+
+
+Example: 601: 
+an estimated three billionaires and qqqq  millionaires from Microsoft employees.It is
+Annotated unit : 
+Tagged unit    : 
+Extracted unit : null
+Matched. 
+
+
+Example: 602: 
+period, the population grew from qqqq million to qqqq million .Kerala is the most litreate
+Annotated unit : million|million
+Tagged unit    : million|million
+Extracted unit : [million|million:2.224198341369629]
+Matched. 
+
+
+Example: 603: 
+litreate state in India, with qqqq % litreacy, followed by Lakshadweep at
+Annotated unit :  percent
+Tagged unit    : percent
+Extracted unit : [percent:0.6899999976158142]
+Matched. 
+
+
+Example: 604: 
+litreacy, followed by Lakshadweep at qqqq % .Bihar is the least litreate
+Annotated unit :  percent
+Tagged unit    : percent
+Extracted unit : [percent:1.0]
+Matched. 
+
+
+Example: 605: 
+India, with a litreacy of qqqq % .
+Annotated unit :  percent
+Tagged unit    : percent
+Extracted unit : [percent:0.6899999976158142]
+Matched. 
+
+
+Example: 606: 
+litreacy rate has risen from qqqq % in
+Annotated unit :  percent
+Tagged unit    : percent
+Extracted unit : [percent:0.6899999976158142]
+Matched. 
+
+
+Example: 607: 
+litreacy rate grew from qqqq per cent in
+Annotated unit :  percent
+Tagged unit    : percent
+Extracted unit : null
+Not Matched.
+
+
+Example: 608: 
+The Bugatti Veyron is an qqqq -litre , mid engine grand touring
+Annotated unit : litre
+Tagged unit    : litre
+Extracted unit : [litre:3.907970428466797]
+Matched. 
+
+
+Example: 609: 
+sports car, with speed of qqqq km/h (qqqq mph) .The vehicle was unveiled in
+Annotated unit : kilometre per hour|mile per hour
+Tagged unit    : kilometre per hour|mile per hour
+Extracted unit : [kilometre per hour|mile per hour:6.058705806732178]
+Matched. 
+
+
+Example: 610: 
+case with the Veyron at qqqq km/h (qqqq mph) .May responded that no, the
+Annotated unit : kilometre per hour|mile per hour
+Tagged unit    : kilometre per hour|mile per hour
+Extracted unit : [kilometre per hour|mile per hour:3.580000638961792]
+Matched. 
+
+
+Example: 611: 
+that you need to prepare $qqqq  for tuition fee.This Harvard Business
+Annotated unit : united states dollar
+Tagged unit    : united states dollar
+Extracted unit : [united states dollar:2.1211743354797363]
+Matched. 
+
+
+Example: 612: 
+the entire MBA program.Resident Tuition: $qqqq  Nonresident Tuition: $NAExpected monthly rent
+Annotated unit : united states dollar
+Tagged unit    : united states dollar
+Extracted unit : [united states dollar:2.117750644683838]
+Matched. 
+
+
+Example: 613: 
+averages): $NARecommended annual budget (Resident): $qqqq  Recommended annual budget (Nonresident): $NAAre
+Annotated unit : united states dollar
+Tagged unit    : united states dollar
+Extracted unit : [united states dollar:1.7794404029846191]
+Matched. 
+
+
+Example: 614: 
+application fee, which is a $qqqq  non-refundable fee; loan origination fees,
+Annotated unit : united states dollar
+Tagged unit    : united states dollar
+Extracted unit : [united states dollar:2.1146984100341797]
+Matched. 
+
+
+Example: 615: 
+ethanol, has a density of qqqq kg/m3  .
+Annotated unit : kilogram per cubic metre
+Tagged unit    : kilogram per cubic metre
+Extracted unit : [kilogram per cubic metre:3.180000066757202]
+Matched. 
+
+
+Example: 616: 
+of the planet Mercury is qqqq gr/cm3  which is equal to
+Annotated unit : cubic centimetre
+Tagged unit    : gram per cubic centimetre
+Extracted unit : [grain per cubic centimetre:1.7689976692199707]
+Not Matched.
+
+
+Example: 617: 
+which is equal to qqqq kg/L 
+Annotated unit : kilogram per litre
+Tagged unit    : kilogram per litre
+Extracted unit : [kilogram per litre:2.680000066757202]
+Matched. 
+
+
+Example: 618: 
+kg/L qqqq g/ml 
+Annotated unit : gram per millilitre
+Tagged unit    : gram per millilitre
+Extracted unit : [kilogram per litre:2.680000066757202]
+Not Matched.
+
+
+Example: 619: 
+is the density of mercury, qqqq g/cm2  at 20C, and g is
+Annotated unit : cubic centimetre
+Tagged unit    : gram per cubic centimetre
+Extracted unit : [foot of mercury:1.4274837970733643]
+Not Matched.
+
+
+Example: 620: 
+g/cm3 at qqqq °C , and g is the
+Annotated unit : degree celsius
+Tagged unit    : degree celsius
+Extracted unit : [degree celsius:0.7151268720626831]
+Matched. 
+
+
+Example: 621: 
+local acceleration of gravity, about qqqq cm/s2  .The actual acceleration of gravity
+Annotated unit : square centimetre
+Tagged unit    : centimetre per square second
+Extracted unit : [centimetre:0.7532058954238892]
+Not Matched.
+
+
+Example: 622: 
+here, not the standard value qqqq cm/s2  .
+Annotated unit : square centimetre
+Tagged unit    : centimetre per square second
+Extracted unit : [centimetre:0.6722221970558167]
+Not Matched.
+
+
+Example: 623: 
+can also be stated as qqqq grams per cubic centimetre (by definition, the density of
+Annotated unit : cubic centimetre
+Tagged unit    : gram per cubic centimetre
+Extracted unit : [gram per cubic centimetre of atmosphere:7.7474470138549805]
+Not Matched.
+
+
+Example: 624: 
+recorded a minimum temperature of qqqq °C .Just two days later, on
+Annotated unit : degree celsius
+Tagged unit    : degree celsius
+Extracted unit : [degree celsius:2.08438777923584]
+Matched. 
+
+
+Example: 625: 
+is the lowest recorded in qqqq years .Mumbai's record breaking winter
+Annotated unit : year
+Tagged unit    : year
+Extracted unit : [year:0.8492010235786438]
+Matched. 
+
+
+Example: 626: 
+had the minimum temperature qqqq °C .The fine January weather continues
+Annotated unit : degree celsius
+Tagged unit    : degree celsius
+Extracted unit : [degree celsius:1.0]
+Matched. 
+
+
+Example: 627: 
+is typically in the range qqqq keV and the angle of incidence
+Annotated unit : kilo electronvolt
+Tagged unit    : kilo electronvolt
+Extracted unit : [kilo electronvolt:0.5999999642372131]
+Matched. 
+
+
+Example: 628: 
+the angle of incidence is qqqq  
+Annotated unit : degree
+Tagged unit    : degree
+Extracted unit : null
+Not Matched.
+
+
+Example: 629: 
+with an energy of exactly qqqq eV can be absorbed or emitted
+Annotated unit : electronvolt
+Tagged unit    : electronvolt
+Extracted unit : [electronvolt:3.056727409362793]
+Matched. 
+
+
+Example: 630: 
+For the qqqq GeV electron above, the wavelength is
+Annotated unit : giga electronvolt
+Tagged unit    : giga electronvolt
+Extracted unit : [giga electronvolt:0.5999999642372131]
+Matched. 
+
+
+Example: 631: 
+above, the wavelength is about qqqq m , small enough to explore
+Annotated unit : metre
+Tagged unit    : metre
+Extracted unit : [metre:0.24815957248210907]
+Matched. 
+
+
+Example: 632: 
+three gamma ray photons totalling qqqq MeV 
+Annotated unit : mega electronvolt
+Tagged unit    : mega electronvolt
+Extracted unit : [mega electronvolt:0.699999988079071]
+Matched. 
+
+
+Example: 633: 
+it all the way to qqqq eV ?
+Annotated unit : electronvolt
+Tagged unit    : electronvolt
+Extracted unit : [electronvolt:1.0]
+Matched. 
+
+
+Example: 634: 
+a hydrogen atom cannot have -qqqq eV ,
+Annotated unit : electronvolt
+Tagged unit    : electronvolt
+Extracted unit : [electronvolt:1.0]
+Matched. 
+
+
+Example: 635: 
+eV, -qqqq eV or any other value in
+Annotated unit : electronvolt
+Tagged unit    : electronvolt
+Extracted unit : [electronvolt:1.0]
+Matched. 
+
+
+Example: 636: 
+for qqqq rs in india.de wifi one is
+Annotated unit : indian rupee
+Tagged unit    : indian rupee
+Extracted unit : [indian rupee:1.7857818603515625]
+Matched. 
+
+
+Example: 637: 
+wifi one is for around qqqq -qqqq k and wifi+3G is around
+Annotated unit : thousand
+Tagged unit    : indian rupee [thousand]
+Extracted unit : null
+Not Matched.
+
+
+Example: 638: 
+and wifi+3G is around qqqq -qqqq k .Nilay go buy ps3 when
+Annotated unit : thousand
+Tagged unit    : indian rupee [thousand]
+Extracted unit : null
+Not Matched.
+
+
+Example: 639: 
+total price qqqq GB ipad
+Annotated unit : gigabyte
+Tagged unit    : gigabyte
+Extracted unit : [gigabyte:0.5999999642372131]
+Matched. 
+
+
+Example: 640: 
+ipad $qqqq  convert to IND
+Annotated unit : united states dollar
+Tagged unit    : united states dollar
+Extracted unit : [united states dollar:0.6899999976158142]
+Matched. 
+
+
+Example: 641: 
+convert to IND Rs.qqqq  / without
+Annotated unit : indian rupee
+Tagged unit    : indian rupee
+Extracted unit : [indian rupee:3.1600747108459473]
+Matched. 
+
+
+Example: 642: 
+without vat+ qqqq % vat
+Annotated unit :  percent
+Tagged unit    : percent
+Extracted unit : [percent:1.0]
+Matched. 
+
+
+Example: 643: 
+vat Rs.qqqq  / total price
+Annotated unit : indian rupee
+Tagged unit    : indian rupee
+Extracted unit : [indian rupee:3.3937125205993652]
+Matched. 
+
+
+Example: 644: 
+of iPad2 in India [i.e.WiFi/ qqqq GB ] is
+Annotated unit : gigabyte
+Tagged unit    : gigabyte
+Extracted unit : [gigabyte:0.5999999642372131]
+Matched. 
+
+
+Example: 645: 
+iPad2 in India [i.e.WiFi/16GB] is Rs.qqqq  , while
+Annotated unit : indian rupee
+Tagged unit    : indian rupee
+Extracted unit : [indian rupee:3.127361297607422]
+Matched. 
+
+
+Example: 646: 
+while qqqq GB Wifi + 3G will be
+Annotated unit : gigabyte
+Tagged unit    : gigabyte
+Extracted unit : [gigabyte:0.5999999642372131]
+Matched. 
+
+
+Example: 647: 
+3G will be priced at INR qqqq  (earlier it was INR
+Annotated unit : indian rupee
+Tagged unit    : indian rupee
+Extracted unit : [indian rupee:1.2272976636886597]
+Matched. 
+
+
+Example: 648: 
+(earlier it was INR qqqq ) .
+Annotated unit : indian rupee
+Tagged unit    : indian rupee
+Extracted unit : [indian rupee:1.177436351776123]
+Matched. 
+
+
+Example: 649: 
+sell me an ipad 3g qqqq Gb at
+Annotated unit : gigabyte
+Tagged unit    : gigabyte
+Extracted unit : [gigabyte:0.5999999642372131]
+Matched. 
+
+
+Example: 650: 
+Gb at rs.qqqq thousands Rs .
+Annotated unit : indian rupee
+Tagged unit    : indian rupee
+Extracted unit : [indian rupee [thousand]:4.509650230407715]
+Not Matched.
+
+
+Example: 651: 
+Sign in.$ qqqq million rupees If everything was in it
+Annotated unit : million
+Tagged unit    : indian rupee [million]
+Extracted unit : [united states dollar [million]:2.68786883354187]
+Not Matched.
+
+
+Example: 652: 
+it it would cost about qqqq trillion but without everything it would
+Annotated unit : trillion
+Tagged unit    : indian rupee [trillion]
+Extracted unit : [trillion:0.03333336114883423]
+Matched. 
+
+
+Example: 653: 
+without everything it would be qqqq  white marble and precious stonesUstad
+Annotated unit : 
+Tagged unit    : 
+Extracted unit : null
+Matched. 
+
+
+Example: 654: 
+Mahal is made up of qqqq  buildings but, the white one
+Annotated unit : 
+Tagged unit    : 
+Extracted unit : null
+Matched. 
+
+
+Example: 655: 
+most populous continent, with its qqqq billion inhabitants accounting for
+Annotated unit : billion
+Tagged unit    : billion
+Extracted unit : [billion:0.19999998807907104]
+Matched. 
+
+
+Example: 656: 
+billion inhabitants accounting for qqqq % of the world population.The world's
+Annotated unit :  percent
+Tagged unit    : percent
+Extracted unit : [percent:0.6899999976158142]
+Matched. 
+
+
+Example: 657: 
+Over the last qqqq years , the UN had consistently
+Annotated unit : year
+Tagged unit    : year
+Extracted unit : [year:0.6413043141365051]
+Matched. 
+
+
+Example: 658: 
+may have been between qqqq and qqqq million 
+Annotated unit : million
+Tagged unit    : million
+Extracted unit : [million:1.2888888120651245]
+Matched. 
+
+
+Example: 659: 
+population probably numbered somewhere between qqqq million and qqqq million .
+Annotated unit : million|million
+Tagged unit    : million|million
+Extracted unit : [million|million:2.70119571685791]
+Matched. 
+
+
+Example: 660: 
+its population grow from around qqqq million in
+Annotated unit : million
+Tagged unit    : million
+Extracted unit : [million:1.567102074623108]
+Matched. 
+
+
+Example: 661: 
+exceeding qqqq million in
+Annotated unit : million
+Tagged unit    : million
+Extracted unit : [million:0.6444444060325623]
+Matched. 
+
+
+Example: 662: 
+a world population plateau of qqqq billion 
+Annotated unit : billion
+Tagged unit    : billion
+Extracted unit : [billion:0.7664502263069153]
+Matched. 
+
+
+Example: 663: 
+ranged between around qqqq billion  and
+Annotated unit : billion
+Tagged unit    : billion
+Extracted unit : [billion:0.19999998807907104]
+Matched. 
+
+
+Example: 664: 
+billion and qqqq billion. 
+Annotated unit : million
+Tagged unit    : million
+Extracted unit : [billion:0.19999998807907104]
+Not Matched.
+
+
+Example: 665: 
+Europe's qqqq million people make up
+Annotated unit : million
+Tagged unit    : million
+Extracted unit : [million:0.6444444060325623]
+Matched. 
+
+
+Example: 666: 
+that the world population reached qqqq billion in October
+Annotated unit : million
+Tagged unit    : million
+Extracted unit : [billion:0.818841278553009]
+Not Matched.
+
+
+Example: 667: 
+of Java increased from about qqqq million in
+Annotated unit : million
+Tagged unit    : million
+Extracted unit : [million:0.6444444060325623]
+Matched. 
+
+
+Example: 668: 
+world population stabilized at about qqqq million 
+Annotated unit : million
+Tagged unit    : million
+Extracted unit : [million:1.5830752849578857]
+Matched. 
+
+
+Example: 669: 
+world population probably never exceeded qqqq million inhabitants before the invention of
+Annotated unit : million
+Tagged unit    : million
+Extracted unit : [million:1.4919772148132324]
+Matched. 
+
+
+Example: 670: 
+sea level barometric pressure is qqqq inches of mercury.A fourth way to
+Annotated unit : inch
+Tagged unit    : inch
+Extracted unit : [inch of mercury:4.645427227020264]
+Not Matched.
+
+
+Example: 671: 
+state this same thing is qqqq millibars .These numbers are only accurate
+Annotated unit : millibar
+Tagged unit    : millibar
+Extracted unit : [millibar:0.699999988079071]
+Matched. 
+
+
+Example: 672: 
+accurate when the temperature is qqqq degrees Fahrenheit .
+Annotated unit : degree fahrenheit
+Tagged unit    : Degree Fahrenheit
+Extracted unit : [degree fahrenheit:2.8734161853790283]
+Matched. 
+
+
+Example: 673: 
+of standard athmosperic pressure equals qqqq kg/(s2 m) , "kilogram per square-second metre".By
+Annotated unit : kilogram per cubic metre
+Tagged unit    : kilogram per metre per second squared
+Extracted unit : [kilogram per metre per second squared:2.8568053245544434]
+Matched. 
+
+
+Example: 674: 
+instead of kilogram, we'll get qqqq dag/(s2 m) , which equals the same
+Annotated unit : square metre
+Tagged unit    : decagram per square second metre
+Extracted unit : null
+Not Matched.
+
+
+Example: 675: 
+and weight of about qqqq N (qqqq lbf) (A column one square inch
+Annotated unit : newton|pound-force
+Tagged unit    : newton|pound-force
+Extracted unit : [pound-force:2.4000000953674316]
+Not Matched.
+
+
+Example: 676: 
+have a weight of about qqqq lbs, or about qqqq N) .The standard atmosphere (symbol: atm)
+Annotated unit : newton|pound-force
+Tagged unit    : newton|pound-force
+Extracted unit : null
+Not Matched.
+
+
+Example: 677: 
+or hectopascals.It is equivalent to qqqq mmHg (torr) ,
+Annotated unit : millimetre of mercury
+Tagged unit    : Millimetre Of Mercury
+Extracted unit : [millimetre of mercury:0.699999988079071]
+Matched. 
+
+
+Example: 678: 
+mmHg (torr), qqqq inHg ,
+Annotated unit : inch of mercury
+Tagged unit    : inch of mercury
+Extracted unit : [torr:2.4000000953674316]
+Not Matched.
+
+
+Example: 679: 
+inHg, qqqq psi .The Pascal unit is derived
+Annotated unit : pound per square inch
+Tagged unit    : pound per square inch
+Extracted unit : [inch of mercury:0.699999988079071]
+Not Matched.
+
+
+Example: 680: 
+barometric pressure ever recorded (below qqqq metres ) was at Agata, Evenhiyskiy,
+Annotated unit : metre
+Tagged unit    : metre
+Extracted unit : [metre:0.7726160287857056]
+Matched. 
+
+
+Example: 681: 
+of qqqq hectopascals (qqqq inHg) 
+Annotated unit : hectopascal|inch of mercury
+Tagged unit    : hectopascal|inch of mercury
+Extracted unit : [hectopascal|inch of mercury:3.8000001907348633]
+Matched. 
+
+
+Example: 682: 
+developed for a temperature of qqqq °C and a relative humidity of
+Annotated unit : degree celsius
+Tagged unit    : degree celsius
+Extracted unit : [degree celsius:2.129362106323242]
+Matched. 
+
+
+Example: 683: 
+and a relative humidity of qqqq % .At low altitudes above the
+Annotated unit :  percent
+Tagged unit    : percent
+Extracted unit : [percent:0.6899999976158142]
+Matched. 
+
+
+Example: 684: 
+the pressure decreases by about qqqq kPa for every 100metres.For higher altitudes
+Annotated unit : kilopascal
+Tagged unit    : kilopascal
+Extracted unit : [kilopascal:1.0]
+Matched. 
+
+
+Example: 685: 
+for every qqqq metres .For higher altitudes within the
+Annotated unit : metre
+Tagged unit    : metre
+Extracted unit : [metre:1.1879863739013672]
+Matched. 
+
+
+Example: 686: 
+distinguish them.Average sea-level pressure is qqqq kPa (qqqq mbar, or hPa) or
+Annotated unit : kilopascal|millibar
+Tagged unit    : kilopascal|millibar
+Extracted unit : [kilopascal|millibar:3.842806816101074]
+Matched. 
+
+
+Example: 687: 
+mbar, or hPa) or qqqq inches (inHg) or
+Annotated unit : inch of mercury
+Tagged unit    : inch of mercury
+Extracted unit : [inch:0.812208890914917]
+Not Matched.
+
+
+Example: 688: 
+(inHg) or qqqq millimetres of mercury (mmHg) .In aviation weather reports (METAR),
+Annotated unit : millimetre of mercury
+Tagged unit    : millimetre of mercury
+Extracted unit : [millimetre of mercury:5.219999313354492]
+Matched. 
+
+
+Example: 689: 
+world in millibars or hectopascals (qqqq millibar = qqqq hectopascal) , except in the United
+Annotated unit : hectopascal|millibar
+Tagged unit    : hectopascal|millibar
+Extracted unit : [hectopascal:2.799999713897705]
+Not Matched.
+
+
+Example: 690: 
+in Siberia, where it averages qqqq millibars .
+Annotated unit : millibar
+Tagged unit    : millibar
+Extracted unit : [millibar:0.699999988079071]
+Matched. 
+
+
+Example: 691: 
+Thus, a diver qqqq m underwater experiences a pressure of
+Annotated unit : metre
+Tagged unit    : metre
+Extracted unit : [metre:0.10111445933580399]
+Matched. 
+
+
+Example: 692: 
+experiences a pressure of about qqqq atmospheres (1atm of air plus
+Annotated unit : atmosphere
+Tagged unit    : atmosphere
+Extracted unit : [atmosphere:1.1390609741210938]
+Matched. 
+
+
+Example: 693: 
+atmospheric pressure ever measured was qqqq hPa (qqqq inHg) , set on
+Annotated unit : hectopascal|inch of mercury
+Tagged unit    : hectopascal|inch of mercury
+Extracted unit : [hectopascal|inch of mercury:3.4102401733398438]
+Matched. 
+
+
+Example: 694: 
+fixed as a pressure of qqqq pascals , and this is what
+Annotated unit : pascal
+Tagged unit    : pascal
+Extracted unit : [pascal:1.899397373199463]
+Matched. 
+
+
+Example: 695: 
+atmosphere to be exactly qqqq pascals .
+Annotated unit : pascal
+Tagged unit    : pascal
+Extracted unit : [pascal:0.06666672229766846]
+Matched. 
+
+
+Example: 696: 
+is also defined as being qqqq Pa at sea
+Annotated unit : pascal
+Tagged unit    : pascal
+Extracted unit : [pascal:0.32429835200309753]
+Matched. 
+
+
+Example: 697: 
+was a reference temperature of qqqq °C (qqqq K) and pressure of
+Annotated unit : degree celsius|kelvin
+Tagged unit    : degree celsius|kelvin
+Extracted unit : [degree celsius|kelvin:2.3585634231567383]
+Matched. 
+
+
+Example: 698: 
+K) and pressure of qqqq Pa. 
+Annotated unit : pascal
+Tagged unit    : pascal
+Extracted unit : [pascal:1.4294344186782837]
+Matched. 
+
+
+Example: 699: 
+same force, or pressure, as qqqq kPa and as
+Annotated unit : kilopascal
+Tagged unit    : kilopascal
+Extracted unit : [kilopascal:1.563765525817871]
+Matched. 
+
+
+Example: 700: 
+kPa and as qqqq psi .In the United States and
+Annotated unit : pound per square inch
+Tagged unit    : pound per square inch
+Extracted unit : [pound per square inch:0.19999998807907104]
+Matched. 
+
+
+Example: 701: 
+pressure at sea level is qqqq millibars .
+Annotated unit : millibar
+Tagged unit    : millibar
+Extracted unit : [millibar:1.0]
+Matched. 
+
+
+Example: 702: 
+defined it as being precisely qqqq dynes per square centimetre (qqqq Pa) .
+Annotated unit : square centimetre|pascal
+Tagged unit    : dyne per square centimetre|pascal
+Extracted unit : [dyne per square centimetre|pascal:6.880000114440918]
+Matched. 
+
+
+Example: 703: 
+most significant digits are omitted: qqqq mbar or qqqq kPa is transmitted as
+Annotated unit : millibar|kilopascal
+Tagged unit    : millibar|kilopascal
+Extracted unit : [millibar|kilopascal:1.0]
+Matched. 
+
+
+Example: 704: 
+As mentioned above, at qqqq metres altitude the air pressure is
+Annotated unit : metre
+Tagged unit    : metre
+Extracted unit : [metre:0.9243053197860718]
+Matched. 
+
+
+Example: 705: 
+air pressure is less than qqqq millibars .Most of these mountains are
+Annotated unit : millibar
+Tagged unit    : millibar
+Extracted unit : [millibar:2.1234827041625977]
+Matched. 
+
+
+Example: 706: 
+mountains are much taller than qqqq metres , so the air pressure
+Annotated unit : metre
+Tagged unit    : metre
+Extracted unit : [metre:0.45876801013946533]
+Matched. 
+
+
+Example: 707: 
+area would (on average) weigh qqqq pounds !That means pressure applied by
+Annotated unit : pound
+Tagged unit    : pound
+Extracted unit : [pound:0.479411780834198]
+Matched. 
+
+
+Example: 708: 
+the unit area would be qqqq pounds persquare inch .Meteorologists use a metric unit
+Annotated unit : pound per square inch
+Tagged unit    : pound per square inch
+Extracted unit : [inch-pound force:2.1871471405029297]
+Not Matched.
+
+
+Example: 709: 
+lowest pressure ever recorded was qqqq millibars , from Typhoon Tip in
+Annotated unit : millibar
+Tagged unit    : millibar
+Extracted unit : [millibar:1.453953504562378]
+Matched. 
+
+
+Example: 710: 
+altitude.Even at an altitude of qqqq metres (less than Denver, CO), atmospheric
+Annotated unit : metre
+Tagged unit    : metre
+Extracted unit : [metre:1.0530191659927368]
+Matched. 
+
+
+Example: 711: 
+to altitude would be about qqqq millibars , a much greater decrease
+Annotated unit : millibar
+Tagged unit    : millibar
+Extracted unit : [millibar:0.699999988079071]
+Matched. 
+
+
+Example: 712: 
+atmosphere is also equal to qqqq kilopascals (kPa) .Kilopascals are named for the
+Annotated unit : kilopascal
+Tagged unit    : kilopascal
+Extracted unit : [kilopascal:1.399999976158142]
+Matched. 
+
+
+Example: 713: 
+without its surrounding seas, is qqqq million square kilometres .
+Annotated unit : million
+Tagged unit    : square kilometre [million]
+Extracted unit : [square kilometre [million]:2.334444761276245]
+Matched. 
+
+
+Example: 714: 
+ocean in the world at qqqq sq km .Its deepest point is the
+Annotated unit : square kilometre
+Tagged unit    : square kilometre
+Extracted unit : [square kilometre:5.070000648498535]
+Matched. 
+
+
+Example: 715: 
+Mariana Trench (Challenger Deep) at qqqq metres .Mariana Trench,
+Annotated unit : metre
+Tagged unit    : metre
+Extracted unit : [metre:0.4058823585510254]
+Matched. 
+
+
+Example: 716: 
+metres.Mariana Trench, qqqq metres below sea
+Annotated unit : metre
+Tagged unit    : metre
+Extracted unit : [metre:0.4167659878730774]
+Matched. 
+
+
+Example: 717: 
+metres below sea level. qqqq metres or qqqq feet .The Size of the Pacific
+Annotated unit : metre|foot
+Tagged unit    : metre|feet
+Extracted unit : [metre|foot:0.5112633109092712]
+Matched. 
+
+
+Example: 718: 
+an average depth of about qqqq metres , there are shallower regions.Lying
+Annotated unit : metre
+Tagged unit    : metre
+Extracted unit : [metre:1.413487195968628]
+Matched. 
+
+
+Example: 719: 
+there are shallower regions.Lying approximately qqqq kilometres off the North American coast
+Annotated unit : kilometre
+Tagged unit    : kilometre
+Extracted unit : [kilometre:1.3578599691390991]
+Matched. 
+
+
+Example: 720: 
+Ocean waters ranges from about qqqq to qqqq metres thick.
+Annotated unit : metre
+Tagged unit    : metre
+Extracted unit : [metre:2.7746942043304443]
+Matched. 
+
+
+Example: 721: 
+travel upto the speed of qqqq kilometres an hour .Pacific OceanName (required)Mail (will not
+Annotated unit : kilometre per hour
+Tagged unit    : kilometre per hour
+Extracted unit : [kilometre per hour:2.624985933303833]
+Matched. 
+
+
+Example: 722: 
+world, reaching a depth of qqqq metres (qqqq ft) 
+Annotated unit : metre|foot
+Tagged unit    : metre|feet
+Extracted unit : [metre|foot:4.094107627868652]
+Matched. 
+
+
+Example: 723: 
+of the ocean is about qqqq metres (qqqq feet) .The deepest part of the
+Annotated unit : metre|foot
+Tagged unit    : metre|feet
+Extracted unit : [metre|foot:1.454361915588379]
+Matched. 
+
+
+Example: 724: 
+which has a value of qqqq -qqqq m3/(kg sec2 ) .If we assumed that M
+Annotated unit : kilogram per cubic metre
+Tagged unit    : cubic metre per kilogram square second
+Extracted unit : [kilogram per cubic metre:2.680000066757202]
+Matched. 
+
+
+Example: 725: 
+of the Earth, and usinga= qqqq m/s2  
+Annotated unit : square metre
+Tagged unit    : metre per second square
+Extracted unit : [metre per second squared:2.6800005435943604]
+Not Matched.
+
+
+Example: 726: 
+m, andG= qqqq -qqqq m3/(kg sec2 ) we
+Annotated unit : kilogram per cubic metre
+Tagged unit    : cubic metre per kilogram square second
+Extracted unit : [kilogram per cubic metre:2.680000066757202]
+Matched. 
+
+
+Example: 727: 
+sec2)we obtain:M=ar2/G= qqqq kg .Christine Lee --
+Annotated unit : kilogram
+Tagged unit    : kilogram
+Extracted unit : [kilogram:0.7221518754959106]
+Matched. 
+
+
+Example: 728: 
+kilograms.Earth'Mass of crust = qqqq zetagrams (qqqq xqqqq kg) .
+Annotated unit : gram|kilogram
+Tagged unit    : zeta gram|kilogram
+Extracted unit : null
+Not Matched.
+
+
+Example: 729: 
+They reached a height of qqqq feet (qqqq metres) 
+Annotated unit : foot|metre
+Tagged unit    : feet|metre
+Extracted unit : [foot|metre:2.5871152877807617]
+Matched. 
+
+
+Example: 730: 
+At the height of qqqq feet , the surface area of
+Annotated unit : foot
+Tagged unit    : feet
+Extracted unit : [foot:0.35658520460128784]
+Matched. 
+
+
+Example: 731: 
+elevation of Mount Kilimanjaro is qqqq feet or qqqq metres .The best months to climb
+Annotated unit : foot|metre
+Tagged unit    : feet|metre
+Extracted unit : [foot|metre:0.814306378364563]
+Matched. 
+
+
+Example: 732: 
+and at a height of qqqq m , it is also the
+Annotated unit : metre
+Tagged unit    : metre
+Extracted unit : [metre:0.3431597352027893]
+Matched. 
+
+
+Example: 733: 
+the height of Kilimanjaro as qqqq metres ...Since
+Annotated unit : metre
+Tagged unit    : metre
+Extracted unit : [metre:1.4410637617111206]
+Matched. 
+
+
+Example: 734: 
+for the altitude of Kilimanjaro. qqqq m , 5893m or 5892m.Read how
+Annotated unit : metre
+Tagged unit    : metre
+Extracted unit : [metre:0.2894124388694763]
+Matched. 
+
+
+Example: 735: 
+for the altitude of Kilimanjaro.5895m, qqqq m or 5892m.Read how it came
+Annotated unit : metre
+Tagged unit    : metre
+Extracted unit : [metre:0.2539091110229492]
+Matched. 
+
+
+Example: 736: 
+altitude of Kilimanjaro.5895m, 5893m or qqqq m .Read how it came to
+Annotated unit : metre
+Tagged unit    : metre
+Extracted unit : [metre:0.2539091110229492]
+Matched. 
+
+
+Example: 737: 
+which use mains voltages below qqqq V , such as North America
+Annotated unit : volt
+Tagged unit    : volt
+Extracted unit : [volt:1.0]
+Matched. 
+
+
+Example: 738: 
+mains voltages in the range qqqq V the plugs are rated at
+Annotated unit : volt
+Tagged unit    : volt
+Extracted unit : [volt:0.4331877529621124]
+Matched. 
+
+
+Example: 739: 
+the plugs are rated at qqqq V 
+Annotated unit : volt
+Tagged unit    : volt
+Extracted unit : null
+Not Matched.
+
+
+Example: 740: 
+Sign in. qqqq V .It is
+Annotated unit : volt
+Tagged unit    : volt
+Extracted unit : null
+Not Matched.
+
+
+Example: 741: 
+phase, qqqq Volts AC
+Annotated unit : volt
+Tagged unit    : volt
+Extracted unit : [volt:0.699999988079071]
+Matched. 
+
+
+Example: 742: 
+Volts AC qqqq Hz system in India.For single phase
+Annotated unit : hertz
+Tagged unit    : hertz
+Extracted unit : [hertz:0.699999988079071]
+Matched. 
+
+
+Example: 743: 
+system in India.For single phase qqqq Volts , AC
+Annotated unit : volt
+Tagged unit    : volt
+Extracted unit : [volt:0.699999988079071]
+Matched. 
+
+
+Example: 744: 
+Volts, AC qqqq Hz .The single phase voltage in
+Annotated unit : hertz
+Tagged unit    : hertz
+Extracted unit : [hertz:0.699999988079071]
+Matched. 
+
+
+Example: 745: 
+being listed as using both qqqq V and
+Annotated unit : volt
+Tagged unit    : volt
+Extracted unit : null
+Not Matched.
+
+
+Example: 746: 
+V and qqqq V when the Indonesian Standard SPLN
+Annotated unit : volt
+Tagged unit    : volt
+Extracted unit : null
+Not Matched.
+
+
+Example: 747: 
+clearly states the voltage as qqqq V .The lettering system used here
+Annotated unit : volt
+Tagged unit    : volt
+Extracted unit : [volt:1.0]
+Matched. 
+
+
+Example: 748: 
+which is specifically rated at qqqq A .
+Annotated unit : ampere
+Tagged unit    : ampere
+Extracted unit : null
+Not Matched.
+
+
+Example: 749: 
+and reported a value of qqqq km/s .His method was improved upon
+Annotated unit : kilometre per second
+Tagged unit    : kilometre per second
+Extracted unit : [kilometre per second:2.679999828338623]
+Matched. 
+
+
+Example: 750: 
+recommended using the value qqqq m/s for the speed of
+Annotated unit : metre per second
+Tagged unit    : metre per second
+Extracted unit : [metre per second:3.2698473930358887]
+Matched. 
+
+
+Example: 751: 
+to find a value of qqqq qqqq km/s .Another way to measure the
+Annotated unit : kilometre per second
+Tagged unit    : kilometre per second
+Extracted unit : [kilometre per second:2.679999828338623]
+Matched. 
+
+
+Example: 752: 
+calculated a final result of qqqq miles per second (qqqq kilometres per second) , allowing for a possible
+Annotated unit : mile per second|kilometre per second
+Tagged unit    : mile per second|kilometre per second
+Extracted unit : [mile per second|kilometre per second:11.440001487731934]
+Matched. 
+
+
+Example: 753: 
+a possible error of about qqqq miles per second .Due to the increased sophistication
+Annotated unit : mile per second
+Tagged unit    : miles per second
+Extracted unit : [mile per second:5.220000267028809]
+Matched. 
+
+
+Example: 754: 
+light in vacuum at exactly qqqq m/s .
+Annotated unit : metre per second
+Tagged unit    : metre per second
+Extracted unit : [metre per second:2.680000066757202]
+Matched. 
+
+
+Example: 755: 
+Earth (the modern value is qqqq minutes 
+Annotated unit : minute
+Tagged unit    : minute
+Extracted unit : [minute:0.01899641752243042]
+Matched. 
+
+
+Example: 756: 
+nine significant figures, it is qqqq metres per second 
+Annotated unit : metre per second
+Tagged unit    : metre per second
+Extracted unit : [metre per second:5.360001087188721]
+Matched. 
+
+
+Example: 757: 
+tendency to grow up to qqqq centimetres .The distinctive feature between the
+Annotated unit : centimetre
+Tagged unit    : centimetre
+Extracted unit : [centimetre:2.1313467025756836]
+Matched. 
+
+
+Example: 758: 
+m) in length, and nearly qqqq in (qqqq cm) in circumference, and weighed
+Annotated unit : inch|centimetre
+Tagged unit    : inch|centimetre
+Extracted unit : [inch|centimetre:3.0473015308380127]
+Matched. 
+
+
+Example: 759: 
+cm) in circumference, and weighed qqqq lb (qqqq kg) .The tusk's weight was, however,
+Annotated unit : pound|kilogram
+Tagged unit    : pound|kilogram
+Extracted unit : [pound|kilogram:4.172207832336426]
+Matched. 
+
+
+Example: 760: 
+m) in length which weighed qqqq lb (qqqq kg) .
+Annotated unit : pound|kilogram
+Tagged unit    : pound|kilogram
+Extracted unit : [pound|kilogram:1.9000000953674316]
+Matched. 
+
+
+Example: 761: 
+It provides mileage of qqqq kmpl on highways and
+Annotated unit : kilometre per litre
+Tagged unit    : kilometre per litre
+Extracted unit : [kilometre per litre:0.699999988079071]
+Matched. 
+
+
+Example: 762: 
+petrol engine providing displacement of qqqq kmpl on the highways and
+Annotated unit : kilometre per litre
+Tagged unit    : kilometre per litre
+Extracted unit : [kilometre per litre:0.699999988079071]
+Matched. 
+
+
+Example: 763: 
+kmpl on the highways and qqqq kmpl on the city roads.
+Annotated unit : kilometre per litre
+Tagged unit    : kilometre per litre
+Extracted unit : [kilometre per litre:0.699999988079071]
+Matched. 
+
+
+Example: 764: 
+will now generate an incredible qqqq bhp and is said to give
+Annotated unit : horsepower
+Tagged unit    : horsepower
+Extracted unit : [horsepower:0.699999988079071]
+Matched. 
+
+
+Example: 765: 
+said to give an impressive qqqq kmpl mileage, which too is good.This
+Annotated unit : kilometre per litre
+Tagged unit    : kilometre per litre
+Extracted unit : [kilometre per litre:0.699999988079071]
+Matched. 
+
+
+Example: 766: 
+This qqqq L diesel engine of new Polo
+Annotated unit : litre
+Tagged unit    : litre
+Extracted unit : [litre:0.5082310438156128]
+Matched. 
+
+
+Example: 767: 
+16kmpl in the city and qqqq kmpl on the highway.The petrol version
+Annotated unit : kilometre per litre
+Tagged unit    : kilometre per litre
+Extracted unit : [kilometre per litre:0.699999988079071]
+Matched. 
+
+
+Example: 768: 
+with storage of up to qqqq GB , which is a new
+Annotated unit : gigabyte
+Tagged unit    : gigabyte
+Extracted unit : [gigabyte:0.5999999642372131]
+Matched. 
+
+
+Example: 769: 
+in capacities of 400GB and qqqq GB and are targeted at data
+Annotated unit : gigabyte
+Tagged unit    : gigabyte
+Extracted unit : [gigabyte:0.5999999642372131]
+Matched. 
+
+
+Example: 770: 
+series for PCs.The qqqq GB SSD
+Annotated unit : gigabyte
+Tagged unit    : gigabyte
+Extracted unit : [gigabyte:0.5999999642372131]
+Matched. 
+
+
+Example: 771: 
+doubled for the new Samsung qqqq Gb SSD and prices havent been
+Annotated unit : gigabyte
+Tagged unit    : gigabyte
+Extracted unit : [gigabyte:0.5999999642372131]
+Matched. 
+
+
+Example: 772: 
+sunlight power decreases to about qqqq qqqq W/m2  , and by energy fractions,
+Annotated unit : square metre
+Tagged unit    : Watt per square metre
+Extracted unit : [watt per square metre:1.450305461883545]
+Matched. 
+
+
+Example: 773: 
+energy fractions, is composed of qqqq % visible light,
+Annotated unit :  percent
+Tagged unit    : percent
+Extracted unit : [percent:0.6899999976158142]
+Matched. 
+
+
+Example: 774: 
+visible light, qqqq % ultraviolet (with the Sun at
+Annotated unit :  percent
+Tagged unit    : percent
+Extracted unit : [percent:0.6899999976158142]
+Matched. 
+
+
+Example: 775: 
+per square metre, is about qqqq W infrared radiation,
+Annotated unit : watt
+Tagged unit    : Watt
+Extracted unit : [watt:0.19999998807907104]
+Matched. 
+
+
+Example: 776: 
+W infrared radiation, qqqq W visible light, and
+Annotated unit : watt
+Tagged unit    : Watt
+Extracted unit : [watt:0.19999998807907104]
+Matched. 
+
+
+Example: 777: 
+W visible light, and qqqq W UV.
+Annotated unit : watt
+Tagged unit    : Watt
+Extracted unit : [watt:0.19999998807907104]
+Matched. 
+
+
+Example: 778: 
+a longer wavelength by about qqqq nm .This "substituent effect" is general
+Annotated unit : nanometer
+Tagged unit    : nanometre
+Extracted unit : [nanometer:1.170078158378601]
+Matched. 
+
+
+Example: 779: 
+spectrum comprises photon energies of qqqq to qqqq kcal/mole , and the near ultraviolet
+Annotated unit : kilocalorie
+Tagged unit    : kilocalorie per mole
+Extracted unit : [kilocalorie:1.399999976158142]
+Matched. 
+
+
+Example: 780: 
+extends this energy range to qqqq kcal/mole .Ultraviolet radiation having wavelengths less
+Annotated unit : kilocalorie
+Tagged unit    : kilocalorie per mole
+Extracted unit : [kilocalorie:1.0]
+Matched. 
+
+
+Example: 781: 
+radiation having wavelengths less than qqqq nm is difficult to handle, and
+Annotated unit : nanometer
+Tagged unit    : nanometre
+Extracted unit : [nanometer:1.06087064743042]
+Matched. 
+
+
+Example: 782: 
+gamma rays in succession ( qqqq MeV then qqqq MeV ).This path is followed
+Annotated unit : mega electronvolt|mega electronvolt
+Tagged unit    : mega electronvolt|mega electronvolt
+Extracted unit : [mega electronvolt|mega electronvolt:1.3999998569488525]
+Matched. 
+
+
+Example: 783: 
+by snow land, qqqq % mountains,
+Annotated unit :  percent
+Tagged unit    : percent
+Extracted unit : [percent:1.0]
+Matched. 
+
+
+Example: 784: 
+the earth's ocean increases by qqqq cubic metre every year.Ketsia Erra -- 2008We
+Annotated unit : cubic metre
+Tagged unit    : cubic metre
+Extracted unit : [cubic metre:1.690000057220459]
+Matched. 
+
+
+Example: 785: 
+determined that she lived for qqqq years , making her birth year
+Annotated unit : year
+Tagged unit    : year
+Extracted unit : [year:0.6876742243766785]
+Matched. 
+
+
+Example: 786: 
+can live for more than qqqq years , due to a continuous
+Annotated unit : year
+Tagged unit    : year
+Extracted unit : [year:0.6413043141365051]
+Matched. 
+
+
+Example: 787: 
+days.After qqqq hours and qqqq minutes the Kill A Watt metre
+Annotated unit : hour|minute
+Tagged unit    : hour|minute
+Extracted unit : [hour|minute:1.6190581321716309]
+Matched. 
+
+
+Example: 788: 
+Kill A Watt metre registered qqqq kwh .
+Annotated unit : kilowatt-hour
+Tagged unit    : kilowatt-hour
+Extracted unit : [kilowatt-hour:0.699999988079071]
+Matched. 
+
+
+Example: 789: 
+in the US consumes about qqqq kilowatt-hour per day (qqqq W) 
+Annotated unit : gallon   per day|watt
+Tagged unit    : kilowatt-hour per day|watt
+Extracted unit : [kilowatt-hour per day|watt:9.295955657958984]
+Matched. 
+
+
+Example: 790: 
+Department of Energy estimates a qqqq -cubic-foot frost-free refrigerator uses
+Annotated unit : cubic foot
+Tagged unit    : cubic foot
+Extracted unit : [cubic foot:1.690000057220459]
+Matched. 
+
+
+Example: 791: 
+frost-free refrigerator uses qqqq watts .... Watts Usage in Appliances;
+Annotated unit : watt
+Tagged unit    : watt
+Extracted unit : [watt:1.1042137145996094]
+Matched. 
+
+
+Example: 792: 
+the other hand, exports average qqqq TMT , which is over
+Annotated unit : kiloton
+Tagged unit    : kiloton
+Extracted unit : [kiloton:0.9081438779830933]
+Matched. 
+
+
+Example: 793: 
+TMT, which is over qqqq % of their total production, and
+Annotated unit :  percent
+Tagged unit    : percent
+Extracted unit : [percent:0.6899999976158142]
+Matched. 
+
+
+Example: 794: 
+has average ending stocks of qqqq TMT .
+Annotated unit : kiloton
+Tagged unit    : kiloton
+Extracted unit : [kiloton:0.8721709847450256]
+Matched. 
+
+
+Example: 795: 
+averaging an annual production of qqqq TMT .Russia is the third largest
+Annotated unit : kiloton
+Tagged unit    : kiloton
+Extracted unit : [kiloton:1.8689169883728027]
+Matched. 
+
+
+Example: 796: 
+world, consuming an average of qqqq TMT .
+Annotated unit : kiloton
+Tagged unit    : kiloton
+Extracted unit : [kiloton:0.8011277318000793]
+Matched. 
+
+
+Example: 797: 
+yield contests every year.Yields above qqqq tonnes per hectare are routinely achieved in many
+Annotated unit : hectare
+Tagged unit    : tonne per hectare
+Extracted unit : [tonne per hectare:10.1598539352417]
+Matched. 
+
+
+Example: 798: 
+million hectares ( qqqq % ) of the total area
+Annotated unit :  percent
+Tagged unit    : percent
+Extracted unit : [hectare:6.296896934509277]
+Not Matched.
+
+
+Example: 799: 
+were China ( qqqq million metric tonnes ), India
+Annotated unit : tonne
+Tagged unit    : tonne [million]
+Extracted unit : [tonne [million]:1.5843536853790283]
+Matched. 
+
+
+Example: 800: 
+million metric tonnes), India ( qqqq MMT ), Russian Federation
+Annotated unit : tonne
+Tagged unit    : tonne [million]
+Extracted unit : null
+Not Matched.
+
+
+Example: 801: 
+MMT), Russian Federation ( qqqq MMT ), United States
+Annotated unit : tonne
+Tagged unit    : tonne [million]
+Extracted unit : null
+Not Matched.
+
+
+Example: 802: 
+MMT), United States ( qqqq MMT ) and France
+Annotated unit : tonne
+Tagged unit    : tonne [million]
+Extracted unit : [united states dollar:2.5653038024902344]
+Not Matched.
+
+
+Example: 803: 
+MMT) and France ( qqqq MMT ).
+Annotated unit : tonne
+Tagged unit    : tonne [million]
+Extracted unit : null
+Not Matched.
+
+
+Example: 804: 
+production in that year was qqqq million tons , after maize
+Annotated unit : tonne
+Tagged unit    : tonne [million]
+Extracted unit : [tonne [million]:1.1471033096313477]
+Matched. 
+
+
+Example: 805: 
+million tons, after maize ( qqqq million tons ), and with rice as
+Annotated unit : tonne
+Tagged unit    : tonne [million]
+Extracted unit : [tonne [million]:1.5444443225860596]
+Matched. 
+
+
+Example: 806: 
+as a close third ( qqqq million tons 
+Annotated unit : tonne
+Tagged unit    : tonne [million]
+Extracted unit : [tonne [million]:1.0444443225860596]
+Matched. 
+
+
+Example: 807: 
+also imports an average of qqqq TMT of wheat, making Russia the
+Annotated unit : kiloton
+Tagged unit    : kiloton
+Extracted unit : [kiloton:0.8167936205863953]
+Matched. 
+
+
+Example: 808: 
+world.Furthermore, on average, Russia exports qqqq TMT of wheat.
+Annotated unit : kiloton
+Tagged unit    : kiloton
+Extracted unit : [kiloton:1.0158629417419434]
+Matched. 
+
+
+Example: 809: 
+ft. qqqq in. There are
+Annotated unit : inch
+Tagged unit    : inch
+Extracted unit : [foot:0.699999988079071]
+Not Matched.
+
+
+Example: 810: 
+in. There are qqqq steps inside the statue from the
+Annotated unit : 
+Tagged unit    : 
+Extracted unit : null
+Matched. 
+
+
+Example: 811: 
+The defiant lion, qqqq feet (qqqq m) long and half that in
+Annotated unit : foot|metre
+Tagged unit    : feet|metre
+Extracted unit : [foot|metre:1.0120246410369873]
+Matched. 
+
+
+Example: 812: 
+Monthly: INR qqqq  # Weekly: INR
+Annotated unit : indian rupee
+Tagged unit    : Indian Rupee
+Extracted unit : [indian rupee:1.3836162090301514]
+Matched. 
+
+
+Example: 813: 
+Weekly: INR qqqq  # Daily: INR
+Annotated unit : indian rupee
+Tagged unit    : Indian Rupee
+Extracted unit : [indian rupee:1.3316807746887207]
+Matched. 
+
+
+Example: 814: 
+Daily: INR qqqq  Notification: the salarychecker is based
+Annotated unit : indian rupee
+Tagged unit    : Indian Rupee
+Extracted unit : [indian rupee:1.113446831703186]
+Matched. 
+
+
+Example: 815: 
+salary of President to Rs. qqqq lakh (US$ qqqq ) .
+Annotated unit : lakh|united states dollar
+Tagged unit    : Indian Rupee [lakh]|united states dollar
+Extracted unit : [indian rupee [lakh]:11.016944885253906]
+Not Matched.
+
+
+Example: 816: 
+be subscribed by at least qqqq  electors as proposers and
+Annotated unit : 
+Tagged unit    : 
+Extracted unit : null
+Matched. 
+
+
+Example: 817: 
+electors as proposers and qqqq  electors as seconders.Each candidate has
+Annotated unit : 
+Tagged unit    : 
+Extracted unit : null
+Matched. 
+
+
+Example: 818: 
+make a security deposit of qqqq (US$qqqq ) in the Reserve Bank of
+Annotated unit : indian rupee|united states dollar
+Tagged unit    : Indian Rupee|united states dollar
+Extracted unit : [united states dollar:5.6808648109436035]
+Not Matched.
+
+
+Example: 819: 
+built heavily armored Mercedes Benz Sqqqq  Pullman Guard which costs around
+Annotated unit : united states dollar
+Tagged unit    : united states dollar
+Extracted unit : null
+Not Matched.
+
+
+Example: 820: 
+Guard which costs around Rs. qqqq Crore .According to the emolument and
+Annotated unit : crore
+Tagged unit    : Indian Rupee [crore]
+Extracted unit : [indian rupee [crore]:4.742720603942871]
+Matched. 
+
+
+Example: 821: 
+they are down by Rs qqqq  crore and on a nominal
+Annotated unit : crore
+Tagged unit    : Indian Rupee [crore]
+Extracted unit : [indian rupee [crore]:4.529110908508301]
+Matched. 
+
+
+Example: 822: 
+a little more, maybe Rs qqqq crore .
+Annotated unit : crore
+Tagged unit    : Indian Rupee [crore]
+Extracted unit : [indian rupee [crore]:4.633762359619141]
+Matched. 
+
+
+Example: 823: 
+GDP was estimated to be $qqqq   trillion in June
+Annotated unit : united states dollar
+Tagged unit    : united states dollar [trillion]
+Extracted unit : [united states dollar [trillion]:1.928783655166626]
+Matched. 
+
+
+Example: 824: 
+U.S. public debt was $qqqq billion in
+Annotated unit : united states dollar
+Tagged unit    : united states dollar [billion]
+Extracted unit : [united states dollar [billion]:2.139249086380005]
+Matched. 
+
+
+Example: 825: 
+an amount equal to qqqq % of America's gross domestic product
+Annotated unit :  percent
+Tagged unit    : percent
+Extracted unit : [percent:1.0]
+Matched. 
+
+
+Example: 826: 
+had more than tripled to $qqqq trillion  or
+Annotated unit : united states dollar
+Tagged unit    : united states dollar [trillion]
+Extracted unit : [united states dollar [trillion]:2.069363594055176]
+Matched. 
+
+
+Example: 827: 
+trillion  or qqqq % of
+Annotated unit :  percent
+Tagged unit    : percent
+Extracted unit : [percent:0.6899999976158142]
+Matched. 
+
+
+Example: 828: 
+the national debt was $qqqq trillion ; however, the debt-to-GDP ratio
+Annotated unit : united states dollar
+Tagged unit    : united states dollar [trillion]
+Extracted unit : [united states dollar [trillion]:2.0404133796691895]
+Matched. 
+
+
+Example: 829: 
+debt ceiling was raised to $qqqq trillion .
+Annotated unit : united states dollar
+Tagged unit    : united states dollar [trillion]
+Extracted unit : [united states dollar [trillion]:1.3782135248184204]
+Matched. 
+
+
+Example: 830: 
+billionAltogether  ready for it? $qqqq billion .
+Annotated unit : united states dollar
+Tagged unit    : united states dollar [billion]
+Extracted unit : [united states dollar [billion]:1.9895172119140625]
+Matched. 
+
+
+Example: 831: 
+general and administrative expenses by qqqq % to offset the weakness in
+Annotated unit :  percent
+Tagged unit    : percent
+Extracted unit : [percent:0.6899999976158142]
+Matched. 
+
+
+Example: 832: 
+company also managed to generate $qqqq billion in operating cash flow,
+Annotated unit : united states dollar
+Tagged unit    : united states dollar [billion]
+Extracted unit : [united states dollar [billion]:0.956506073474884]
+Matched. 
+
+
+Example: 833: 
+billion in operating cash flow, $qqqq billion of which it returned to
+Annotated unit : united states dollar
+Tagged unit    : united states dollar [billion]
+Extracted unit : [united states dollar [billion]:0.9215965270996094]
+Matched. 
+
+
+Example: 834: 
+roughly $1billion for 2Q10, a qqqq % increase from
+Annotated unit :  percent
+Tagged unit    : percent
+Extracted unit : [percent:0.6899999976158142]
+Matched. 
+
+
+Example: 835: 
+the company was fined US$qqqq million by the European Union in
+Annotated unit : united states dollar
+Tagged unit    : united states dollar [million]
+Extracted unit : [united states dollar [million]:3.6844186782836914]
+Matched. 
+
+
+Example: 836: 
+Census)  The litreacy rate: qqqq % 
+Annotated unit :  percent
+Tagged unit    : percent
+Extracted unit : [percent:1.0]
+Matched. 
+
+
+Example: 837: 
+Census)  Males: qqqq %  Females:
+Annotated unit :  percent
+Tagged unit    : percent
+Extracted unit : [percent:1.0]
+Matched. 
+
+
+Example: 838: 
+ Females: qqqq %  The litreacy rate:
+Annotated unit :  percent
+Tagged unit    : percent
+Extracted unit : [percent:1.0]
+Matched. 
+
+
+Example: 839: 
+Census): qqqq % Rural-Urban Literacy Gap - Census
+Annotated unit :  percent
+Tagged unit    : percent
+Extracted unit : [percent:1.0]
+Matched. 
+
+
+Example: 840: 
+increased by qqqq % whereas male litreacy rate rose
+Annotated unit :  percent
+Tagged unit    : percent
+Extracted unit : [percent:1.0]
+Matched. 
+
+
+Example: 841: 
+male litreacy rate rose by qqqq % .
+Annotated unit :  percent
+Tagged unit    : percent
+Extracted unit : [percent:1.0]
+Matched. 
+
+
+Example: 842: 
+decadal litreacy growth of qqqq % , which is the slower
+Annotated unit :  percent
+Tagged unit    : percent
+Extracted unit : [percent:1.0]
+Matched. 
+
+
+Example: 843: 
+were qqqq % for men and
+Annotated unit :  percent
+Tagged unit    : percent
+Extracted unit : [percent:1.0]
+Matched. 
+
+
+Example: 844: 
+for men and qqqq % for
+Annotated unit :  percent
+Tagged unit    : percent
+Extracted unit : [percent:1.0]
+Matched. 
+
+
+Example: 845: 
+highest litreacy rate which is qqqq % , while Bihar has the
+Annotated unit :  percent
+Tagged unit    : percent
+Extracted unit : [percent:1.0]
+Matched. 
+
+
+Example: 846: 
+Bihar has the lowest with qqqq % .Illitreacy in India is characterized
+Annotated unit :  percent
+Tagged unit    : percent
+Extracted unit : [percent:0.6899999976158142]
+Matched. 
+
+
+Example: 847: 
+has a top speed of qqqq km/h (qqqq mph) 
+Annotated unit : kilometre per hour|mile per hour
+Tagged unit    : kilometre per hour|mile per hour
+Extracted unit : [kilometre per hour|mile per hour:6.146530628204346]
+Matched. 
+
+
+Example: 848: 
+ready to attempt to reach qqqq km/h (qqqq mph) .
+Annotated unit : kilometre per hour|mile per hour
+Tagged unit    : kilometre per hour|mile per hour
+Extracted unit : [kilometre per hour|mile per hour:3.580000638961792]
+Matched. 
+
+
+Example: 849: 
+It has a qqqq km/h (qqqq mph) top speed, making it the
+Annotated unit : kilometre per hour|mile per hour
+Tagged unit    : kilometre per hour|mile per hour
+Extracted unit : [kilometre per hour|mile per hour:5.660550117492676]
+Matched. 
+
+
+Example: 850: 
+it is electronically limited to qqqq km/h (qqqq mph) to protect the tyres from
+Annotated unit : kilometre per hour|mile per hour
+Tagged unit    : kilometre per hour|mile per hour
+Extracted unit : [kilometre per hour|mile per hour:3.617360830307007]
+Matched. 
+
+
+Example: 851: 
+in qqqq sec and 268mph top speed AND
+Annotated unit : second
+Tagged unit    : second
+Extracted unit : [second:0.09999996423721313]
+Matched. 
+
+
+Example: 852: 
+we have succeeded in reaching qqqq km/h is a thrill for me,
+Annotated unit : kilometre per hour
+Tagged unit    : kilometre per hour
+Extracted unit : [kilometre per hour:2.6800005435943604]
+Matched. 
+
+
+Example: 853: 
+cars were travelling at approximately qqqq km/h , the Bugatti overtook its
+Annotated unit : kilometre per hour
+Tagged unit    : kilometre per hour
+Extracted unit : [kilometre per hour:3.0302374362945557]
+Matched. 
+
+
+Example: 854: 
+Bugatti overtook its competitor from qqqq to qqqq km/h and emerged the victor.
+Annotated unit : kilometre per hour
+Tagged unit    : kilometre per hour
+Extracted unit : [kilometre per hour:5.360001087188721]
+Matched. 
+
+
+Example: 855: 
+the fastest acceleration speed, reaching qqqq mph in
+Annotated unit : mile per hour
+Tagged unit    : mile per hour
+Extracted unit : [mile per hour:1.5661267042160034]
+Matched. 
+
+
+Example: 856: 
+mph in qqqq seconds .Endowed with a
+Annotated unit : second
+Tagged unit    : second
+Extracted unit : [second:0.2286570817232132]
+Matched. 
+
+
+Example: 857: 
+seconds.Endowed with a qqqq L W16-Cylinder, four turbochargers, and a
+Annotated unit : litre
+Tagged unit    : litre
+Extracted unit : [litre:0.43529409170150757]
+Matched. 
+
+
+Example: 858: 
+reach a top speed of qqqq mph .Counting a sum of
+Annotated unit : mile per hour
+Tagged unit    : mile per hour
+Extracted unit : [mile per hour:1.5735827684402466]
+Matched. 
+
+
+Example: 859: 
+mph.Counting a sum of qqqq  radiators, for the engine cooling
+Annotated unit : 
+Tagged unit    : 
+Extracted unit : null
+Matched. 
+
+
+Example: 860: 
+power to weight ratio of qqqq bhp/tonne .If we talk about performance
+Annotated unit : boiler horsepower equivalent direct radiation
+Tagged unit    : horsepower per tonne
+Extracted unit : [horsepower per tonne:3.1151325702667236]
+Matched. 
+
+
+Example: 861: 
+this supercars power to reach qqqq and qqqq km/h (qqqq and qqqq mph) in
+Annotated unit : kilometre per hour|mile per hour
+Tagged unit    : kilometre per hour|mile per hour
+Extracted unit : [kilometre per hour|mile per hour:43.12001037597656]
+Matched. 
+
+
+Example: 862: 
+and respectively qqqq seconds , winning for herself the
+Annotated unit : second
+Tagged unit    : second
+Extracted unit : [second:0.21929627656936646]
+Matched. 
+
+
+Example: 863: 
+gr/cm3 which is equal to qqqq kg/L 
+Annotated unit : kilogram per litre
+Tagged unit    : kilogram per litre
+Extracted unit : [kilogram per litre:2.680000066757202]
+Matched. 
+
+
+Example: 864: 
+of the mine in Almadn qqqq years ago, until new deposits were
+Annotated unit : year
+Tagged unit    : year
+Extracted unit : [year:0.6696552634239197]
+Matched. 
+
+
+Example: 865: 
+Its density is qqqq g/cm3  which is comparable to Earth's
+Annotated unit : cubic centimetre
+Tagged unit    : gram per cubic centimetre
+Extracted unit : [gram per cubic centimetre:1.270336389541626]
+Matched. 
+
+
+Example: 866: 
+which is comparable to Earth's qqqq g/cm3  density.In an uncompressed state, Mercury's
+Annotated unit : cubic centimetre
+Tagged unit    : gram per cubic centimetre
+Extracted unit : [gram per cubic centimetre:1.250641942024231]
+Matched. 
+
+
+Example: 867: 
+a high density.Its density is qqqq g/cm3  which is comparable to Earth's
+Annotated unit : cubic centimetre
+Tagged unit    : gram per cubic centimetre
+Extracted unit : [gram per cubic centimetre:1.2084414958953857]
+Matched. 
+
+
+Example: 868: 
+and occupies a volume of qqqq ml.(millilitre) .The density can be calculated
+Annotated unit : millilitre
+Tagged unit    : millilitre
+Extracted unit : [millilitre:2.070847749710083]
+Matched. 
+
+
+Example: 869: 
+has shown that acute exposure (qqqq  qqqq hours) to calculated elemental mercury levels
+Annotated unit : hour
+Tagged unit    : hour
+Extracted unit : [hour:1.5620689392089844]
+Matched. 
+
+
+Example: 870: 
+rainfall in Mumbai is around qqqq cm .Temperature is around
+Annotated unit : centimetre
+Tagged unit    : centimetre
+Extracted unit : [centimetre:1.2046254873275757]
+Matched. 
+
+
+Example: 871: 
+March, the temperature might hit qqqq to qqqq °C .This high however, is due
+Annotated unit : degree celsius
+Tagged unit    : degree celsius
+Extracted unit : [degree celsius:1.0]
+Matched. 
+
+
+Example: 872: 
+to a rest energy of qqqq MeV .The ratio between the mass
+Annotated unit : mega electronvolt
+Tagged unit    : Mega electronvolt
+Extracted unit : [mega electronvolt:1.9746794700622559]
+Matched. 
+
+
+Example: 873: 
+of a hydrogen atom.Energy LevelEnergy1- qqqq eV 
+Annotated unit : electronvolt
+Tagged unit    : electronvolt
+Extracted unit : [electronvolt:3.726163864135742]
+Matched. 
+
+
+Example: 874: 
+eV2- qqqq eV 
+Annotated unit : electronvolt
+Tagged unit    : electronvolt
+Extracted unit : [electronvolt:1.0]
+Matched. 
+
+
+Example: 875: 
+eV3- qqqq eV 
+Annotated unit : electronvolt
+Tagged unit    : electronvolt
+Extracted unit : [electronvolt:1.0]
+Matched. 
+
+
+Example: 876: 
+eV4- .qqqq eV 
+Annotated unit : electronvolt
+Tagged unit    : electronvolt
+Extracted unit : [electronvolt:1.0]
+Matched. 
+
+
+Example: 877: 
+eV5- .qqqq eV   Exercise
+Annotated unit : electronvolt
+Tagged unit    : electronvolt
+Extracted unit : [electronvolt:1.0]
+Matched. 
+
+
+Example: 878: 
+have luminosities that range between qqqq and qqqq solar luminosities , or the brightness of
+Annotated unit : 
+Tagged unit    : Luminance
+Extracted unit : null
+Not Matched.
+
+
+Example: 879: 
+rs: twenty three thousand **** qqqq GB ipad
+Annotated unit : gigabyte
+Tagged unit    : gigabyte
+Extracted unit : [gigabyte:0.5999999642372131]
+Matched. 
+
+
+Example: 880: 
+twenty three thousand ****64GB ipad $qqqq  convert to IND
+Annotated unit : united states dollar
+Tagged unit    : united states dollar
+Extracted unit : [united states dollar:1.529239296913147]
+Matched. 
+
+
+Example: 881: 
+countries for a price of qqqq $ .The device will get released
+Annotated unit : united states dollar
+Tagged unit    : united states dollar
+Extracted unit : [united states dollar:2.168482542037964]
+Matched. 
+
+
+Example: 882: 
+In all, qqqq  types of precious and semi-precious
+Annotated unit : 
+Tagged unit    : 
+Extracted unit : null
+Matched. 
+
+
+Example: 883: 
+million rupees.At that time, qqqq gram of gold was sold for
+Annotated unit : gram
+Tagged unit    : gram
+Extracted unit : [gram:0.9209835529327393]
+Matched. 
+
+
+Example: 884: 
+at a cost of qqqq Million Rupees .The construction documents show that
+Annotated unit : million
+Tagged unit    : Indian Rupee [million]
+Extracted unit : [indian rupee [million]:1.577693223953247]
+Matched. 
+
+
+Example: 885: 
+China's population rose from approximately qqqq million in
+Annotated unit : million
+Tagged unit    : million
+Extracted unit : [million:1.567102074623108]
+Matched. 
+
+
+Example: 886: 
+Thereafter, the global population reached qqqq billion in
+Annotated unit : billion
+Tagged unit    : billion
+Extracted unit : [billion:0.8465045690536499]
+Matched. 
+
+
+Example: 887: 
+the United States Census Bureau, qqqq billion in March
+Annotated unit : billion
+Tagged unit    : billion
+Extracted unit : [billion:0.4560636878013611]
+Matched. 
+
+
+Example: 888: 
+billion inhabitants accounting for qqqq % of the world population.The world's
+Annotated unit :  percent
+Tagged unit    : percent
+Extracted unit : [percent:0.6899999976158142]
+Matched. 
+
+
+Example: 889: 
+sea level air pressure is qqqq pounds per square inch (psi) .It can also be said
+Annotated unit : pound per square inch
+Tagged unit    : pound per square inch
+Extracted unit : [pound per square inch:11.093768119812012]
+Matched. 
+
+
+Example: 890: 
+atmospheric pressure ever recorded was qqqq millibars , at Agata in the
+Annotated unit : millibar
+Tagged unit    : millibar
+Extracted unit : [millibar:1.7676304578781128]
+Matched. 
+
+
+Example: 891: 
+cold weather, with temperatures between -qqqq °C and
+Annotated unit : degree celsius
+Tagged unit    : degree celsius
+Extracted unit : [degree celsius:1.0]
+Matched. 
+
+
+Example: 892: 
+C and -qqqq °C at the time.
+Annotated unit : degree celsius
+Tagged unit    : degree celsius
+Extracted unit : [degree celsius:0.699999988079071]
+Matched. 
+
+
+Example: 893: 
+analyzer, was found to be qqqq mmHg (qqqq hPa) 
+Annotated unit : millimetre of mercury|hectopascal
+Tagged unit    : millimetre of mercury|hectopascal
+Extracted unit : [millimetre of mercury|hectopascal:1.5]
+Matched. 
+
+
+Example: 894: 
+and a height of approximately qqqq mm (qqqq in) of mercury is often used
+Annotated unit : millimetre|inch
+Tagged unit    : millimetre|inch
+Extracted unit : [millimetre|inch:2.592594861984253]
+Matched. 
+
+
+Example: 895: 
+atmosphere was almost exactly qqqq mm (qqqq mm) .
+Annotated unit : millimetre|millimetre
+Tagged unit    : millimetre|millimetre
+Extracted unit : [millimetre|millimetre:3.9578685760498047]
+Matched. 
+
+
+Example: 896: 
+with a record low of qqqq mbar (qqqq kPa) (see Atmospheric pressure records).Pressure varies
+Annotated unit : millibar|kilopascal
+Tagged unit    : millibar|kilopascal
+Extracted unit : [millibar|kilopascal:2.451585531234741]
+Matched. 
+
+
+Example: 897: 
+Even at an altitude of qqqq metres (less than Denver, CO), atmospheric
+Annotated unit : metre
+Tagged unit    : metre
+Extracted unit : [metre:1.0530191659927368]
+Matched. 
+
+
+Example: 898: 
+millibars or at most qqqq millibars , since that is the
+Annotated unit : millibar
+Tagged unit    : millibar
+Extracted unit : [millibar:0.699999988079071]
+Matched. 
+
+
+Example: 899: 
+kPa for every qqqq metres .
+Annotated unit : metre
+Tagged unit    : metre
+Extracted unit : [metre:0.5213464498519897]
+Matched. 
+
+
+Example: 900: 
+inches (inHg) or qqqq millimetres of mercury (mmHg) .
+Annotated unit : millimetre of mercury
+Tagged unit    : millimetre of mercury
+Extracted unit : [millimetre of mercury:5.219999313354492]
+Matched. 
+
+
+Example: 901: 
+pressure" should be defined as qqqq Pa (qqqq bar) 
+Annotated unit : pascal|bar
+Tagged unit    : pascal|bar
+Extracted unit : [pascal|bar:1.0317460298538208]
+Matched. 
+
+
+Example: 902: 
+sea level atmospheric pressure of qqqq Pa (as defined by the CGPM,
+Annotated unit : pascal
+Tagged unit    : pascal
+Extracted unit : [pascal:1.0]
+Matched. 
+
+
+Example: 903: 
+pressure of one atmosphere.One atmosphere (qqqq kPa or qqqq psi) is the pressure caused by
+Annotated unit : kilopascal|pound per square inch
+Tagged unit    : kilopascal|pound per square inch
+Extracted unit : [kilopascal|pound per square inch:2.24587082862854]
+Matched. 
+
+
+Example: 904: 
+of fresh water of approximately qqqq m (qqqq ft) .
+Annotated unit : metre|foot
+Tagged unit    : metre|feet
+Extracted unit : [metre|foot:1.3744451999664307]
+Matched. 
+
+
+Example: 905: 
+of Guam.Challenger Deep is approximately qqqq metres (qqqq feet) deep .
+Annotated unit : metre|foot
+Tagged unit    : metre|feet
+Extracted unit : [metre|foot:1.3298289775848389]
+Matched. 
+
+
+Example: 906: 
+to the usual value of qqqq metres .
+Annotated unit : metre
+Tagged unit    : metre
+Extracted unit : [metre:0.4058823585510254]
+Matched. 
+
+
+Example: 907: 
+is found to be about qqqq qqqq kg .Mass is a characteristic that
+Annotated unit : kilogram
+Tagged unit    : kilogram
+Extracted unit : [kilogram:1.9944086074829102]
+Matched. 
+
+
+Example: 908: 
+of the Earth is approximately qqqq qqqq kg .It is composed mostly of
+Annotated unit : kilogram
+Tagged unit    : kilogram
+Extracted unit : [kilogram:0.7914935946464539]
+Matched. 
+
+
+Example: 909: 
+composed mostly of iron ( qqqq % ), oxygen
+Annotated unit :  percent
+Tagged unit    : percent
+Extracted unit : [percent:1.0]
+Matched. 
+
+
+Example: 910: 
+oxygen ( qqqq % ), silicon
+Annotated unit :  percent
+Tagged unit    : percent
+Extracted unit : [percent:1.0]
+Matched. 
+
+
+Example: 911: 
+silicon ( qqqq % ), magnesium
+Annotated unit :  percent
+Tagged unit    : percent
+Extracted unit : [percent:1.0]
+Matched. 
+
+
+Example: 912: 
+magnesium ( qqqq % ), sulfur
+Annotated unit :  percent
+Tagged unit    : percent
+Extracted unit : [percent:1.0]
+Matched. 
+
+
+Example: 913: 
+sulfur ( qqqq % ), nickel
+Annotated unit :  percent
+Tagged unit    : percent
+Extracted unit : [percent:1.0]
+Matched. 
+
+
+Example: 914: 
+nickel ( qqqq % ), calcium
+Annotated unit :  percent
+Tagged unit    : percent
+Extracted unit : [percent:1.0]
+Matched. 
+
+
+Example: 915: 
+calcium ( qqqq % ), and aluminium
+Annotated unit :  percent
+Tagged unit    : percent
+Extracted unit : [percent:1.0]
+Matched. 
+
+
+Example: 916: 
+and aluminium ( qqqq % ); with the remaining
+Annotated unit :  percent
+Tagged unit    : percent
+Extracted unit : [percent:1.0]
+Matched. 
+
+
+Example: 917: 
+with the remaining qqqq % consisting of trace amounts of
+Annotated unit :  percent
+Tagged unit    : percent
+Extracted unit : [percent:1.0]
+Matched. 
+
+
+Example: 918: 
+down to a depth of qqqq m . The deepest underwater location
+Annotated unit : metre
+Tagged unit    : metre
+Extracted unit : [metre:0.3239731192588806]
+Matched. 
+
+
+Example: 919: 
+Ocean with a depth of qqqq m .[note
+Annotated unit : metre
+Tagged unit    : metre
+Extracted unit : [metre:0.34279996156692505]
+Matched. 
+
+
+Example: 920: 
+of the oceans is approximately qqqq qqqq metric tons , or about
+Annotated unit : tonne
+Tagged unit    : tonne
+Extracted unit : [tonne:1.755786418914795]
+Matched. 
+
+
+Example: 921: 
+the Earth, and usinga = qqqq m/sqqqq  ,r =
+Annotated unit : square metre
+Tagged unit    : metre per square second
+Extracted unit : [metre:0.1804312765598297]
+Not Matched.
+
+
+Example: 922: 
+m/s2,r = qqqq qqqq m , andG =
+Annotated unit : metre
+Tagged unit    : metre
+Extracted unit : null
+Not Matched.
+
+
+Example: 923: 
+m, andG = qqqq qqqq -qqqq m2 (kg sec2 ) we obtain:M = ar2/G =
+Annotated unit : kilogram per cubic metre
+Tagged unit    : cubic metre per kilogram square second
+Extracted unit : [square metre:1.1999999284744263]
+Not Matched.
+
+
+Example: 924: 
+sec2)we obtain:M = ar2/G = qqqq qqqq kg .Christine Lee --
+Annotated unit : kilogram
+Tagged unit    : kilogram
+Extracted unit : [kilogram:0.9929640293121338]
+Matched. 
+
+
+Example: 925: 
+Germany adjusted the figure to qqqq metres and that was the official
+Annotated unit : metre
+Tagged unit    : metre
+Extracted unit : [metre:0.5960036516189575]
+Matched. 
+
+
+Example: 926: 
+m, qqqq m or
+Annotated unit : metre
+Tagged unit    : metre
+Extracted unit : null
+Not Matched.
+
+
+Example: 927: 
+m or qqqq m .Read how it came to
+Annotated unit : metre
+Tagged unit    : metre
+Extracted unit : null
+Not Matched.
+
+
+Example: 928: 
+Kilimanjaro altitude was qqqq metres or qqqq ft .This is the Kilimanjaro height
+Annotated unit : metre|foot
+Tagged unit    : metre|feet
+Extracted unit : [metre|foot:3.6332738399505615]
+Matched. 
+
+
+Example: 929: 
+all domestic application varies between qqqq and qqqq V .All domestic voltage equipment are
+Annotated unit : volt
+Tagged unit    : volt
+Extracted unit : [volt:0.08740222454071045]
+Matched. 
+
+
+Example: 930: 
+Voltage Range (can be customized) qqqq -qqqq V /
+Annotated unit : volt
+Tagged unit    : volt
+Extracted unit : [volt:1.0]
+Matched. 
+
+
+Example: 931: 
+AmpsRefrigerators upto qqqq Litres , Water Coolers, Deep Freezers
+Annotated unit : litre
+Tagged unit    : litre
+Extracted unit : [litre:2.0999999046325684]
+Matched. 
+
+
+Example: 932: 
+Water Coolers, Deep Freezers witH qqqq HP 
+Annotated unit : horsepower
+Tagged unit    : horsepower
+Extracted unit : [horsepower:0.699999988079071]
+Matched. 
+
+
+Example: 933: 
+B) plugs are rated at qqqq V .
+Annotated unit : volt
+Tagged unit    : volt
+Extracted unit : null
+Not Matched.
+
+
+Example: 934: 
+B) FactSet expected Microsoft to post earnings of qqqq cents per share  on revenue  
+Annotated unit :  percent
+Tagged unit    : cents per share
+Extracted unit : null
+Not Matched.
+
+
+Example: 935: consumption (kt) in France was qqqq as of 2009. As theAnnotated unit : kiloton
+Tagged unit    : kiloton
+Extracted unit : null
+Not Matched.
+
+
+Example: 936: CO2 emissions from gaseous fuel consumption (% of total) in France was 24.20 as of 2009.Annotated unit :  percent
+Tagged unit    : percent
+Extracted unit : null
+Not Matched.
+
+
