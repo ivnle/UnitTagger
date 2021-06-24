@@ -21,7 +21,7 @@ import java.util.List;
 import java.util.Vector;
 
 public class Co_occurrenceStatistics {
-	public static final String CoOccurFilePath = "configs/cooccurrence.txt";
+	public static final String CoOccurFilePath = "unit_tagger_data/cooccurrence.txt";
 	public QuantityCatalog quantityDict;
 	//	List<String> units = new Vector<String>();
 	//TIntArrayList freqs = new TIntArrayList();
