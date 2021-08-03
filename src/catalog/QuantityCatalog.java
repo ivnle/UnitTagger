@@ -146,6 +146,80 @@ public class QuantityCatalog implements WordFrequency, ConceptTypeScores, Serial
         return toks;
     }
 
+    public static List<List<Integer>> getTokensPos(String name, TIntArrayList brackets, String specialTokens[], TIntArrayList specialTokenPosition) {
+		/*
+		if (name.indexOf(' ') < 0) {
+			List<String> toks = new Vector<String>();
+			toks.add(name);
+			return toks;
+		}
+		List<String> toks =  TableUtils.getTokens(name.toLowerCase().trim(), null, analyzer, false);
+		
+		*/
+        //return Arrays.asList(name.toLowerCase().split(delims));
+        List<List<Integer>> toks = new ArrayList<List<Integer>>();
+        StringTokenizer textTok = new StringTokenizer(name, delims, true);
+        boolean apos = false;
+        Integer start;
+        Integer end;
+        Integer marker = 0;
+        while (textTok.hasMoreTokens()) {
+            String tokStr = textTok.nextToken();
+            start = name.indexOf(tokStr, marker);
+            end = start + tokStr.length();
+            marker = end - 1;
+            if (tokStr.equalsIgnoreCase("s") && apos){
+                continue;
+            }
+                
+            int tpos;
+            if (specialTokens != null && (tpos = ArrayUtils.indexOf(specialTokens, tokStr)) >= 0) {
+                if (specialTokenPosition != null) {
+                    specialTokenPosition.add((tpos << 16) + toks.size());
+                }
+                continue;
+            }
+            if (delims.indexOf(tokStr) == -1 || impDelims.indexOf(tokStr) != -1) {
+                char ch = tokStr.charAt(0);
+                if (ch == '\'') {
+                    apos = true;
+                    continue;
+                } else {
+                    apos = false;
+                }
+                if (ch == '(' || ch == ')' || ch == '[' || ch == ']') {
+                    if (brackets != null) {
+                        if (ch == '(' || ch == '[')
+                            brackets.add(-toks.size());
+                        else {
+                            for (int pos = brackets.size() - 1; pos >= 0; pos--) {
+                                int val = brackets.get(pos);
+                                if (val < 0) {
+                                    // found a match opening bracket..
+                                    brackets.set(pos, ((-val) << 16) + (toks.size() - 1));
+                                    assert (brackets.get(pos) >= 0);
+                                    break;
+                                }
+                            }
+                        }
+                    }
+                } else {
+                    List<Integer> span = new ArrayList<Integer>();
+                    span.add(start);
+                    span.add(end);
+                    toks.add(span);
+                }
+                    
+            }
+        }
+        /* for (int i = 0; i < toks.size(); i++) {
+            if (toks.get(i).length() > 4 && toks.get(i).endsWith("s")) {
+                toks.set(i, toks.get(i).substring(0, toks.get(i).length() - 1));
+            }
+        } */
+        return toks;
+    }
+
     public QuantityCatalog(Element elem) throws IOException, ParserConfigurationException, SAXException {
         this(QuantityReader.loadQuantityTaxonomy((elem != null && elem.hasAttribute("quantity-taxonomy")) ? new FileInputStream(elem.getAttribute("quantity-taxonomy")) : getRelativePath(QuantTaxonomyPath)));
     }

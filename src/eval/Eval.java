@@ -62,7 +62,12 @@ public class Eval {
                 String hdr_masked = hdr.substring(0, num_span.get(0)) + "qqqq" + hdr.substring(num_span.get(1));
 
                 List<? extends EntryWithScore<Unit>> extractedUnits = parser.parseHeaderExplain(hdr_masked, applicableRules, 0, context);
-        
+                
+                List<List<Integer>> tokens = QuantityCatalog.getTokensPos(hdr_masked, null, null, null);
+                System.out.println(hdr_masked);
+                System.out.println(context[0].tokens);
+                System.out.println(tokens);
+
                 if (extractedUnits == null) continue ;
                 for (EntryWithScore<Unit> _unit : extractedUnits) {
                     UnitSpan unitSpan = (UnitSpan) _unit;
@@ -70,12 +75,24 @@ public class Eval {
                     Integer end = unitSpan.end();
                     String unit = unitSpan.getKey().getName();
                     String symbol = unitSpan.getKey().getSymbol();
+                    //TODO map sublist token thing to span
                     System.out.println(context[0].tokens.subList(start, end+1));
                     System.out.println(start + " " + end + " " + unit + " " + symbol);
-
+                    
+                    System.out.println(tokens.subList(start, end+1));                    
+                    
+                    String o = hdr_masked.substring(tokens.get(start).get(0), tokens.get(end).get(1));
+                    System.out.println(o);
+                    
+                    List<Integer> unit_span = new ArrayList<Integer>();
+                    unit_span.add(tokens.get(start).get(0));
+                    unit_span.add(tokens.get(end).get(1));
+                    
+                    //numUnitPred.unit_span = symbol;
                     numUnitPred.num = numUnit.num;
                     numUnitPred.num_span = numUnit.num_span;
                     numUnitPred.unit = unitSpan.getKey().getName();
+                    numUnitPred.unit_span = unit_span;
                     break;
                 }
                 numUnitsPred.add(numUnitPred);
