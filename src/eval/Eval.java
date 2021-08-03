@@ -63,35 +63,43 @@ public class Eval {
 
                 List<? extends EntryWithScore<Unit>> extractedUnits = parser.parseHeaderExplain(hdr_masked, applicableRules, 0, context);
                 
-                List<List<Integer>> tokens = QuantityCatalog.getTokensPos(hdr_masked, null, null, null);
+                List<List<Integer>> tokenPos = QuantityCatalog.getTokensPos(hdr_masked, null, null, null);
                 System.out.println(hdr_masked);
                 System.out.println(context[0].tokens);
-                System.out.println(tokens);
+                System.out.println(tokenPos);
+
 
                 if (extractedUnits == null) continue ;
-                for (EntryWithScore<Unit> _unit : extractedUnits) {
-                    UnitSpan unitSpan = (UnitSpan) _unit;
-                    Integer start = unitSpan.start();
-                    Integer end = unitSpan.end();
-                    String unit = unitSpan.getKey().getName();
-                    String symbol = unitSpan.getKey().getSymbol();
+                for (EntryWithScore<Unit> extractedUnit : extractedUnits) {
+                    UnitSpan extrUnitSpan = (UnitSpan) extractedUnit;
+                    Integer start = extrUnitSpan.start();
+                    Integer end = extrUnitSpan.end();
+                    String unit = extrUnitSpan.getKey().getName();
+                    String symbol = extrUnitSpan.getKey().getSymbol();
+                    
+                    // Keep track of how quant mask changes original string positions
+                    Integer offset = 0;
+                    if (num_span.get(0) < tokenPos.get(start).get(0)) {
+                        offset = num_span.get(1) - num_span.get(0) - 4;
+                    }
+
                     //TODO map sublist token thing to span
                     System.out.println(context[0].tokens.subList(start, end+1));
                     System.out.println(start + " " + end + " " + unit + " " + symbol);
                     
-                    System.out.println(tokens.subList(start, end+1));                    
+                    System.out.println(tokenPos.subList(start, end+1));                    
                     
-                    String o = hdr_masked.substring(tokens.get(start).get(0), tokens.get(end).get(1));
+                    String o = hdr_masked.substring(tokenPos.get(start).get(0), tokenPos.get(end).get(1));
                     System.out.println(o);
                     
                     List<Integer> unit_span = new ArrayList<Integer>();
-                    unit_span.add(tokens.get(start).get(0));
-                    unit_span.add(tokens.get(end).get(1));
+                    unit_span.add(tokenPos.get(start).get(0) + offset);
+                    unit_span.add(tokenPos.get(end).get(1) + offset);
                     
                     //numUnitPred.unit_span = symbol;
                     numUnitPred.num = numUnit.num;
                     numUnitPred.num_span = numUnit.num_span;
-                    numUnitPred.unit = unitSpan.getKey().getName();
+                    numUnitPred.unit = extrUnitSpan.getKey().getName();
                     numUnitPred.unit_span = unit_span;
                     break;
                 }
