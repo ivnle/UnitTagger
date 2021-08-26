@@ -67,9 +67,9 @@ public class Eval {
                 List<? extends EntryWithScore<Unit>> extractedUnits = parser.parseHeaderExplain(hdr_masked, applicableRules, 0, context);
                 
                 List<List<Integer>> tokenPos = QuantityCatalog.getTokensPos(hdr_masked, null, null, null);
-                System.out.println(hdr_masked);
-                System.out.println(context[0].tokens);
-                System.out.println(tokenPos);
+                //System.out.println(hdr_masked);
+                //System.out.println(context[0].tokens);
+                //System.out.println(tokenPos);
 
 
                 if (extractedUnits == null) continue ;
@@ -87,13 +87,13 @@ public class Eval {
                     }
 
                     //TODO map sublist token thing to span
-                    System.out.println(context[0].tokens.subList(start, end+1));
-                    System.out.println(start + " " + end + " " + unit + " " + symbol);
+                    //System.out.println(context[0].tokens.subList(start, end+1));
+                    //System.out.println(start + " " + end + " " + unit + " " + symbol);
                     
-                    System.out.println(tokenPos.subList(start, end+1));                    
+                    //System.out.println(tokenPos.subList(start, end+1));                    
                     
                     String o = hdr_masked.substring(tokenPos.get(start).get(0), tokenPos.get(end).get(1));
-                    System.out.println(o);
+                    //System.out.println(o);
                     
                     List<Integer> unit_span = new ArrayList<Integer>();
                     unit_span.add(tokenPos.get(start).get(0) + offset);
