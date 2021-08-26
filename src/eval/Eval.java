@@ -58,6 +58,9 @@ public class Eval {
             for (NumUnit numUnit : numUnits) {
                 NumUnit numUnitPred = new NumUnit();
                 List<Integer> num_span = numUnit.num_span;
+                // if num_span is empty, continue
+                if (num_span.size() == 0) continue;
+                
                 // replace span of hdr with qqqq
                 String hdr_masked = hdr.substring(0, num_span.get(0)) + "qqqq" + hdr.substring(num_span.get(1));
 
