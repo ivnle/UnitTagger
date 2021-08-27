@@ -24,7 +24,8 @@ public class Eval {
     public static void main(String[] args) throws Exception {
 
         // Read jsonl file from command line into list of examples
-        File inputFile = new File(args[0]);        
+        File inputFile = new File(args[0]);  
+        File outputFile = new File(args[1]);        
         MappingIterator<Example> iterator = new ObjectMapper().readerFor(Example.class).readValues(inputFile);
         List<Example> examples = iterator.readAll();
 
@@ -42,7 +43,7 @@ public class Eval {
         Vector<String> applicableRules = new Vector<String>();
 
         // Init jsonl writer
-        final File outputFile = new File("data/output.jsonl");
+        //final File outputFile = new File("data/output.jsonl");
         ObjectMapper mapper = new ObjectMapper();
         SequenceWriter seq = mapper.writer()
         .withRootValueSeparator("\n") // Important! Default value separator is single space
